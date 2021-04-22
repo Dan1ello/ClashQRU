@@ -1,2 +1,2 @@
 # ClashQ-inRUlang
-Russian language for Clash Quest
+Russian language for Clash Quest (Work in progress..)
