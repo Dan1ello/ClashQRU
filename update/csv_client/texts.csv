@@ -9,10 +9,11 @@ TID_DAY,DAY,ДЕНЬ,,TAG
 TID_AMOUNT_OUT_OF_MAX,<amount> / <max>,<amount> / <max>,,<amount>/<max>
 TID_LEVEL,Level,Уровень,,Level
 TID_LEVEL_NUMBER,Level <num>,Уровень <num>,,Level <num>
-TID_HIT_POINTS,Health <total>,Здоровье <total>,,Trefferpunkte <total>
-TID_HIT_POINTS_CURRENT,Health <current>/<total>,Здоровье <current>/<total>,,Trefferpunkte <current>/<total>
-TID_DAMAGE,Damage <damage>,Урон <damage>,,Schaden <damage>
-TID_DAMAGE_X_N,Damage <damage> x <count>,Урон <damage> x <count>,,Schaden <damage> x <count>
+TID_HIT_POINTS,Health: <total>,Здоровье <total>,,Trefferpunkte <total>
+TID_HIT_POINTS_CURRENT,Health: <current>/<total>,Здоровье <current>/<total>,,Trefferpunkte <current>/<total>
+TID_DAMAGE,Damage: <damage>,Урон: <damage>,,Schaden <damage>
+TID_DAMAGE_X_N,Damage: <damage> x <count>,Урон: <damage> x <count>,,Schaden <damage> x <count>
+TID_DAMAGE_MAX_HEALTH,Damage: One-shot,Урон: Один выстрел,,
 TID_QUEST_TARGET,Target of a Quest. Destroy for extra reward!,Цель Квеста. Разрушай для дополнительной награды!,,"Ziel für eine Quest. Zerstören, um eine zusätzliche Belohnung zu erhalten!"
 TID_ATTACK_COUNTER_IMMEDIATE,Will attack after your turn!,Атакует после твоего хода!,,Greift nach deinem Zug an!
 TID_ATTACK_COUNTER,Will attack in <number> turns,<number> хода до атаки,,Greift in <number> Zügen an.
@@ -85,7 +86,7 @@ TID_OFF,OFF,ВЫКЛ.,,AUS
 TID_SOUNDS,Sound Effects,Звуковые Эффекты,,Soundeffekte
 TID_MUSIC,Music,Музыка,,Musik
 TID_BUTTON_CONNECT,Connect,Подключить,,Verbinden
-TID_WAITING_FOR_PENDING_TRANSACTION,Waiting for pending transaction,Ожидание оплачивания транзакции,,Warte auf ausstehende Transaktion.
+TID_WAITING_FOR_PENDING_TRANSACTION,Waiting for pending transaction,Ожидание оплаты транзакции,,Warte auf ausstehende Transaktion.
 TID_HUD_ENERGY,<VALUE>,<VALUE>,,<VALUE>
 TID_HUD_ENERGY_LONG,<VALUE><cAABED0>/<MAXVALUE></c>,<VALUE><cAABED0>/<MAXVALUE></c>,,<VALUE><cAABED0>/<MAXVALUE></c>
 TID_RATE_APP_TITLE,Rate Clash Quest,Оцените Clash Quest,,Bewerte Clash Quest
@@ -109,12 +110,14 @@ TID_LANGUAGE_BUTTON,Language,Язык,,
 TID_ABOUT,Credits\n\n<names>\n\nClash Quest <version>\nCopyright 2021 Supercell Ltd. All Rights Reserved.\nUS Patent Pending\nAll use of this software is subject to Terms and Conditions and Privacy Policy at www.supercell.com,Авторы\n\n<names>\n\nClash Quest <version>\nCopyright 2021 Supercell Ltd. All Rights Reserved.\nUS Patent Pending\nAll use of this software is subject to Terms and Conditions and Privacy Policy at www.supercell.com,,"Mitwirkende\n\n<names>\n\nClash Quest <version>\nCopyright 2021 Supercell Ltd. Alle Rechte vorbehalten.\nUS-Patent ausstehend\nJegliche Nutzung der Software unterliegt den Nutzungsbedingungen und Datenschutzrichtlinien, die unter www.supercell.com einsehbar sind."
 TID_LANGUAGE_SCREEN_TITLE,Select Language,Выбрать язык,,
 TID_NOT_ENOUGH_PUZZLE_ENERGY,Not enough Energy to play puzzle,Недостаточно энергии для игры в Уровень.,,"Nicht genug Energie, um Rätsel zu spielen"
-TID_NOT_ENOUGH_FARM_ENERGY_TITLE,Out of Farm Energy,Out of Farm Energy,(!),Farmenergie vollständig verbraucht
+TID_NOT_ENOUGH_FARM_ENERGY_TITLE,Out of Farm Energy,Out of Farm Energy,,Farmenergie vollständig verbraucht
 TID_HINT_WELCOME,"Loading Barbarians, Archers, Wizards etc.","Загрузка варваров, лучниц, колдунов и т.д...",,"Lädt Barbaren, Bogenschützinnen, Magier, etc."
 TID_POPUP_NOT_ENOUGH_COINS_TITLE,Not enough gold,Недостаточно Золота,,Nicht genug Gold
 TID_POPUP_NOT_ENOUGH_COINS_TEXT,Use Gems to buy missing gold?,Использовать гемы для покупки недостающего золота?,,"Juwelen verwenden, um fehlendes Gold zu kaufen?"
 TID_POPUP_NOT_ENOUGH_GEMS_TITLE,Not enough Gems,Недостаточно Гемов,,Nicht genug Juwelen
 TID_POPUP_NOT_ENOUGH_GEMS_TEXT,More Gems are needed.\nGo to the Gem Shop?,Необходимо больше Гемов.\nПерейти в магазин Гемов?,,Mehr Juwelen benötigt.\nZum Juwelen-Shop gehen?
+TID_POPUP_NOT_ENOUGH_RESOURCES_TITLE,Not enough resources,Not enough resources,,
+TID_POPUP_NOT_ENOUGH_RESOURCES_TEXT,Use Gems to buy missing resources?,Use Gems to buy missing resources?,,
 TID_SPEEDUP_TITLE,Complete now?,Пройти сейчас?,,Jetzt abschließen?
 TID_SPEEDUP_COST,Speed up cost:,Цена ускорения:,,Kosten für Beschleunigung:
 TID_UNLOCKS,UNLOCKED!,РАЗБЛОКИРОВАНО!,,FREIGESCHALTET!
@@ -123,7 +126,7 @@ TID_SEASON_COMPLETE_TEXT,Congrats for completing a season!,Поздравляе�
 TID_SEASON_COMPLETE_GOODS_SOLD_TEXT,GOLD FROM MARKET,ЗОЛОТО ИЗ МАГАЗИНА,,GOLD VOM MARKT
 TID_SELL_BUTTON,SELL,ПРОДАТЬ,,VERKAUFEN
 TID_DEFAULT_SEARCH_TEXT,INSERT NAME HERE,ВСТАВЬТЕ ИМЯ СЮДА,,HIER NAMEN EINGEBEN
-TID_NH_SEARCH,Search for a clan!,Search for a clan!,(!),Suche einen Clan!
+TID_NH_SEARCH,Search for a clan!,Search for a clan!,,Suche einen Clan!
 TID_NH_CREATE,Create New,Create New,,Neu gründen
 TID_MEMBERS,Members,Members,,Mitglieder
 TID_TAB_BUTTON_ALLIANCE_CHAT,Chat,Chat,,Chat
@@ -188,15 +191,15 @@ TID_SHOP_HEADER_BATTLE_TOKENS,Quest Tokens,Квестовые Токены,,Ques
 TID_SHOP_HEADER_BATTLE_TOKENS_COLOR,cc4141,cc4141,,cc4141
 TID_SHOP_HEADER_ELIXIR_LOOT_BOXES,Elixir Crate,Ящик Эликсира,,Elixierkiste
 TID_SHOP_HEADER_ELIXIR_LOOT_BOXES_COLOR,cc4141,cc4141,,cc4141
-TID_SHOP_DEAL_GOLD,<number> Gold,<number> Золота,,<number> Gold
-TID_SHOP_DEAL_QUEST_TOKEN,One Quest Token,Один Квестовый Токен,,Eine Questmarke
-TID_SHOP_DEAL_QUEST_TOKENS,<number> Quest Tokens,<number> Квестовых Токенов,,<number> Questmarken
-TID_SHOP_DEAL_GEM,One Gem,Один Гем,,Ein Juwel
-TID_SHOP_DEAL_GEMS,<number> Gems,<number> Гемов,,<number> Juwelen
-TID_SHOP_DEAL_ELIXIR,One Elixir,Один Эликсир,,Ein Elixier
-TID_SHOP_DEAL_ELIXIRS,<number> Elixir,<number> Эликсира,,<number> Elixier
-TID_SHOP_DEAL_CAP,One more <name>,<name>,,Noch ein/e <name>
-TID_SHOP_DEAL_CAPS,<number> <name>,<number> <name>,,<number> <name>
+TID_SHOP_DEAL_GOLD,Gold,Gold,,<number> Gold
+TID_SHOP_DEAL_QUEST_TOKEN,Quest Token,Quest Token,,Eine Questmarke
+TID_SHOP_DEAL_QUEST_TOKENS,Quest Tokens,Quest Tokens,,<number> Questmarken
+TID_SHOP_DEAL_GEM,Gem,Gem,,Ein Juwel
+TID_SHOP_DEAL_GEMS,Gems,Gems,,<number> Juwelen
+TID_SHOP_DEAL_ELIXIR,<name> Elixir,<name> Elixir,,Ein Elixier
+TID_SHOP_DEAL_ELIXIRS,<name> Elixir,<name> Elixir,,<number> Elixier
+TID_SHOP_DEAL_CAP,One more <name>,One more <name>,,+1 <name>
+TID_SHOP_DEAL_CAPS,<number> more <name>s,<number> more <name>s,,<number> <name>
 TID_SHOP_GEM_PACK_1,Pile of Gems,Кучка Гемов,,Juwelenhaufen
 TID_SHOP_GEM_PACK_2,Bag of Gems,Мешок Гемов,,Juwelenbeutel
 TID_SHOP_GEM_PACK_3,Bucket of Gems,Ведро Гемов,,Juweleneimer
@@ -204,18 +207,18 @@ TID_SHOP_GEM_PACK_4,Tub of Gems,Ванная Гемов,,Juwelenwanne
 TID_SHOP_GEM_PACK_5,Boat of Gems,Лодка Гемов,,Juwelenschiff
 TID_SHOP_GEM_PACK_6,Wave of Gems,Волна Гемов,,Juwelenwelle
 TID_SHOP_SPECIAL_OFFER,Special Offer,Специальное предложение,,
-TID_SHOP_GOLD_PACK_1,<number> Gold,<number> Золота,,<number> Gold
-TID_SHOP_GOLD_PACK_2,<number> Gold,<number> Золота,,<number> Gold
-TID_SHOP_GOLD_PACK_3,<number> Gold,<number> Золота,,<number> Gold
-TID_SHOP_TOKEN_PACK_1,<number> Quest Tokens,<number> Квестовых Токенов,,<number> Questmarken
-TID_SHOP_TOKEN_PACK_2,<number> Quest Tokens,<number> Квестовых Токенов,,<number> Questmarken
-TID_SHOP_TOKEN_PACK_3,<number> Quest Tokens,<number> Квестовых Токенов,,<number> Questmarken
+TID_SHOP_GOLD_PACK_1,Pouch of Gold,Pouch of Gold,,<number> Gold
+TID_SHOP_GOLD_PACK_2,Bucket of Gold,Bucket of Gold,,<number> Gold
+TID_SHOP_GOLD_PACK_3,Tub of Gold,Tub of Gold,,<number> Gold
+TID_SHOP_TOKEN_PACK_1,Fistful of Quest Tokens,Fistful of Quest Tokens,,<number> Questmarken
+TID_SHOP_TOKEN_PACK_2,Pile of Quest Tokens,Pile of Quest Tokens,,<number> Questmarken
+TID_SHOP_TOKEN_PACK_3,Pouch of Quest Tokens,Pouch of Quest Tokens,,<number> Questmarken
 TID_SHOP_ELIXIR_LOOT_BOX_1,Elixir Crate,Ящик Эликсира,,Elixierkiste
-TID_INFO_ELIXIR_LOOT_BOX,"Gain 20 elixir, randomly distributed between 4 different troops and spells!","В этом ящике  20 эликсира, которые разделяются между 4 разными войсками!",,"20 Elixiereinheiten, die unter 4 verschiedenen Truppenarten geteilt werden!"
+TID_INFO_ELIXIR_LOOT_BOX,"Gain 20 elixir, randomly distributed between 4 different troops and spells!","В этом ящике 20 эликсира, которые разделяются между 4 разными войсками и Заклинаниями!",,"20 Elixiereinheiten, die unter 4 verschiedenen Truppenarten geteilt werden!"
 TID_SHOP_CONFIRM_POPUP_MAX_ELIXIR,Maximum elixir is already reached.\n\nConfirm purchase on alternative reward of <GOLD_AMOUNT> Gold instead?,Максимум кол-ва Эликсира уже достигнуто.\n\nПодтвердить покупку альтернативной награды в виде <GOLD_AMOUNT> Золота?,,Die Obergrenze für Elixier ist bereits erreicht.\n\nStattdessen alternative Belohnung von <GOLD_AMOUNT> Gold kaufen?
 TID_SHOP_UNABLE_TO_BUY_ELIXIR_CRATE_FLOATER,Unable to buy Elixir Crate,Невозможно купить Ящик Эликсира,,Elixierkiste kann nicht gekauft werden
 TID_SHOP_MAX_RESOURCE_CAP_FLOATER,Resource cap reached,Достигнуто ограничение по ресурсам,,Ressourcen-Obergrenze erreicht
-TID_SHOP_FOR,For <NAME>s,Для воина <NAME>,,Für <NAME>
+TID_SHOP_FOR,For <NAME>,Для воина <NAME>,,Für <NAME>
 TID_AREA_REWARDS,Rewards,Награды,,Belohnungen
 TID_ADD_MOVES_AND_CONTINUE,Continue with <num> move moves?,Продолжить с <num> ходами?,,Mit <num> Zügen weitermachen?
 TID_BUTTON_CONTINUE,Continue,Продолжить,,Fortfahren
@@ -305,8 +308,8 @@ TID_ERROR_POP_UP_UNSUPPORTED_COUNTRY_TITLE,Login failed,Ошибка Входа,
 TID_ERROR_POP_UP_UNSUPPORTED_COUNTRY,"Sorry, this game is not available in your country yet.","Извините, игра пока недоступна в вашей стране.",,"Tut uns leid, dieses Spiel ist in deinem Land leider noch nicht verfügbar!"
 TID_ERROR_POP_UP_UNSUPPORTED_COUNTRY_BUTTON,OK,ОК,,Okay
 TID_AVATAR_MESSAGE_SENDER_PLAYER_SUPPORT,Player Support,Поддержка,,Spieler-Support
-TID_AVATAR_MESSAGE_TEXT_GEM_REVOKE,"A refund was requested for this account and it has been approved on <refundDate>. The refund will be made to the form of payment used when the order was made.\n\nA total of <totalRevokedGems> gems have been deducted from your account, to match the value of your refund. This may result in a negative gem balance. A positive balance can be restored by making additional orders and collecting resources in-game.","Возвращение денег было запрошено и было одобрено <refundDate>. Деньги будут возвращены туда, через что была совершена покупка.\n\nГемов было вычтено: <totalRevokedGems>. Возвращение может повлечь за собой негативное кол-во Гемов. Позитивное кол-во Гемов можно вернуть путем покупки в магазине или получения иным внутриигровым способом.",,"Es wurde eine Rückerstattung für dieses Konto beantragt, die am <refundDate> genehmigt wurde. Die Rückerstattung erfolgt mittels der Zahlungsart, die bei der Bestellung verwendet wurde.\n\nDeinem Konto wurden insgesamt <totalRevokedGems> Juwelen abgezogen, um den Wert deiner Rückerstattung auszugleichen. Das kann zu einer negativen Juwelen-Bilanz führen. Eine positive Bilanz lässt sich durch zusätzliche Bestellungen und das Sammeln von Ressourcen im Spiel erreichen."
-TID_AVATAR_MESSAGE_TEXT_GEM_REVOKE_PLURAL,"Refunds were requested for this account and they have been approved on <refundDate>. The refunds will be made to the form of payment used when the orders were made.\n\nA total of <totalRevokedGems> gems have been deducted from your account, to match the value of your refunds. This may result in a negative gem balance. A positive balance can be restored by making additional orders and collecting resources in-game.","Возвращение денег было запрошено и было одобрено <refundDate>. Деньги будут возвращены туда, через что была совершена покупка.\n\nГемов было вычтено: <totalRevokedGems>. Возвращение может повлечь за собой негативное кол-во Гемов. Позитивное кол-во Гемов можно вернуть путем покупки в магазине или получения иным внутриигровым способом.",,"Es wurden Rückerstattungen für dieses Konto beantragt, die am <refundDate> genehmigt wurden. Die Rückerstattungen erfolgen mittels der Zahlungsart, die bei den Bestellungen verwendet wurde.\n\nDeinem Konto wurden insgesamt <totalRevokedGems> Juwelen abgezogen, um den Wert deiner Rückerstattungen auszugleichen. Das kann zu einer negativen Juwelen-Bilanz führen. Eine positive Bilanz lässt sich durch zusätzliche Bestellungen und das Sammeln von Ressourcen im Spiel erreichen."
+TID_AVATAR_MESSAGE_TEXT_GEM_REVOKE,"A refund was requested for this account and it has been approved on <refundDate>. The refund will be made to the form of payment used when the order was made.\n\nA total of <totalRevokedGems> gems have been deducted from your account, to match the value of your refund. This may result in a negative gem balance. A positive balance can be restored by making additional orders and collecting resources in-game.","Возврат средств был запрошен и было одобрено <refundDate>. Деньги будут возвращены туда, через что была совершена покупка.\n\nГемов было вычтено: <totalRevokedGems>. Возвращение может повлечь за собой негативное кол-во Гемов. Позитивное кол-во Гемов можно вернуть путем покупки в магазине или получения иным внутриигровым способом.",,"Es wurde eine Rückerstattung für dieses Konto beantragt, die am <refundDate> genehmigt wurde. Die Rückerstattung erfolgt mittels der Zahlungsart, die bei der Bestellung verwendet wurde.\n\nDeinem Konto wurden insgesamt <totalRevokedGems> Juwelen abgezogen, um den Wert deiner Rückerstattung auszugleichen. Das kann zu einer negativen Juwelen-Bilanz führen. Eine positive Bilanz lässt sich durch zusätzliche Bestellungen und das Sammeln von Ressourcen im Spiel erreichen."
+TID_AVATAR_MESSAGE_TEXT_GEM_REVOKE_PLURAL,"Refunds were requested for this account and they have been approved on <refundDate>. The refunds will be made to the form of payment used when the orders were made.\n\nA total of <totalRevokedGems> gems have been deducted from your account, to match the value of your refunds. This may result in a negative gem balance. A positive balance can be restored by making additional orders and collecting resources in-game.","Возврат средств был запрошен и было одобрено <refundDate>. Деньги будут возвращены туда, через что была совершена покупка.\n\nГемов было вычтено: <totalRevokedGems>. Возвращение может повлечь за собой негативное кол-во Гемов. Позитивное кол-во Гемов можно вернуть путем покупки в магазине или получения иным внутриигровым способом.",,"Es wurden Rückerstattungen für dieses Konto beantragt, die am <refundDate> genehmigt wurden. Die Rückerstattungen erfolgen mittels der Zahlungsart, die bei den Bestellungen verwendet wurde.\n\nDeinem Konto wurden insgesamt <totalRevokedGems> Juwelen abgezogen, um den Wert deiner Rückerstattungen auszugleichen. Das kann zu einer negativen Juwelen-Bilanz führen. Eine positive Bilanz lässt sich durch zusätzliche Bestellungen und das Sammeln von Ressourcen im Spiel erreichen."
 TID_SHOP_CATEGORY_PUZZLE_PASS,Puzzle Pass,Puzzle Pass,,Rätselpass
 TID_SHOP_CATEGORY_CHRONOS_OFFERS,Special Offers,Специальное Предложения,,Sonderangebote
 TID_SHOP_CATEGORY_OFFERS,Offers,Предложения,,Angebote
@@ -323,7 +326,8 @@ TID_REGION_1_NAME,Goblin Kingdom,Королевство гоблинов,,Kobold
 TID_REGION_2_NAME,Lava Land,Лавовые Земли,,Lavaland
 TID_REGION_3_NAME,Shock Shores,Электрические Края,,Schockufer
 TID_REGION_4_NAME,Elixir Springs,Источники Эликсира,,Elixierquelle
-TID_MAP_NODE_1_NAME,Shifty Beach,Shifty Beach,(!),Risikostrand
+TID_REGION_5_NAME,Lava Jungle,Лавовые Джунгли,,
+TID_MAP_NODE_1_NAME,Shifty Beach,Shifty Beach,,Risikostrand
 TID_MAP_NODE_2_NAME,Palmtree Bank,Palmtree Bank,,Palmenküste
 TID_MAP_NODE_3_NAME,Unsafe Island,Unsafe Island,,Unsichere Insel
 TID_MAP_NODE_4_NAME,Armored Cay,Armored Cay,,Rüstungsinsel
@@ -336,11 +340,11 @@ TID_MAP_NODE_10_NAME,Roaster Rock,Roaster Rock,,Brutzelfels
 TID_MAP_NODE_11_NAME,Red-Hot Heights,Red-Hot Heights,,Glühender Gipfel
 TID_MAP_NODE_12_NAME,Magma Bank,Magma Bank,,Magmaufer
 TID_MAP_NODE_13_NAME,Hot Pot,Hot Pot,,Siedendes Plateau
-TID_MAP_NODE_14_NAME,Burnmark Mountain,Burnmark Mountain,,Brandmalberg
-TID_MAP_NODE_15_NAME,P.E.K.K.A's Pool,P.E.K.K.A's Pool,,P.E.K.K.A.s Pool
+TID_MAP_NODE_14_NAME,P.E.K.K.A's Pool,P.E.K.K.A's Pool,,P.E.K.K.A.s Pool
+TID_MAP_NODE_15_NAME,Burnmark Mountain,Burnmark Mountain,,Brandmalberg
 TID_MAP_NODE_16_NAME,Pointy Ridge,Pointy Ridge,,Zackenberge
-TID_MAP_NODE_17_NAME,Scorching Skull,Scorching Skull,,Sengender Schädel
-TID_MAP_NODE_18_NAME,Bone Pickin's,Bone Pickin's,,Knochensplitter
+TID_MAP_NODE_17_NAME,Bone Pickin's,Bone Pickin's,,Knochensplitter
+TID_MAP_NODE_18_NAME,Scorching Skull,Scorching Skull,,Sengender Schädel
 TID_MAP_NODE_19_NAME,Mount Charge,Mount Charge,,Sturmberg
 TID_MAP_NODE_20_NAME,Reinforced Rock,Reinforced Rock,,Verstärkter Fels
 TID_MAP_NODE_21_NAME,Electro Mound,Electro Mound,,Elektrowall
@@ -359,17 +363,17 @@ TID_MAP_NODE_33_NAME,Brewholm,Brewholm,,Insel des Brauens
 TID_MAP_NODE_34_NAME,Elixir Depot,Elixir Depot,,Elixierdepot
 TID_MAP_NODE_35_NAME,Mount Keg,Mount Keg,,Fässchenberg
 TID_MAP_NODE_36_NAME,Glass Cutter Heap,Glass Cutter Heap,,Glasschneiderhügel
-TID_MAP_NODE_37_NAME,Placeholder name for node 37,Placeholder name for node 37,,Placeholder name for node 37
-TID_MAP_NODE_38_NAME,Placeholder name for node 38,Placeholder name for node 38,,Placeholder name for node 38
-TID_MAP_NODE_39_NAME,Placeholder name for node 39,Placeholder name for node 39,,Placeholder name for node 39
-TID_MAP_NODE_40_NAME,Placeholder name for node 40,Placeholder name for node 40,,Placeholder name for node 40
-TID_MAP_NODE_41_NAME,Placeholder name for node 41,Placeholder name for node 41,,Placeholder name for node 41
-TID_MAP_NODE_42_NAME,Placeholder name for node 42,Placeholder name for node 42,,Placeholder name for node 42
-TID_MAP_NODE_43_NAME,Placeholder name for node 43,Placeholder name for node 43,,Placeholder name for node 43
-TID_MAP_NODE_44_NAME,Placeholder name for node 44,Placeholder name for node 44,,Placeholder name for node 44
-TID_MAP_NODE_45_NAME,Placeholder name for node 45,Placeholder name for node 45,,Placeholder name for node 45
-TID_MAP_NODE_46_NAME,Placeholder name for node 46,Placeholder name for node 46,,Placeholder name for node 46
-TID_MAP_NODE_47_NAME,Placeholder name for node 47,Placeholder name for node 47,,Placeholder name for node 47
+TID_MAP_NODE_37_NAME,Magma Heights,Magma Heights,,
+TID_MAP_NODE_38_NAME,P.E.K.K.A's Place,P.E.K.K.A's Place,,
+TID_MAP_NODE_39_NAME,Lava Flows,Lava Flows,,
+TID_MAP_NODE_40_NAME,Hell's Sink,Hell's Sink,,
+TID_MAP_NODE_41_NAME,Burnt Ridges,Burnt Ridges,,
+TID_MAP_NODE_42_NAME,Hot Hut,Hot Hut,,
+TID_MAP_NODE_43_NAME,Pick-A-Pool,Pick-A-Pool,,
+TID_MAP_NODE_44_NAME,Glaring Gaze,Glaring Gaze,,
+TID_MAP_NODE_45_NAME,Sizzle Isle,Sizzle Isle,,
+TID_MAP_NODE_46_NAME,Bone Hammock,Bone Hammock,,
+TID_MAP_NODE_47_NAME,Mount Hound,Mount Hound,,
 TID_MAP_NODE_48_NAME,Placeholder name for node 48,Placeholder name for node 48,,Placeholder name for node 48
 TID_MAP_NODE_49_NAME,Placeholder name for node 49,Placeholder name for node 49,,Placeholder name for node 49
 TID_MAP_NODE_50_NAME,Placeholder name for node 50,Placeholder name for node 50,,Placeholder name for node 50
@@ -424,13 +428,13 @@ TID_CARD_BOMBER_DESCRIPTION,"Bomber chucks a bomb to the enemy side of the battl
 TID_CARD_GOBLIN,Goblin,Гоблин,,Kobold
 TID_CARD_GOBLIN_DESCRIPTION,"Goblin is attracted to gold, first and foremost, and deals double damage to gold storages. When there are no gold storages left, he attacks whatever enemy is the closest.","Гоблины в первую очередь атакуют Хранилища Золота, при этом нанося им двойной урон. Когда Хранилищ не остается, то он атакует ближайшую цель.",,"Der Kobold wird in erster Linie von Gold angezogen und fügt Goldlagern doppelten Schaden zu. Wenn keine Goldlager mehr übrig sind, greift er den Gegner an, der ihm am nächsten ist."
 TID_CARD_BABY_DRAGON,Baby Dragon,Дракончик,,Drachenbaby
-TID_CARD_BABY_DRAGON_DESCRIPTION,Baby Dragon flies above the battlefield and attacks straight across the battlefield - breathing fire on all enemies along the way.,Baby Dragon flies above the battlefield and attacks straight across the battlefield - breathing fire on all enemies along the way.,,Das Drachenbaby fliegt in gerader Linie über das Schlachtfeld und spuckt dabei aus der Luft Feuer auf alle Gegner unter ihm.
+TID_CARD_BABY_DRAGON_DESCRIPTION,Baby Dragon flies above the battlefield and attacks straight across the battlefield - breathing fire on all enemies along the way.,"Дракончик пролетает над полем боя и атакует только по прямой, дыша огнем на всех врагов на своем пути.",,Das Drachenbaby fliegt in gerader Linie über das Schlachtfeld und spuckt dabei aus der Luft Feuer auf alle Gegner unter ihm.
 TID_CARD_FIREBALL,Fireball,Огненный шар,,Feuerball
 TID_CARD_FIREBALL_DESCRIPTION,A ball of fire that deals damage to a 3x3 area.,Этот шар из огня наносит урон по 3х3 области.,,"Ein Projektil aus reinem Feuer, das Schaden auf einer Fläche von 3x3 Feldern verursacht."
 TID_CARD_ZAP,Zap,Молния,,Knallzauber
 TID_CARD_ZAP_DESCRIPTION,Zap deals damage and stuns enemies for few turns.,Молния наносит урон и оглушает врагов на несколько ходов.,,Der Knallzauber verursacht Schaden und betäubt Feinde für ein paar Züge.
 TID_CARD_LOG,The Log,Бревно,,Kampfholz
-TID_CARD_LOG_DESCRIPTION,"Log rolls through the battlefield, dealing damage to enemies along its path.","Бревно прокатывается через поле битвы, нанося урон всем, кто находится на его пути.",,Das Kampfholz rollt über das Schlachtfeld und fügt allen Feinden in seinem Weg Schaden zu.
+TID_CARD_LOG_DESCRIPTION,"The Log rolls through the battlefield, dealing damage to enemies along its path.","Бревно прокатывается через поле битвы, нанося урон всем, кто находится на его пути.",,Das Kampfholz rollt über das Schlachtfeld und fügt allen Feinden in seinem Weg Schaden zu.
 TID_CARD_ROCKET,Rocket,Ракета,,Rakete
 TID_CARD_ROCKET_DESCRIPTION,Rocket deals very high damage to a single target.,Ракета наносит очень большой урон единичной цели.,,Eine Rakete verursacht sehr hohen Schaden an einem einzelnen Ziel.
 TID_CARD_RUSH,Rush,Атака,,Vorstoß
@@ -441,35 +445,45 @@ TID_CARD_STEP,Swap,Смена,,Positionstausch
 TID_CARD_STEP_DESCRIPTION,"Swap the placing of two adjacent troops, or move a unit to an empty square next to it.",Меняет положение двух воинов или перемещает его на свободную клетку рядом.,,Tausche die Position von zwei nebeneinander stehenden Einheiten oder bewege eine Einheit auf ein leeres Feld neben ihr.
 TID_CARD_CHARGE,Charge,Ярость,,Sturmangriff
 TID_CARD_CHARGE_DESCRIPTION,"Attack with all troops of the same type, regardless of their location on the battlefield.","Атака из всех воинов одного типа, несмотря на их положения на поле.",,"Alle Truppen desselben Typs greifen gemeinsam an, unabhängig von ihrer Position auf dem Schlachtfeld."
+TID_CARD_HEAL,Bless,Лечение,,
+TID_CARD_HEAL_DESCRIPTION,"Increases maximum Health points of a selected troop, and then fully heals them.","Increases maximum Health points of a selected troop, and then fully heals them.",,
+TID_CARD_MINION,Minion,Миньон,,
+TID_CARD_MINION_DESCRIPTION,Minions are flying troops that attack the closest enemy on the battlefield.,Minions are flying troops that attack the closest enemy on the battlefield.,,
+TID_CARD_FRONTLINE,Frontline,Frontline,,
+TID_CARD_FRONTLINE_DESCRIPTION,Pushes the selected troop to the front of the Column.,Pushes the selected troop to the front of the Column.,,
+,,,,
 TID_CARD_MAX_LEVEL,MAX LEVEL,МАКСИМАЛЬНЫЙ УРОВЕНЬ,,MAXIMALER LEVEL
-TID_CARD_LEVEL_COLOR,<caaaaaa>Level</c> <level>,<caaaaaa>Level</c> <level>,,<caaaaaa>Level</c> <level>
-TID_STAGE_CLEARED_HEADER,Stage <number>/<total>,Стадия: <number>/<total>,,Phase <number>/<total>
+TID_CARD_LEVEL_COLOR,<caaaaaa>Level</c> <level>,<caaaaaa>Уровень</c> <level>,,<caaaaaa>Level</c> <level>
+TID_STAGE_CLEARED_HEADER,Stage <number>/<total>,<number> стадия из <total>,,Phase <number>/<total>
 TID_STAGE_CLEARED_HEADER_ENDLESS,Stage <number>,Стадия <number>,,Phase <number>
-TID_STAGE_CLEARED_FOOTER,CLEARED!,ЗАЧИЩЕНО!,,ABGESCHLOSSEN!
-TID_ENERGY_DUMPED_FOOTER,EXPLORED!,ИЗУЧЕНО!,,
+TID_STAGE_CLEARED_FOOTER,CLEARED!,ЗАЧИЩЕНО,,ABGESCHLOSSEN!
+TID_ENERGY_DUMPED_FOOTER,EXPLORED!,ИЗУЧЕНО,,
 TID_LEVEL_END_HEADER,YOU CLEARED,ТЫ ПРОШЕЛ,,GESCHAFFT:
 TID_LEVEL_END_HEADER_DUNGEON,YOU'VE CLEARED,ТЫ ПРОШЕЛ,,GESCHAFFT:
 TID_LEVEL_END_HEADER_COMPLETED,LEVEL,УРОВЕНЬ,,LEVEL
 TID_LEVEL_END_HEADER_COMPLETED_DUNGEON,DUNGEON,ПОДЗЕМЕЛЬЕ,,DUNGEON
-TID_LEVEL_END_HEADER_BOSS_VICTORY,YOU DEFEATED THE,ВЫ ОДОЛЕЛИ,,BESIEGT:
-TID_LEVEL_END_HEADER_BOSS_DEFEAT,YOU LOST TO THE,ВАС ОДОЛЕЛ,,BESIEGT VON:
-TID_LEVEL_END_MAIN,<number>/<total> stages,Стадия: <number>/<total>,,<number>/<total> Phasen
-TID_LEVEL_END_MAIN_SINGULAR,<number>/1 stage,Стадия: <number>/1,,<number>/1 Phase
-TID_LEVEL_END_MAIN_COMPLETED,COMPLETED!,ПРОЙДЕН!,,ABGESCHLOSSEN!
-TID_LEVEL_END_MAIN_ENDLESS,<number> stages,Стадия: <number>/<total>,,<number> Phasen
+TID_LEVEL_END_HEADER_BOSS_VICTORY,YOU DEFEATED THE,ТЫ ОДОЛЕЛ,,BESIEGT:
+TID_LEVEL_END_HEADER_BOSS_DEFEAT,YOU LOST TO THE,ТЕБЯ ОДОЛЕЛ,,BESIEGT VON:
+TID_LEVEL_END_MAIN,<number>/<total> stages,<number> из <total> стадий,,<number>/<total> Phasen
+TID_LEVEL_END_MAIN_SINGULAR,<number>/1 stage,<number> из 1 стадии,,<number>/1 Phase
+TID_LEVEL_END_MAIN_COMPLETED,COMPLETED!,ПРОЙДЕНО,,ABGESCHLOSSEN!
+TID_LEVEL_END_MAIN_ENDLESS,<number> stages,<number> стадий,,<number> Phasen
 TID_LEVEL_END_MAIN_ENDLESS_SINGULAR,1 stage,1 стадия,,1 Phase
 TID_LEVEL_END_ENDLESS_DEFENSES,<number> defenses,<number> защ. сооруж.,,<number> Verteidigungen
 TID_LEVEL_END_ENDLESS_DEFENSES_SINGULAR,1 defense,1 защ. сооруж.,,1 Verteidigung
 TID_CHEST_GAINED,,,,
-TID_NEXT_LEVEL_UNLOCKED,Next level unlocked!,Новый уровень открыт!,,Nächstes Level freigeschaltet!
+TID_NEXT_LEVEL_UNLOCKED,Next level unlocked!,Открыт следующий уровень!,,Nächstes Level freigeschaltet!
 TID_NEXT_NODE_UNLOCKED,Island unlocked!,Остров открыт!,,Insel freigeschaltet!
 TID_NEXT_NODES_UNLOCKED,Islands unlocked!,Острова открыты!,,Inseln freigeschaltet!
 TID_NEW_HIGHSCORE,New highscore!,Новый рекорд!,,Neuer Highscore!
 TID_BOSS_NAME_LAVAGOLEM,Lava Golem,Лавовый Голем,,Lavagolem
 TID_BOSS_NAME_PAPADRAGON,Papa Dragon,Папа Дракон,,Drachenvater
 TID_BOSS_NAME_GOBLIN,Goblin King,Король Гоблинов,,Koboldkönig
+TID_BOSS_NAME_WITCH,Witch Queen,Королева Ведьм,,
+TID_BOSS_NAME_LAVAHOUND,Lava Hound,Адская Гончая,,
 TID_GOLD,Gold,Золото,,Gold
 TID_ELIXIR,Elixir,Эликсир,,Elixier
+TID_STAR,Star,Звезда,,
 TID_NOT_ENOUGH_ELIXIR,You need more <cFD35ED>Elixir</c> for this upgrade.\n\nGet more <cFD35ED>Elixir</c> by clearing levels.,Вам нужно больше <cFD35ED>Эликсира</c> для этого улучшения.\n\nПолучите больше <cFD35ED>Эликсира</c> проходя уровни.,,"Du brauchst mehr <cFD35ED>Elixier</c> für diese Verbesserung.\n\nSammle mehr <cFD35ED>Elixier</c>, indem du Level abschließt."
 TID_NOT_ENOUGH_GOLD,You need more <cF8A203>Gold</c> for this upgrade.\n\nGet more <cF8A203>Gold</c> by destroying enemy defenses.,Вам нужно больше <cF8A203>Золота</c> Для этого улучшения.\n\nПолучите больше <cF8A203>Золота</c> путем разрушения оборонительных сооружений проьивника.,,"Du brauchst mehr <cF8A203>Gold</c> für diese Verbesserung.\n\nSammle mehr <cF8A203>Gold</c>, indem du feindliche Verteidigungen zerstörst."
 TID_NOT_ENOUGH_ENERGY_SCROLL,You don't have enough Quest Tokens!,У вас недостаточно Квестовых Токенов!,,Du hast nicht genug Questmarken!
@@ -506,21 +520,21 @@ TID_ITEM_REQUIREMENT,x combo required.,x Комбо требуется.,,-fache 
 TID_ITEM_REQUIREMENT_ACTIVE,Attack with <NUMBER> or more units to activate the item power.,Атакуйте с <NUMBER> или большим кол-вом воинов для активации предмета.,,"Greife mit <NUMBER> oder mehr Einheiten an, um die Kraft des Gegenstands zu aktivieren."
 TID_ITEM_REQUIREMENT_PASSIVE,Build a group of <NUMBER> or more units on your board to activate the item power.,Создайте группу из <NUMBER> или больше для активации предмета.,,"Bilde eine Gruppe von <NUMBER> oder mehr Einheiten auf deinem Spielfeld, um die Kraft des Gegenstands zu aktivieren."
 TID_BADGE_NEW,NEW,НОВОЕ,,NEU
-TID_CAP_EXPLANATION_SINGULAR,"You have 1 <NAME>, out of maximum of <MAX>.",У вас 1 <NAME> из максимальных <MAX>.,,Du hast 1 <NAME> von maximal <MAX>.
-TID_CAP_EXPLANATION,"You have <NUMBER> <NAME>s, out of maximum of <MAX>.",У вас <NUMBER> из максимальных <MAX>.,,Du hast <NUMBER> <NAME> von maximal <MAX>.
+TID_CAP_EXPLANATION_SINGULAR,"You have 1 <NAME> in your Squad, out of maximum of <MAX>.",У вас 1 <NAME> из максимальных <MAX>.,,Du hast 1 <NAME> von maximal <MAX>.
+TID_CAP_EXPLANATION,"You have <NUMBER> <NAME>s in your Squad, out of maximum of <MAX>.",У вас <NUMBER> из максимальных <MAX>.,,Du hast <NUMBER> <NAME> von maximal <MAX>.
 TID_QUEST_DESCRIPTION_BARREL,"A squad of Bombers has rigged the base with explosive barrels. There's a nice reward for taking care of them! But beware, the rest will flee after the fight!","Команда Бомберов заминировала базу взрывными бочками. Тебе положена хорошая награда, если ты разберешься с ними! Правда, вся территория взлетит на воздух после битвы...",,"Eine Gruppe Bombenwerfer hat diese Basis mit explosiven Fässern befestigt. Es gibt eine nette Belohnung, wenn du dich um sie kümmerst! Aber nimm dich in Acht, der Rest wird nach dem Kampf fliehen!"
 TID_QUEST_DESCRIPTION_WAGON,Spear Goblins are escorting a treasure wagon through the base. Now would be a good time to relieve them of the burden!,Гоблины-Копейщики перевозят вагон с сокровищами. У тебя есть шанс разбогатеть!,,"Speerkobolde eskortieren einen Wagen mit Schätzen durch die Basis. Jetzt wäre ein guter Zeitpunkt, um sie ihrer Last zu entledigen!"
 TID_BUTTON_TEMP_UNIT,Temp Unit,Не найдено,,Temporäre Einheit
 TID_CARD_NOT_YET_UNLOCKED,"You haven't found this unit yet, but you can use it in today's League battles!","Вы еще не нашли этого воина, но вы можете использовать его в сегодняшних битвах Лиги!",,"Du hast diese Einheit noch nicht entdeckt, aber du kannst sie in den heutigen Ligakämpfen einsetzen!"
 TID_BUTTON_MAXED,Maxed Out!,Достигнут Максимум!,,Voll!
 TID_HEADER_YOUR_ARMY,Your Army,Ваши Воины,,Deine Armee
-TID_HEADER_SPELLS_AND_TACTICS,Spells & Tactics,Зелья & Тактики,,Zauber & Taktiken
+TID_HEADER_SPELLS_AND_TACTICS,Spells & Tactics,Заклинания & Книги,,Zauber & Taktiken
 TID_HEADER_REWARDS,Rewards,Награды,,Belohnungen
 TID_HEADER_REINFORCEMENTS,Refill units,Воинов Подкрепления,,Einheiten auffüllen
 TID_HEADER_SELECT_REINFORCEMENTS,Select a refill,Выберите Подкрепление,,Was soll aufgefüllt werden?
-TID_HEADER_SELECT_REFILL_SPELL,Select a refill,Выберите Подкрепление,,Was soll aufgefüllt werden?
+TID_HEADER_SELECT_REFILL_SPELL,Select a refill,Выберите Заклинание,,Was soll aufgefüllt werden?
 TID_HEADER_SELECT_REFILL_UNIT,Select a refill,Выберите Подкрепление,,Was soll aufgefüllt werden?
-TID_HEADER_SELECT_REFILL_TACTIC,Select a refill,Выберите Подкрепление,,Was soll aufgefüllt werden?
+TID_HEADER_SELECT_REFILL_TACTIC,Select a refill,Выберите Книгу,,Was soll aufgefüllt werden?
 TID_CHEST_ALREADY_OPENED,You´ve already looted this Chest.,Вы уже получили награду из этого сундука,,Du hast diese Truhe bereits geplündert.
 TID_CHEST_AVAILABLE,Get this Chest by clearing stage <number>.,"Получите этот сундук, пройдя стадию <number>.",,"Hol dir diese Truhe, indem du Phase <number> abschließt."
 TID_HEADER_CHALLENGE,Day <DAY>/<SEASON>,День <DAY>/<SEASON>,,Tag <DAY>/<SEASON>
@@ -554,10 +568,13 @@ TID_PEKKASWORD_3,Dual Blade,Двойная Катана,,Doppelklinge
 TID_BOMB_1,Ice Bomb,Ледяная Бомба,,Eisbombe
 TID_BOMB_2,Heavy Bomb,Тяжелая Бомба,,Schwere Bombe
 TID_BOMB_3,Rage Bomb,Бомба Ярости,,Wutbombe
+TID_MINIONGAUNTLET_1,Explosive Gloves,Explosive Gloves,,Explosive Handschuhe
+TID_MINIONGAUNTLET_2,Revenge Gloves,Revenge Gloves,,Dynamikhandschuhe
+TID_MINIONGAUNTLET_3,Double Gloves,Double Gloves,,Starke Handschuhe
 TID_COLLAR_1,Scattering Collar,Рассеивающий Ошейник,,Streukragen
 TID_COLLAR_2,Fire Collar,Огненный Ошейник,,Feuerkragen
 TID_COLLAR_3,Force Collar,Ошейник Силы,,Machtkragen
-TID_AXE_1,Fast Axe,Топор Быстроты,,Schnelle Axt
+TID_AXE_1,Fast Axe,Fast Axe,,Schnelle Axt
 TID_AXE_2,Parry Axe,Parry Axe,,Parieraxt
 TID_AXE_3,Lightning Axe,Lightning Axe,,Blitzaxt
 TID_BATTERY_1,Sparky Battery,Sparky Battery,,Knisternde Batterie
@@ -566,35 +583,38 @@ TID_BATTERY_3,Shielding Battery,Shielding Battery,,Abschirmende Batterie
 TID_QUIVER_1,Large Quiver,Large Quiver,,Großer Köcher
 TID_QUIVER_2,Fine Quiver,Fine Quiver,,Edler Köcher
 TID_QUIVER_3,Dark Quiver,Dark Quiver,,Dunkler Köcher
-TID_BOW_1_INFO,Sets target on fire <RARITY_COLOR>(<ATTRIBUTE_1>% damage per turn)</c>. The neighboring tiles can also catch the fire with 50% chance.,Поджигает цель <RARITY_COLOR>(<ATTRIBUTE_1>% урона за ход)</c>. Соседние здания также могут поджечься с шансом 50%.,,"Steckt Ziele in Brand <RARITY_COLOR>(<ATTRIBUTE_1> % Schaden pro Runde)</c>. Die benachbarten Felder haben eine 50%ige Wahrscheinlichkeit, ebenfalls in Brand zu geraten."
-TID_BOW_2_INFO,<RARITY_COLOR><CHANCE_1>% chance</c> for an extra shot <RARITY_COLOR>(+<ATTRIBUTE_1>% damage).</c>,<RARITY_COLOR><CHANCE_1>% шанс</c> дополнительного выстрела <RARITY_COLOR>(+<ATTRIBUTE_1>% урона).</c>,,<RARITY_COLOR><CHANCE_1>%ige Chance</c> auf einen zusätzlichen Schuss <RARITY_COLOR>(+<ATTRIBUTE_1> % Schaden).</c>
-TID_BOW_3_INFO,Causes <RARITY_COLOR>+<ATTRIBUTE_1>% more damage</c>.,<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>.,,Verursacht <RARITY_COLOR><ATTRIBUTE_1> % mehr Schaden</c>.
-TID_SWORD_1_INFO,<RARITY_COLOR><CHANCE_1>% chance</c> for a critical hit with <RARITY_COLOR>+<ATTRIBUTE_1>% more damage</c>.,<RARITY_COLOR><CHANCE_1>% шанс</c> критического урона <RARITY_COLOR>(2x урон)</c>.,,<RARITY_COLOR><CHANCE_1>%ige Chance</c> auf einen kritischen Treffer <RARITY_COLOR>(2-facher Schaden)</c>.
-TID_SWORD_2_INFO,<RARITY_COLOR>Blocks <ATTRIBUTE_1>%</c> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens.
-TID_SWORD_3_INFO,Gives a <RARITY_COLOR>+<ATTRIBUTE_1>% attack boost</c> when wounded.,"<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>, когда Варвар ранен.",,Verleiht einen <RARITY_COLOR><ATTRIBUTE_1>%igen Angriffsboost</c> bei Verwundung.
-TID_BRACELET_1_INFO,Sets target on fire for 5 turns <RARITY_COLOR>(<ATTRIBUTE_1>% of full damage per turn).</c>,Поджигает цель на 5 ходов <RARITY_COLOR>(<ATTRIBUTE_1>% от всего урона каждый ход).</c>,,Steckt Ziele 5 Züge lang in Brand <RARITY_COLOR>(<ATTRIBUTE_1> % des regulären Schadens pro Zug).</c>
-TID_BRACELET_2_INFO,<RARITY_COLOR><CHANCE_1>% chance</c> of spawning two smaller fireballs <RARITY_COLOR>(<ATTRIBUTE_1>% of full damage)</c> to random targets.,"<RARITY_COLOR><CHANCE_1>% шанс</c> появления 2 маленьких огненных шара <RARITY_COLOR>(<ATTRIBUTE_1>% от всего урона)</c>, которые направляются к случайным целям.",,"<RARITY_COLOR><CHANCE_1>%ige Chance</c>, zwei kleinere Feuerbälle <RARITY_COLOR>(<ATTRIBUTE_1> % des regulären Schadens)</c> bei zufälligen Zielen zu beschwören."
-TID_BRACELET_3_INFO,<RARITY_COLOR>Blocks <ATTRIBUTE_1>%</c> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens.
-TID_LANCE_1_INFO,"After destroying a target, hits a second target behind it with <RARITY_COLOR><ATTRIBUTE_1>% of full damage</c>.",После уничтожения цели наносит дополнительный урон  <RARITY_COLOR><ATTRIBUTE_1>% от всего урона</c> цели позади.,,"Treffe, nachdem du ein Ziel zerstört hast, ein weiteres Ziel dahinter mit <RARITY_COLOR><ATTRIBUTE_1> % des regulären Schadens</c>."
-TID_LANCE_2_INFO,Damages adjacent squares with <RARITY_COLOR><ATTRIBUTE_1>% damage</c>.,Наносит по области <RARITY_COLOR><ATTRIBUTE_1>% урона</c>.,,Verursacht <RARITY_COLOR><ATTRIBUTE_1> % Schaden</c> auf angrenzenden Feldern.
-TID_LANCE_3_INFO,<RARITY_COLOR>Blocks <ATTRIBUTE_1>%</c> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens.
-TID_DAGGER_1_INFO,<RARITY_COLOR><CHANCE_1>% chance</c> of striking three times instead of one <RARITY_COLOR>(3x damage)</c>.,<RARITY_COLOR><CHANCE_1>% шанс</c> ударить цель 3 раза вместо одного <RARITY_COLOR>(3x урон)</c>.,,"<RARITY_COLOR><CHANCE_1>%ige Chance</c>, dreimal zuzuschlagen, statt einmal <RARITY_COLOR>(3-facher Schaden)</c>."
-TID_DAGGER_2_INFO,"After destroying a target, gain a second attack with <RARITY_COLOR>+<ATTRIBUTE_1>% damage</c>.",После уничтожения цели совершает вторую атаку с дополнительными <RARITY_COLOR><ATTRIBUTE_1>% урона</c>.,,"Gewährt, nachdem du ein Ziel zerstört hast, einen zweiten Angriff mit <RARITY_COLOR>+<ATTRIBUTE_1> % Schaden</c>."
-TID_DAGGER_3_INFO,<RARITY_COLOR><CHANCE_1>% chance</c> of dodging an enemy attack.,<RARITY_COLOR><CHANCE_1>% шанс</c> уклонения от вражеской атаки.,,"<RARITY_COLOR><CHANCE_1>%ige Chance</c>, einem feindlichen Angriff auszuweichen."
-TID_GAUNTLET_1_INFO,"Gives attack boost equal to ratio of missing health, maximum of <RARITY_COLOR>+<ATTRIBUTE_1>% damage</c>.","Дает усиление атаки, равное коэффициенту недостающего здоровья, максимум <RARITY_COLOR>+<ATTRIBUTE_1>% урона</c>.",,Verleiht einen Angriffsboost bei Verwundung.
-TID_GAUNTLET_2_INFO,Damages adjacent squares with <RARITY_COLOR><ATTRIBUTE_1>% of full damage</c>.,Наносит по области <RARITY_COLOR><ATTRIBUTE_1>% </c> от всего урона.,,Verursacht <RARITY_COLOR><ATTRIBUTE_1> % des regulären Schadens</c> auf angrenzenden Feldern.
-TID_GAUNTLET_3_INFO,Heals self and neighbouring allies with <RARITY_COLOR><ATTRIBUTE_1> health</c> per turn.,Исцеляет <RARITY_COLOR><ATTRIBUTE_1> здоровья</c> за ход.,,Heilt sich selbst und benachbarte Verbündete um <RARITY_COLOR><ATTRIBUTE_1> Trefferpunkte</c> pro Zug.
-TID_PEKKASWORD_1_INFO,"<RARITY_COLOR><CHANCE_1>% chance</c> of a lightning strike to a nearby target, causing <RARITY_COLOR><ATTRIBUTE_1> points of damage</c> and stunning the enemy for <RARITY_COLOR>2 turns</c>.","<RARITY_COLOR><CHANCE_1>% шанс</c> электрической атаки, которая переходит на ближайшее здание, нанося <RARITY_COLOR><ATTRIBUTE_1> единиц урона</c>.",,"<RARITY_COLOR><CHANCE_1>%ige Chance</c>, einen Blitzschlag auf ein Ziel in der Nähe abzufeuern, der <RARITY_COLOR><ATTRIBUTE_1> Schadenspunkte</c> verursacht und den Gegner <RARITY_COLOR>2 Züge</c> lang betäubt."
-TID_PEKKASWORD_2_INFO,"<RARITY_COLOR>Blocks <ATTRIBUTE_1>%</c> of incoming damage, with a <RARITY_COLOR><CHANCE_2>% chance</c> to zap the attacker <RARITY_COLOR>(<ATTRIBUTE_2> points of damage</c> and <RARITY_COLOR>stun for 2 turns)</c>.",<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона с <RARITY_COLOR><CHANCE_2>% шансом</c> выстрелить молнией <RARITY_COLOR>(<ATTRIBUTE_2> единиц урона)</c> в ближайшего врага.,,"<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens und hat eine <RARITY_COLOR><CHANCE_2>%ige Chance</c>, einen Knallzauber <RARITY_COLOR>(<ATTRIBUTE_2> Schadenspunkte)</c> auf einen Gegner in der Nähe abzufeuern."
-TID_PEKKASWORD_3_INFO,<RARITY_COLOR><CHANCE_1>% chance</c> for a second strike with <RARITY_COLOR><ATTRIBUTE_1>% of full damage.</c>,"<RARITY_COLOR><CHANCE_1>% шанс</c> второй атаки, которая наносит <RARITY_COLOR><ATTRIBUTE_1>% от всего урона.</c>",,<RARITY_COLOR><CHANCE_1>%ige Chance</c> auf einen zweiten Angriff mit <RARITY_COLOR><ATTRIBUTE_1> % des regulären Schadens.</c>
-TID_BOMB_1_INFO,Inside the area target has <RARITY_COLOR><CHANCE_1>% chance </c> of becoming frozen for 2 turns.,Цель внутри области имеет <RARITY_COLOR><CHANCE_1>% шанс </c> стать замороженным на 2 хода.,,"<RARITY_COLOR><CHANCE_1>%ige Chance </c>, Gegner innerhalb des Zielbereichs 2 Züge lang einzufrieren."
-TID_BOMB_2_INFO,Deals <RARITY_COLOR><ATTRIBUTE_1>% more damage </c> to where the bomb hits.,Наносит на <RARITY_COLOR><ATTRIBUTE_1>% больше урона </c> куда упадет бомба.,,"Verursacht <RARITY_COLOR><ATTRIBUTE_1> % mehr Schaden</c> an der Stelle, wo die Bombe einschlägt."
-TID_BOMB_3_INFO,Gives neighbouring allies a <RARITY_COLOR><ATTRIBUTE_1>% attack boost </c>.,Дает окружающим союзникам на <RARITY_COLOR><ATTRIBUTE_1> единиц больше урона </c>когда активировано.,,Verleiht benachbarten Verbündeten einen <RARITY_COLOR><ATTRIBUTE_1>%igen Angriffsboost</c>.
-TID_COLLAR_1_INFO,Also damages adjacent columns with <RARITY_COLOR><ATTRIBUTE_1>% damage.</c>,Также наносит урон врагам по обе стороны с <RARITY_COLOR><ATTRIBUTE_1>% уроном.</c>,,Verursacht ebenfalls <RARITY_COLOR><ATTRIBUTE_1> % Schaden an Ziele in angrenzenden Reihen.</c>
-TID_COLLAR_2_INFO,Sets all targets on fire for 5 turns with <RARITY_COLOR><ATTRIBUTE_1>% of full damage per turn.</c>,Поджигает всех целей на 5 ходов с <RARITY_COLOR><ATTRIBUTE_1>% от всего урона за ход.</c>,,Steckt alle Ziele 5 Züge lang mit <RARITY_COLOR><ATTRIBUTE_1> % des vollen Schadens pro Zug in Brand.</c>
-TID_COLLAR_3_INFO,Extra <RARITY_COLOR><ATTRIBUTE_1>% damage </c> for the first opponent.,Дополнительный <RARITY_COLOR><ATTRIBUTE_1>% урон </c> первому врагу на пути.,,Verursacht <RARITY_COLOR><ATTRIBUTE_1> % zusätzlichen Schaden </c> am ersten Gegner.
-TID_AXE_1_INFO,Chance to do an extra spin,Шанс дополнительного вращения,,Chance auf eine zusätzliche Umdrehung
-TID_AXE_2_INFO,Damage reduction,Поглощение урона,,Schadensreduktion
+TID_BOW_1_INFO,Sets target on fire (<ATTRIBUTE%_1> of full damage per turn). Neighboring tiles have a 50% chance to catch fire.,Поджигает цель <RARITY_COLOR>(<ATTRIBUTE_1>% урона за ход)</c>. Соседние здания также могут поджечься с шансом 50%.,,"Steckt Ziele in Brand (<ATTRIBUTE%_1> Schaden pro Runde). Die benachbarten Felder haben eine 50%ige Wahrscheinlichkeit, ebenfalls in Brand zu geraten."
+TID_BOW_2_INFO,<CHANCE%_1> chance for an extra shot (<+ATTRIBUTE%_1> damage).,<RARITY_COLOR><CHANCE_1>% шанс</c> дополнительного выстрела <RARITY_COLOR>(+<ATTRIBUTE_1>% урона).</c>,,<CHANCE%_1>ige Chance auf einen zusätzlichen Schuss (<ATTRIBUTE%_1> Schaden).
+TID_BOW_3_INFO,<ATTRIBUTE%_1> more damage.,<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>.,,Verursacht <ATTRIBUTE%%_1> mehr Schaden.
+TID_SWORD_1_INFO,<CHANCE%_1> chance for a critical hit with <+ATTRIBUTE%_1> more damage.,<RARITY_COLOR><CHANCE_1>% шанс</c> критического урона <RARITY_COLOR>(2x урон)</c>.,,<CHANCE%_1>ige Chance auf einen kritischen Treffer (2-facher Schaden).
+TID_SWORD_2_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,Blockt <ATTRIBUTE%_1> des Schadens.
+TID_SWORD_3_INFO,<+ATTRIBUTE%_1> attack boost when wounded.,"<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>, когда Варвар ранен.",,Verleiht einen <ATTRIBUTE%_1>igen Angriffsboost bei Verwundung.
+TID_BRACELET_1_INFO,Sets target on fire for 5 turns (<ATTRIBUTE%_1> of full damage per turn).,Поджигает цель на 5 ходов <RARITY_COLOR>(<ATTRIBUTE_1>% от всего урона каждый ход).</c>,,Steckt Ziele 5 Züge lang in Brand (<ATTRIBUTE%_1> des regulären Schadens pro Zug).
+TID_BRACELET_2_INFO,"<CHANCE%_1> chance of spawning two smaller fireballs to random targets, each making <ATTRIBUTE%_1> of full damage.","<RARITY_COLOR><CHANCE_1>% шанс</c> появления 2 маленьких огненных шара <RARITY_COLOR>(<ATTRIBUTE_1>% от всего урона)</c>, которые направляются к случайным целям.",,"<CHANCE%_1>ige Chance, zwei kleinere Feuerbälle (<ATTRIBUTE%_1> des regulären Schadens) bei zufälligen Zielen zu beschwören."
+TID_BRACELET_3_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens.
+TID_LANCE_1_INFO,"After destroying a target, hits a second target behind it with <ATTRIBUTE%_1> of full damage.",После уничтожения цели наносит дополнительный урон  <RARITY_COLOR><ATTRIBUTE_1>% от всего урона</c> цели позади.,,"Treffe, nachdem du ein Ziel zerstört hast, ein weiteres Ziel dahinter mit <ATTRIBUTE%_1> des regulären Schadens."
+TID_LANCE_2_INFO,Damages adjacent squares with <ATTRIBUTE%_1> of full damage.,Наносит по области <RARITY_COLOR><ATTRIBUTE_1>% урона</c>.,,Verursacht <ATTRIBUTE%_1> Schaden auf angrenzenden Feldern.
+TID_LANCE_3_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,Blockt <ATTRIBUTE%_1> des Schadens.
+TID_DAGGER_1_INFO,"<CHANCE%_1> chance of striking three times instead of one, for 3x damage.",<RARITY_COLOR><CHANCE_1>% шанс</c> ударить цель 3 раза вместо одного <RARITY_COLOR>(3x урон)</c>.,,"<CHANCE%_1>ige Chance, dreimal zuzuschlagen, statt einmal (3-facher Schaden)."
+TID_DAGGER_2_INFO,"After destroying a target, gain a second attack with <ATTRIBUTE%_1> damage.",После уничтожения цели совершает вторую атаку с дополнительными <RARITY_COLOR><ATTRIBUTE_1>% урона</c>.,,"Gewährt, nachdem du ein Ziel zerstört hast, einen zweiten Angriff mit <ATTRIBUTE%_1> Schaden."
+TID_DAGGER_3_INFO,<CHANCE%_1> of dodging an enemy attack.,<RARITY_COLOR><CHANCE_1>% шанс</c> уклонения от вражеской атаки.,,"<CHANCE%_1>ige Chance, einem feindlichen Angriff auszuweichen."
+TID_GAUNTLET_1_INFO,"Gives attack boost in proportion to missing health, maximum of <+ATTRIBUTE%_1> damage.","Дает усиление атаки, равное коэффициенту недостающего здоровья, максимум <RARITY_COLOR>+<ATTRIBUTE_1>% урона</c>.",,Verleiht einen Angriffsboost bei Verwundung.
+TID_GAUNTLET_2_INFO,Damages adjacent squares with <ATTRIBUTE%_1> of full damage.,Наносит по области <RARITY_COLOR><ATTRIBUTE_1>% </c> от всего урона.,,Verursacht <ATTRIBUTE%_1> des regulären Schadens auf angrenzenden Feldern.
+TID_GAUNTLET_3_INFO,Heals self and neighbouring allies with <ATTRIBUTE_1> health per turn.,Исцеляет <RARITY_COLOR><ATTRIBUTE_1> здоровья</c> за ход.,,Heilt sich selbst und benachbarte Verbündete um <ATTRIBUTE_1> Trefferpunkte pro Zug.
+TID_PEKKASWORD_1_INFO,"<CHANCE%_1> chance of a lightning strike to a nearby target, causing <ATTRIBUTE_1> points of damage and stunning the enemy for 2 turns.","<RARITY_COLOR><CHANCE_1>% шанс</c> электрической атаки, которая переходит на ближайшее здание, нанося <RARITY_COLOR><ATTRIBUTE_1> единиц урона</c>.",,"<CHANCE%_1>ige Chance, einen Blitzschlag auf ein Ziel in der Nähe abzufeuern, der <ATTRIBUTE_1> Schadenspunkte verursacht und den Gegner 2 Züge lang betäubt."
+TID_PEKKASWORD_2_INFO,Blocks <ATTRIBUTE%_1> of incoming damage. <CHANCE%_2> chance to zap back for <ATTRIBUTE_2> damage and 2 turn stun.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона с <RARITY_COLOR><CHANCE_2>% шансом</c> выстрелить молнией <RARITY_COLOR>(<ATTRIBUTE_2> единиц урона)</c> в ближайшего врага.,,"Blockt <ATTRIBUTE%_1> des Schadens und hat eine <CHANCE%_2>ige Chance, einen Knallzauber (<ATTRIBUTE_2> Schadenspunkte) auf einen Gegner in der Nähe abzufeuern."
+TID_PEKKASWORD_3_INFO,<CHANCE%_1> chance for a second strike with <ATTRIBUTE%_1> of full damage.,"<RARITY_COLOR><CHANCE_1>% шанс</c> второй атаки, которая наносит <RARITY_COLOR><ATTRIBUTE_1>% от всего урона.</c>",,<CHANCE%_1>ige Chance auf einen zweiten Angriff mit <ATTRIBUTE%_1> des regulären Schadens.
+TID_BOMB_1_INFO,Targets inside the blast area have a <CHANCE%_1> chance of becoming frozen for 2 turns.,Цель внутри области имеет <RARITY_COLOR><CHANCE_1>% шанс </c> стать замороженным на 2 хода.,,"<CHANCE%_1>ige Chance, Gegner innerhalb des Zielbereichs 2 Züge lang einzufrieren."
+TID_BOMB_2_INFO,<+ATTRIBUTE%_1> more damage to the spot where the bomb hits.,Наносит на <RARITY_COLOR><ATTRIBUTE_1>% больше урона </c> куда упадет бомба.,,"Verursacht <ATTRIBUTE%_1> mehr Schaden an der Stelle, wo die Bombe einschlägt."
+TID_BOMB_3_INFO,Gives neighbouring allies a <+ATTRIBUTE%_1> attack boost.,Дает окружающим союзникам на <RARITY_COLOR><ATTRIBUTE_1> единиц больше урона </c>когда активировано.,,Verleiht benachbarten Verbündeten einen <ATTRIBUTE_1>igen Angriffsboost.
+TID_MINIONGAUNTLET_1_INFO,Drops bombs that damage two random neighboring tiles (<ATTRIBUTE%_1> damage).,Drops bombs that damage two random neighboring tiles (<ATTRIBUTE%_1> damage).,,"Wirft Bomben, die ebenfalls 2 zufälligen angrenzenden Feldern Schaden zufügen."
+TID_MINIONGAUNTLET_2_INFO,"<CHANCE%_1> chance to dodge an incoming attack. After dodge, gain <+ATTRIBUTE%_2> attack boost.","<CHANCE%_1> chance to dodge an incoming attack. After dodge, gain <+ATTRIBUTE%_2> attack boost.",,"Chance, dem Angriff auszuweichen"
+TID_MINIONGAUNTLET_3_INFO,"Hit again with <ATTRIBUTE%_1> of full damage, if the target is still standing after the first strike.","Hit again with <ATTRIBUTE%_1> of full damage, if the target is still standing after the first strike.",,Mächtigerer Angriff
+TID_COLLAR_1_INFO,Also damages adjacent columns with <ATTRIBUTE%_1> of full damage.,Также наносит урон врагам по обе стороны с <RARITY_COLOR><ATTRIBUTE_1>% уроном.</c>,,Verursacht ebenfalls <ATTRIBUTE%_1> Schaden an Ziele in angrenzenden Reihen.
+TID_COLLAR_2_INFO,Sets all targets on fire for 5 turns with <ATTRIBUTE%_1> of full damage per turn.</c>,Поджигает всех целей на 5 ходов с <RARITY_COLOR><ATTRIBUTE_1>% от всего урона за ход.</c>,,Steckt alle Ziele 5 Züge lang mit <ATTRIBUTE%_1> des vollen Schadens pro Zug in Brand.</c>
+TID_COLLAR_3_INFO,<+ATTRIBUTE%_1> damage for the first opponent hit.,Дополнительный <RARITY_COLOR><ATTRIBUTE_1>% урон </c> первому врагу на пути.,,Verursacht <ATTRIBUTE%_1> zusätzlichen Schaden </c> am ersten Gegner.
+TID_AXE_1_INFO,Chance to do an extra spin,Chance to do an extra spin,,Chance auf eine zusätzliche Umdrehung
+TID_AXE_2_INFO,Damage reduction,Damage reduction,,Schadensreduktion
 TID_AXE_3_INFO,"if attacked, chance for lightning strike","if attacked, chance for lightning strike",,"Chance, einen Blitzschlag zu verschießen, wenn Schaden erlitten wird"
 TID_BATTERY_1_INFO,chance for the zap to jump on additional building,chance for the zap to jump on additional building,,"Chance, dass der Knallzauber auf ein zusätzliches Gebäude überspringt"
 TID_BATTERY_2_INFO,small chance for causing super damage,small chance for causing super damage,,"Geringe Chance, Superschaden zu verursachen"
@@ -602,12 +622,12 @@ TID_BATTERY_3_INFO,damage reduction,damage reduction,,Schadensreduktion
 TID_QUIVER_1_INFO,Princess can shoot extra arrow,Princess can shoot extra arrow,,Prinzessin kann zusätzlichen Pfeil abschießen
 TID_QUIVER_2_INFO,each shot does extra damage,each shot does extra damage,,Jeder Schuss verursacht zusätzlichen Schaden.
 TID_QUIVER_3_INFO,"If damaged, chance to return back to the supply","If damaged, chance to return back to the supply",,"Chance, zu Reserven zurückzukehren, falls Schaden erlitten wird."
-TID_COMBO_MULTIPLIER,<number>x Combo,<number>x Комбо,,<number>-fache Combo
+TID_COMBO_MULTIPLIER,<number>x <cF3F2C8>Combo</c>,<number>x <cF3F2C8>Комбо</c>,,<number>-fache Combo
 TID_COMBO_PERCENTAGE,+<number>%,+<number>%,,+<number> %
 TID_COMBO_DAMAGE,damage,урон,,Schaden
 TID_REWARD_TYPE_RESOURCE,Resource: <name>,Ресурс: <name>,,Ressource: <name>
-TID_REWARD_TYPE_CAP,1x <name>,1x <name>,,1x <name>
-TID_REWARD_TYPE_CAP_MULTIPLE,<number>x <name>,<number>x <name>,,<number>x <name>
+TID_REWARD_TYPE_CAP,One more <name>,1x <name>,,1x <name>
+TID_REWARD_TYPE_CAP_MULTIPLE,<number> more <name>s,<number>x <name>,,<number>x <name>
 TID_REWARD_TYPE_CAP_TOTAL,Now <number> in total!,Теперь всего <number>!,,Jetzt <number> insgesamt!
 TID_REWARD_TYPE_ELIXIR,Elixir,Эликсир,,Elixier
 TID_REWARD_TYPE_ITEM,Item: <name>,Предмет: <name>,,Gegenstand: <name>
@@ -616,7 +636,7 @@ TID_REWARD_TYPE_UNLOCK,Unlocked: <name>,Разблокировано: <name>,,Fr
 TID_REWARD_TYPE_LABEL_GOLD,<number> Gold,<number> Золота,,<number> Gold
 TID_REWERD_TYPE_LABEL_QUEST_TOKENS,<number> Quest Tokens,<number> Квестовых Токенов,,<number> Questmarken
 TID_REWARD_TYPE_INFO_CAP,Grow your army! Add one more unit to take to battle!,Пополняй свою армию! Добавь ещё 1 юнита для битвы!,,Vergrößere deine Armee und ziehe mit noch mehr Einheiten in den Kampf!
-TID_CARD_ARCHER_CAP,Grow your army! Get +1 Archer for ALL levels with Archers!,"Пополняй свою армию! Получи +1 Луницу для ВСЕХ уровней, где есть она!",,
+TID_CARD_ARCHER_CAP,Grow your army! Get +1 Archer for ALL levels with Archers!,"Пополняй свою армию! Получи +1 Лучницу для ВСЕХ уровней, где есть она!",,
 TID_CARD_GIANT_CAP,Grow your army! Get +1 Giant for ALL levels with Giants!,"Пополняй свою армию! Получи +1 Гиганта для ВСЕХ уровней, где он есть!",,
 TID_CARD_PRINCE_CAP,Grow your army! Get +1 Prince for ALL levels with Princes!,"Пополняй свою армию! Получи +1 Принца для ВСЕХ уровней, где он есть!",,
 TID_CARD_FIREBALL_CAP,Care for another? Add +1 Fireball for ALL levels with Fireballs!,"Хочешь помочь своим войскам? Получи +1 Огненный Шар для ВСЕХ уровней, где он доступен!",,
@@ -627,22 +647,47 @@ TID_CARD_GOBLIN_CAP,Grow your army! Get +1 Goblin for ALL levels with Goblins!,"
 TID_CARD_BOMBER_CAP,Grow your army! Get +1 Bomber for ALL levels with Bombers!,"Пополняй свою армию! Получи +1 Бомбера для ВСЕХ уровней, где он есть!",,
 TID_CARD_BABY_DRAGON_CAP,Grow your army! Get +1 Baby Dragon for ALL levels with Baby Dragons!,"Пополняй свою армию! Получи +1 Дракончика для ВСЕХ уровней, где он есть!",,
 TID_CARD_RETREAT_CAP,How about another Retreat? Add +1 for ALL levels with Retreat!,"Как насчёт еще одного Отступления? Получи +1 для ВСЕХ уровней, где Отступление есть!",,
-TID_CARD_STEP_CAP,How about another Step? Add +1 for ALL levels with Step!,"Как насчёт еще одной Смены? Получи +1 для ВСЕХ уровней, где Смена есть!",,
+TID_CARD_STEP_CAP,How about another Swap? Add +1 for ALL levels with Swap!,"Как насчёт еще одной Смены? Получи +1 для ВСЕХ уровней, где Смена есть!",,
 TID_CARD_CHARGE_CAP,How about another Charge? Add +1 for ALL levels with Charge!,"Как насчёт еще одной Ярости? Получи +1 для ВСЕХ уровней, где Ярость есть!",,
 TID_CARD_LOG_CAP,Care for another? Add +1 Log for ALL levels with Logs!,"Хочешь помочь своим войскам? Получи +1 Бревно для ВСЕХ уровней, где оно доступен!",,
 TID_CARD_ROCKET_CAP,Care for another? Add +1 Rocket for ALL levels with Rockets!,"Хочешь помочь своим войскам? Получи +1 Ракету для ВСЕХ уровней, где она доступна!",,
 TID_CARD_RUSH_CAP,How about another Rush? Add +1 for ALL levels with Rush!,"Как насчёт еще одной Атаки? Получи +1 для ВСЕХ уровней, где Атака есть!",,
+TID_CARD_MINION_CAP,Grow your army! Get +1 Minion for ALL levels with Minions!,Grow your army! Get +1 Minion for ALL levels with Minions!,,
+TID_CARD_HEAL_CAP,Care for another? Add +1 Bless for ALL levels with Bless Spells!,Care for another? Add +1 Bless for ALL levels with Bless Spells!,,
+TID_CARD_FRONTLINE_CAP,How about another Frontline? Add +1 for ALL levels with Frontlines!,How about another Frontline? Add +1 for ALL levels with Frontlines!,,
+TID_CARD_ZAP_CAP,Care for another? Add +1 Zap for ALL levels with Zaps!,Care for another? Add +1 Zap for ALL levels with Zaps!,,
+TID_CARD_ARCHER_CAP_CLAIMED,You now have <number> Archers in ALL levels with Archers!,You now have <number> Archers in ALL levels with Archers!,,
+TID_CARD_GIANT_CAP_CLAIMED,You now have <number> Giants in ALL levels with Giants!,You now have <number> Giants in ALL levels with Giants!,,
+TID_CARD_PRINCE_CAP_CLAIMED,You now have <number> Princes in ALL levels with Princes!,You now have <number> Princes in ALL levels with Princes!,,
+TID_CARD_FIREBALL_CAP_CLAIMED,You now have <number> Fireballs in ALL levels with Fireballs!,You now have <number> Fireballs in ALL levels with Fireballs!,,
+TID_CARD_BARBARIAN_CAP_CLAIMED,You now have <number> Barbarians in ALL levels with Barbarians!,You now have <number> Barbarians in ALL levels with Barbarians!,,
+TID_CARD_WIZARD_CAP_CLAIMED,You now have <number> Wizards in ALL levels with Wizards!,You now have <number> Wizards in ALL levels with Wizards!,,
+TID_CARD_PEKKA_CAP_CLAIMED,You now have <number> P.E.K.K.As in ALL levels with P.E.K.K.A!,You now have <number> P.E.K.K.As in ALL levels with P.E.K.K.A!,,
+TID_CARD_GOBLIN_CAP_CLAIMED,You now have <number> Goblins in ALL levels with Goblins!,You now have <number> Goblins in ALL levels with Goblins!,,
+TID_CARD_BOMBER_CAP_CLAIMED,You now have <number> Bombers in ALL levels with Bombers!,You now have <number> Bombers in ALL levels with Bombers!,,
+TID_CARD_BABY_DRAGON_CAP_CLAIMED,You now have <number> Baby Dragons in ALL levels with Baby Dragons!,You now have <number> Baby Dragons in ALL levels with Baby Dragons!,,
+TID_CARD_RETREAT_CAP_CLAIMED,You now have <number> Retreats in ALL levels with Retreats!,You now have <number> Retreats in ALL levels with Retreats!,,
+TID_CARD_STEP_CAP_CLAIMED,You now have <number> Swaps in ALL levels with Swaps!,You now have <number> Swaps in ALL levels with Swaps!,,
+TID_CARD_CHARGE_CAP_CLAIMED,You now have <number> Charges in ALL levels with Charges!,You now have <number> Charges in ALL levels with Charges!,,
+TID_CARD_LOG_CAP_CLAIMED,You now have <number> Logs in ALL levels with Logs!,You now have <number> Logs in ALL levels with Logs!,,
+TID_CARD_ROCKET_CAP_CLAIMED,You now have <number> Rockets in ALL levels with Rockets!,You now have <number> Rockets in ALL levels with Rockets!,,
+TID_CARD_RUSH_CAP_CLAIMED,You now have <number> Rushes in ALL levels with Rushes!,You now have <number> Rushes in ALL levels with Rushes!,,
+TID_CARD_MINION_CAP_CLAIMED,You now have <number> Minions in ALL levels with Rushes!,You now have <number> Minions in ALL levels with Rushes!,,
+TID_CARD_HEAL_CAP_CLAIMED,You now have <number> Blesses in ALL levels with Blesses!,You now have <number> Blesses in ALL levels with Blesses!,,
+TID_CARD_FRONTLINE_CAP_CLAIMED,You now have <number> Frontlines in ALL levels with Frontlines!,You now have <number> Frontlines in ALL levels with Frontlines!,,
+TID_CARD_ZAP_CAP_CLAIMED,You now have <number> Zaps in ALL levels with Zaps!,You now have <number> Zaps in ALL levels with Zaps!,,
+TID_CARD_SKELETON,Skeleton,Скелет,,
 TID_REWARD_TYPE_INFO_ELIXIR,Elixir is used together with Gold to upgrade your units to make them stronger.,Эликсир используется вместе с Золотом для улучшения Воинов и их силы.,,"Elixier und Gold werden verwendet, um deine Einheiten zu verbessern und sie stärker zu machen."
 TID_REWARD_TYPE_INFO_ITEM,Items give additional powers to your troops. Some powers require minimum group size to activate.,Предметы дают дополнительную силу вашим воинам. Некоторые предметы требуют группы из воинов.,,Gegenstände verleihen deinen Truppen zusätzliche Kräfte. Manche Kräfte können nur ab einer bestimmten Gruppengröße aktiviert werden.
 TID_REWARD_TYPE_INFO_ITEM_UPGRADE,Items have different levels of power. You just found a more powerful version of this Item.,Предметы имеют разные уровни силы. Ты просто нашел более сильную версию этого предмета.,,Gegenstände haben verschiedene Kraftstufen. Du hast gerade eine mächtigere Version dieses Gegenstands gefunden.
 TID_REWARD_TYPE_INFO_UNLOCK,You can now use this in Battle!,Теперь ты можешь использовать это в Бою!,,Du kannst dies nun im Kampf einsetzen!
 TID_INFO_GEMS,These precious Gems are used to buy things from the shop and to continue playing even if you're out of energy.,"Эти прекрасные Гемы используются для покупки вещей в магазине. Также они позволяют продолжить играть, даже если у вас закончилась энергия.",,"Diese kostbaren Juwelen können verwendet werden, um Dinge im Shop zu kaufen und um weiterzuspielen, nachdem deine Energie verbraucht ist."
 TID_POPOVER_GEM,These precious <c3CB01D>Gems</c> are used to buy things from the shop and to continue playing even if you're out of energy.,"Эти прекрасные <c3CB01D>Гемы</c> используются для покупки вещей в магазине. Также они позволяют продолжить играть, даже если у вас закончилась энергия.",,"Diese kostbaren <c3CB01D>Juwelen</c> können verwendet werden, um Dinge im Shop zu kaufen und um weiterzuspielen, nachdem deine Energie verbraucht ist."
-TID_INFO_GOLD,Gold is used for upgrading troops and spells and shopping!,"Золото используется для прокачки Воинов и Зелий, а также для покупки вещей в магазине.",,Gold wird zum Verbessern von Truppen und Zaubern und zum Kauf von Dingen im Shop verwendet!
-TID_POPOVER_COINS,Spend <cF8A203>Gold</c> to upgrade your troops and spells.,Используйте <cF8A203>Золото</c> для улучшения Воинов и Зелий.,,Mit <cF8A203>Gold</c> kannst du Truppen und Zauber verbessern.
+TID_INFO_GOLD,Gold is used for upgrading troops and spells and shopping!,"Золото используется для прокачки Воинов и Заклинаний, а также для покупки вещей в магазине.",,Gold wird zum Verbessern von Truppen und Zaubern und zum Kauf von Dingen im Shop verwendet!
+TID_POPOVER_COINS,Spend <cF8A203>Gold</c> to upgrade your troops and spells.,Используйте <cF8A203>Золото</c> для улучшения Воинов и Заклинаний.,,Mit <cF8A203>Gold</c> kannst du Truppen und Zauber verbessern.
 TID_INFO_STARS,Collect Stars from Chests to unlock Islands!,Получай Звезды с Сундуков для разблокировки остров!,,"Gesamtanzahl an <ccd9b6f>Sterntruhen</c>, die du gesammelt hast."
 TID_INFO_PUZZLE_ENERGY,Quest Energy is used to play the battles in Quest.,Энергия нужна для участия в битвах.,,"Questenergie wird verwendet, um Quest-Kämpfe zu spielen."
-TID_INFO_ENERGY_SCROLL,Quest Tokens can be used to play battles in Quest when you´re out of Energy.,"Квестовые Токены - это замена для энергии, если она закончилась.",,"Questmarken können verwendet werden, um Kämpfe zu spielen, wenn deine Energie verbraucht ist."
+TID_INFO_ENERGY_SCROLL,Quest Tokens can be used to play battles in Quest when you´re out of Energy.,"Квестовые Токены - это замена для энергии, когда она закончилась.",,"Questmarken können verwendet werden, um Kämpfe zu spielen, wenn deine Energie verbraucht ist."
 TID_INFO_CHALLENGE_TOKEN,League Tokens can be used to play battles in League.,Токены Лиги нужны для участия в битвах Лиги.,,"Ligamarken können verwendet werden, um Kämpfe in der Liga zu spielen."
 TID_POPVOER_ENERGY,You have <number>/<maxnumber> <c78b4cd>Quest Energy.</c> Use Energy to play the levels.,Ваша текущая <c78b4cd>Энергия.</c> Используйте энергию для участия в битвах.,,"Du hast <number>/<maxnumber> <c78b4cd>Questenergie.</c> Verwende Energie, um die Level zu spielen."
 TID_POPOVER_ENERGY_COUNTER_EMPTY,You're out of <c78b4cd>Quest Energy.</c>,У вас закончилась <c78b4cd>Энергия.</c>,,Du hast keine <c78b4cd>Questenergie</c> mehr.
@@ -665,6 +710,9 @@ TID_WIN_CHEST_9,Golden Star Chest (Level 3),Золотой Звездный Су
 TID_WIN_CHEST_10,Wooden Star Chest (Level 4),Деревянный Звездный Сундук (Уровень 4),,Hölzerne Sterntruhe (Level 4)
 TID_WIN_CHEST_11,Silver Star Chest (Level 4),Серебряный Звездный Сундук (Уровень 4),,Silberne Sterntruhe (Level 4)
 TID_WIN_CHEST_12,Golden Star Chest (Level 4),Золотой Звездный Сундук (Уровень 4),,Goldene Sterntruhe (Level 4)
+TID_WIN_CHEST_13,Wooden Star Chest (Level 5),Деревянный Звездный Сундук (Уровень 5),,
+TID_WIN_CHEST_14,Silver Star Chest (Level 5),Серебряный Звездный Сундук (Уровень 5),,
+TID_WIN_CHEST_15,Golden Star Chest (Level 5),Золотой Звездный Сундук (Уровень 5),,
 TID_WIN_CHEST_CAP,Wooden Star Chest,Деревянный Звездный Сундук,,Hölzerne Sterntruhe
 TID_WIN_CHEST_START_1,Wooden Star Chest,Деревянный Звездный Сундук,,Hölzerne Sterntruhe
 TID_WIN_CHEST_START_2,Wooden Star Chest,Деревянный Звездный Сундук,,Hölzerne Sterntruhe
@@ -703,11 +751,14 @@ TID_BUILDING_WAGON,Gold Wagon,Вагон Золота,,Goldwagen
 TID_BUILDING_BARREL,Barrel,Бочка,,Fass
 TID_BUILDING_TESLA,Tesla,Тесла,,Tesla
 TID_BUILDING_INFERNO_TOWER,Inferno Tower,Адская Башня,,Infernoturm
-TID_BUILDING_DRAFT_TACTICS,Tactic Storage,Хижина Поддержки,,Taktiklager
+TID_BUILDING_DRAFT_TACTICS,Tactic Storage,Хранилище Книг,,Taktiklager
 TID_BUILDING_DRAFT_TROOPS,Barracks,Казарма,,Kaserne
-TID_BUILDING_DRAFT_SPELLS,Spell Storage,Хранилище Зелий,,Zauberlager
+TID_BUILDING_DRAFT_SPELLS,Spell Storage,Хранилище Заклинаний,,Zauberlager
+TID_BUILDING_GOBLIN_HUT,Goblin Hut,Хижина Гоблинов,,
+TID_BUILDING_AIR_DEFENSE,Air Defense,Воздушная Оборона,,
 TID_CARD_FIRE_SPIRIT,Fire Spirits,Огненные Духи,,Feuergeister
-TID_TUTORIAL_NEXT_BATTLE_1,There seem to be more of these Islands..,There seem to be more of these Islands..,(!),Dort scheinen noch mehr solcher Inseln zu sein ...
+TID_CARD_LAVA_PUPPY,Lava Puppy,Лавовые Щенки,,
+TID_TUTORIAL_NEXT_BATTLE_1,There seem to be more of these Islands..,There seem to be more of these Islands..,,Dort scheinen noch mehr solcher Inseln zu sein ...
 TID_TUTORIAL_NEXT_BATTLE_2,I wonder what treasures they hold..,I wonder what treasures they hold..,,"Ich frage mich, welche Schätze dort auf uns warten ..."
 TID_TUTORIAL_NEXT_BATTLE_3,"We´ll see, but first we must find our friends.","We´ll see, but first we must find our friends.",,Das werden wir bald erfahren. Aber erst müssen wir unsere Freunde finden.
 TID_TUTORIAL_NEXT_BATTLE_4,Let´s explore the first one. Tap the Island.,Let´s explore the first one. Tap the Island.,,Lass uns die erste Insel erkunden. Tippe auf sie.
@@ -947,47 +998,64 @@ TID_CLAIM_REWARD,Claim reward,Получить награду,,Belohnung einford
 TID_SEASON_END_TITLE,League Season Ended,Сезон Лиги закончен,,Ligasaison ist zu Ende
 TID_SEASON_END_TEXT_UP,You moved up to the <cffc620><league></c>!\nCongratulations!,Ты перешел на <cffc620><league></c>!\nПоздравляем!,,Du bist in <cffc620><league></c> aufgestiegen!\nGlückwunsch!
 TID_SEASON_END_TEXT_SAME,You stayed on the <cffc620><league></c>.\nGood work!,Ты остался на <cffc620><league></c>.\nХорошая работа!,,Du bist in <cffc620><league></c> geblieben.\nGut gemacht!
-TID_SEASON_END_TEXT_DOWN,You moved down to the <cffc620><league></c>.,Ты был понижен до <cffc620><league></c>.,,Du bist in <cffc620><league></c> abgestiegen.
-TID_ACCOUNT_LOCKED_TITLE,Account Locked,Аккаунт Заблокирован,,Konto gesperrt
-TID_ACCOUNT_LOCKED_TEXT,Your account has been locked for security reasons. Enter the unlock code to recover your account.,Твой аккаунт был заблокирован из-за угрозы взлома. Введите код разблокировки для восстановления.,,"Dein Konto wurde aus Sicherheitsgründen gesperrt. Gib den Freischaltcode ein, um dein Konto wiederherzustellen."
-TID_ACCOUNT_LOCKED_TEXT2,Enter unlock code here:,Введите код разблокировки:,,Freischaltcode hier eingeben:
-TID_ACCOUNT_LOCKED_INVALID_CODE,Invalid unlock code!,Неверный код!,,Ungültiger Freischaltcode!
-TID_OFFER_STARTER_PACK,Starter Pack,Стартовый Набор,,
-TID_OFFER_LEAGUE_PACK,League Pack,Набор Лиги,,
-TID_OFFER_GOBLIN_PACK,Goblin Pack,Набор Гоблина,,
-TID_OFFER_PEKKA_PACK,P.E.K.K.A Pack,Набор П.Е.К.К.А.,,
-TID_OFFER_BABY_DRAGON_PACK,Baby Dragon Pack,Набор Дракончика,,
-TID_OFFER_BOMBER_PACK,Bomber Pack,Набор Бомбера,,
-TID_OFFER_REGION_2_PACK,Lava Land Pack,Набор Лавовых Земель,,
-TID_OFFER_REGION_3_PACK,Shock Shores Pack,Набор Электрических Краев,,
-TID_OFFER_REGION_4_PACK,Elixir Springs Pack,Набор Источников Эликсира,,
-TID_OFFER_VALUE,value,цена,,
-TID_GOBLIN_ITEM,Goblin Item,Предмет Гоблина,,
-TID_PEKKA_ITEM,P.E.K.K.A Item,Предмет П.Е.К.К.А.,,
-TID_BABY_DRAGON_ITEM,Baby Dragon Item,Предмет Дракончика,,
-TID_BOMBER_ITEM,Bomber Item,Предмет Бомбера,,
+TID_SEASON_END_TEXT_DOWN,You moved down to the <cffc620><league></c>.,You moved down to the <cffc620><league></c>.,,Du bist in <cffc620><league></c> abgestiegen.
+TID_ACCOUNT_LOCKED_TITLE,Account Locked,Account Locked,,Konto gesperrt
+TID_ACCOUNT_LOCKED_TEXT,Your account has been locked for security reasons. Enter the unlock code to recover your account.,Your account has been locked for security reasons. Enter the unlock code to recover your account.,,"Dein Konto wurde aus Sicherheitsgründen gesperrt. Gib den Freischaltcode ein, um dein Konto wiederherzustellen."
+TID_ACCOUNT_LOCKED_TEXT2,Enter unlock code here:,Enter unlock code here:,,Freischaltcode hier eingeben:
+TID_ACCOUNT_LOCKED_INVALID_CODE,Invalid unlock code!,Invalid unlock code!,,Ungültiger Freischaltcode!
+TID_OFFER_STARTER_PACK,Starter Pack,Starter Pack,,
+TID_OFFER_LEAGUE_PACK,League Pack,League Pack,,
+TID_OFFER_GOBLIN_PACK,Goblin Pack,Goblin Pack,,
+TID_OFFER_PEKKA_PACK,P.E.K.K.A Pack,P.E.K.K.A Pack,,
+TID_OFFER_BABY_DRAGON_PACK,Baby Dragon Pack,Baby Dragon Pack,,
+TID_OFFER_BOMBER_PACK,Bomber Pack,Bomber Pack,,
+TID_OFFER_MINION_PACK,Minion Pack,Minion Pack,,
+TID_OFFER_REGION_2_PACK,Lava Land Pack,Lava Land Pack,,
+TID_OFFER_REGION_3_PACK,Shock Shores Pack,Shock Shores Pack,,
+TID_OFFER_REGION_4_PACK,Elixir Springs Pack,Elixir Springs Pack,,
+TID_OFFER_REGION_5_PACK,Lava Jungle Pack,Lava Jungle Pack,,
+TID_OFFER_VALUE,value,value,,
+TID_GOBLIN_ITEM,Goblin Item,Goblin Item,,
+TID_PEKKA_ITEM,P.E.K.K.A Item,P.E.K.K.A Item,,
+TID_BABY_DRAGON_ITEM,Baby Dragon Item,Baby Dragon Item,,
+TID_BOMBER_ITEM,Bomber Item,Bomber Item,,
+TID_MINION_ITEM,Minion Item,Minion Item,,
 TID_OFFER_INFO_RESOURCES,<NUM> <RESOURCE>,<NUM> <RESOURCE>,,
-TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP_SINGULAR,1 random item (for random troop),1 случайный предмет (для случайного воина),,
-TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP,<NUM> random items (for random troops),<NUM> случайных предмета (для случайных воинов),,
-TID_OFFER_RANDOM_ITEM_FOR_TROOP_SINGULAR,1 random item (for <TROOP>),1 случайный предмет (для <TROOP>),,
-TID_OFFER_RANDOM_ITEM_FOR_TROOP,<NUM> random items (for <TROOP>),<NUM> случайных предмета (для <TROOP>),,
-TID_OFFER_RANDOM_ITEM,Random item,Случайный предмет,,
-TID_OFFER_ELIXIR_FOR_RANDOM_CARDS,<NUM> Elixir (for random troops),<NUM> Эликсира (для случайного воина),,
-TID_OFFER_ELIXIR_FOR_CARD,<NUM> Elixir (for <CARD>),<NUM> Эликсира (для воина <CARD>),,
-TID_OFFER_DONT_MISS_ONE_TIME_CHANCE,Don't miss this <VALUE>x ONE time offer!,Не пропусти <VALUE>x ОДНОРАЗОВОЕ предложение!,,
-TID_OFFER_POPOVER_HEADER,You will get:,Ты получишь:,,
-TID_OFFER_PURCHASE_LIMIT_REACHED,Purchase limit reached,Достигнут лимит покупок,,
-TID_OFFER_UNABLE_TO_PURCHASE,Unable to purchase,Нет возможности для покупки,,
-TID_SHOP_OFFER_POPOVER,New special deal available!,Новое специальное предложение доступно!,,
-TID_SHOP_OFFERS_POPOVER,New special deals available!,Новые специальные предложения доступны!,,
-TID_DUNGEON_1_NAME,Jungle Bay Dungeon,Залив Джунглей,,
-TID_DUNGEON_2_NAME,Magma Pit,Яма Магмы,,
-TID_DUNGEON_3_NAME,Charged Caverns,Заряженные Пещеры,,
-TID_DUNGEON_4_NAME,Dragontooth Lair,Логово Драконьего Зуба,,
-TID_BUTTON_ATTACK_DUNGEON_START,Enter,Войти,,
-TID_BUTTON_ATTACK_DUNGEON_CONTINUE,Continue,Продолжить,,
-TID_LEAGUE_SEASON_END_CHEST_DESCRIPTION,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!,\nЭта сезонная награда содержит:\n• <cF8A203><NUM_GOLD></c> Золота\n• <c3CB01D><NUM_GEMS></c> Гемов\n• <ce48810><NUM_TOKENS></c> Токенов Лиги\n• <ce048d8><NUM_ELIXIR></c> Эликсира... или даже больше золота!,,
-TID_TREASURE_MAP,Compass,Компасс,,
-TID_INFO_TREASURE_MAP,Discover a Treasure Dungeon on the map!,Изучи Подземелье с сокровищами на карте!,,
-TID_SHOP_DEAL_TREASURE_MAP,Compass,Компасс,,
+TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP_SINGULAR,1 random item (for random troop),1 random item (for random troop),,
+TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP,<NUM> random items (for random troops),<NUM> random items (for random troops),,
+TID_OFFER_RANDOM_ITEM_FOR_TROOP_SINGULAR,1 random item (for <TROOP>),1 random item (for <TROOP>),,
+TID_OFFER_RANDOM_ITEM_FOR_TROOP,<NUM> random items (for <TROOP>),<NUM> random items (for <TROOP>),,
+TID_OFFER_RANDOM_ITEM,Random item,Random item,,
+TID_OFFER_ELIXIR_FOR_RANDOM_CARDS,<NUM> Elixir (for random troops),<NUM> Elixir (for random troops),,
+TID_OFFER_ELIXIR_FOR_CARD,<NUM> Elixir (for <CARD>),<NUM> Elixir (for <CARD>),,
+TID_OFFER_DONT_MISS_ONE_TIME_CHANCE,Don't miss this <VALUE>x ONE time offer!,Don't miss this <VALUE>x ONE time offer!,,
+TID_OFFER_POPOVER_HEADER,You will get:,You will get:,,
+TID_OFFER_PURCHASE_LIMIT_REACHED,Purchase limit reached,Purchase limit reached,,
+TID_OFFER_UNABLE_TO_PURCHASE,Unable to purchase,Unable to purchase,,
+TID_SHOP_OFFER_POPOVER,New special deal available!,New special deal available!,,
+TID_SHOP_OFFERS_POPOVER,New special deals available!,New special deals available!,,
+TID_DUNGEON_1_NAME,Jungle Bay Dungeon,Jungle Bay Dungeon,,
+TID_DUNGEON_2_NAME,Magma Pit,Magma Pit,,
+TID_DUNGEON_3_NAME,Charged Caverns,Charged Caverns,,
+TID_DUNGEON_4_NAME,Dragontooth Lair,Dragontooth Lair,,
+TID_DUNGEON_5_NAME,Lava Rift,Lava Rift,,
+TID_BUTTON_ATTACK_DUNGEON_START,Enter,Enter,,
+TID_BUTTON_ATTACK_DUNGEON_CONTINUE,Continue,Continue,,
+TID_LEAGUE_SEASON_END_CHEST_DESCRIPTION,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!,,
+TID_TREASURE_MAP,Compass,Compass,,
+TID_INFO_TREASURE_MAP,Discover a Treasure Dungeon on the map!,Discover a Treasure Dungeon on the map!,,
+TID_SHOP_DEAL_TREASURE_MAP,Compass,Compass,,
+TID_ITEM_UPGRADE_MAX,<NAME> is already at max level!,<NAME> is already at max level!,,
+TID_CAP_MAX_EXPLANATION,You have all <NUMBER> <NAME>s out of maximum of <MAX>!,You have all <NUMBER> <NAME>s out of maximum of <MAX>!,,Du hast 1 <NAME> von maximal <MAX>.
+TID_POPUP_BUY_REROLL_TITLE,Reroll,Reroll,,
+TID_POPUP_BUY_REROLL_TEXT,"For <c3CB01D><COST></c> Gems, start again with a new opening formation.\n\nYou have <c3CB01D><NUMBER></c> Gems in total.","For <c3CB01D><COST></c> Gems, start again with a new opening formation.\n\nYou have <c3CB01D><NUMBER></c> Gems in total.",,
+TID_BUTTON_REROLL,Reroll,Reroll,,
+TID_EXTRA_HEALTH,Health Increase,Health Increase,,
+TID_ACCOUNT_DELETED_ON_REQUEST_TEXT,This account has been disabled due to a deletion request and can no longer be recovered.,This account has been disabled due to a deletion request and can no longer be recovered.,,
+TID_ACCOUNT_DELETED_DUE_INACTIVITY_TEXT,This account has been disabled due to inactivity and can no longer be recovered.,This account has been disabled due to inactivity and can no longer be recovered.,,
+TID_ACCOUNT_DISABLED_TEXT,Account Disabled,Account Disabled,,
+TID_ACCOUNT_DELETION_WARNING_TITLE,Account Deletion Warning,Account Deletion Warning,,
+TID_ACCOUNT_DELETION_WARNING_TEXT,Following your request your account will be deleted in <time>. If you have changed your mind contact Help and Support to cancel your deletion request.,Following your request your account will be deleted in <time>. If you have changed your mind contact Help and Support to cancel your deletion request.,,
+TID_ACCOUNT_DELETION_SOON_WARNING_TEXT,Following your request your account will be deleted soon.,Following your request your account will be deleted soon.,,
+TID_ACCOUNT_DELETION_WARNING_CONTACT_PS,You have requested this account to be deleted. You have <time> left to cancel the deletion.,You have requested this account to be deleted. You have <time> left to cancel the deletion.,,
 ,,,,
