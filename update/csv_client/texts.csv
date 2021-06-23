@@ -26,16 +26,16 @@ TID_BUTTON_NO,No,Нет,,Nein
 TID_BUTTON_OKAY,Okay,Окей,,Okay
 TID_BUTTON_CANCEL,Cancel,Отмена,,Abbrechen
 TID_BUTTON_RETRY,Retry,Повторить,,Erneut versuchen
-TID_BUTTON_REFILL,Refill,Пополнение,,Auffüllen
+TID_BUTTON_REFILL,Refill,Пополнить,,Auffüllen
 TID_BUTTON_CONFIRM,Confirm,Подтвердить,,Bestätigen
 TID_BUTTON_CONNECT_ONLINE,Connect,Подключиться,,Verbinden
 TID_BUTTON_RANK,Rank:,Ранк:,,Rang:
-TID_ERROR_POP_UP_WRONG_CLIENT_VERSION_TITLE,Update Game,Обновить Игру,,Spiel aktualisieren
-TID_ERROR_POP_UP_WRONG_CLIENT_VERSION,Click button to update the game,"Нажмите на кнопку, чтобы обновить игру",,"Schaltfläche tippen, um das Spiel zu aktualisieren."
-TID_ERROR_POP_UP_WRONG_CLIENT_VERSION_BUTTON,Update,Обновление,,Update
+TID_ERROR_POP_UP_WRONG_CLIENT_VERSION_TITLE,Update Game,Обновление!,,Spiel aktualisieren
+TID_ERROR_POP_UP_WRONG_CLIENT_VERSION,Click button to update the game,"Появилось обновление игры, а это значит, что перевод теперь не актуален. Следите за новостями На ГитХабе.",,"Schaltfläche tippen, um das Spiel zu aktualisieren."
+TID_ERROR_POP_UP_WRONG_CLIENT_VERSION_BUTTON,Update,Обновить,,Update
 TID_ERROR_POP_UP_OUT_OF_SYNC_TITLE,OUT OF SYNC,НЕ СИНХРОНИЗИРОВАНО,,SYNCHRONISIERUNGSFEHLER
 TID_ERROR_POP_UP_OUT_OF_SYNC,Something went wrong and the game is out of sync. Chillax!,Что-то пошло не так и игра не синхронизирована со сервером.,,Etwas ist schiefgelaufen und das Spiel ist nicht mehr synchronisiert. Keine Sorge!
-TID_ERROR_POP_UP_OUT_OF_SYNC_BUTTON,Reload,Перезарядить,,Neu laden
+TID_ERROR_POP_UP_OUT_OF_SYNC_BUTTON,Reload,Перезагр.,,Neu laden
 TID_NO_PUZZLE_ENERGY,Out of Energy...,Нету Энергии...,,Energie vollständig verbraucht ...
 TID_NEXT_ENERGY_TIMER,Next life in:,Следующая жизнь через...,,Nächstes Leben in:
 TID_COST_FREE,FREE,БЕСПЛАТНО,,GRATIS
@@ -57,7 +57,7 @@ TID_UNLOCK_LEVEL,Unlock after Puzzle Level,Разблокируется посл
 TID_UNLOCK_LEVEL_WITH_NUMBER,Unlock after Puzzle Level <LEVEL>,Разблокируется после прохождения Уровня <LEVEL>,,Freischalten ab Rätsel-Level <LEVEL>
 TID_GEMS,Gems,Гемы,,Juwelen
 TID_PUZZLE_ENERGY,Energy,Энергия,,Energie
-TID_ENERGY_FULL,Full,Полный,,Voll
+TID_ENERGY_FULL,Full,Заполнено,,Voll
 TID_INFINITE_PUZZLE_ENERGY_TIME,Infinite Energy,Бесконечная Энергия,,Unbegrenzte Energie
 TID_TIME_DAYS,d,д.,,T.
 TID_TIME_HOURS,h,ч.,,Std.
@@ -110,14 +110,14 @@ TID_LANGUAGE_BUTTON,Language,Язык,,
 TID_ABOUT,Credits\n\n<names>\n\nClash Quest <version>\nCopyright 2021 Supercell Ltd. All Rights Reserved.\nUS Patent Pending\nAll use of this software is subject to Terms and Conditions and Privacy Policy at www.supercell.com,Авторы\n\n<names>\n\nClash Quest <version>\nCopyright 2021 Supercell Ltd. All Rights Reserved.\nUS Patent Pending\nAll use of this software is subject to Terms and Conditions and Privacy Policy at www.supercell.com,,"Mitwirkende\n\n<names>\n\nClash Quest <version>\nCopyright 2021 Supercell Ltd. Alle Rechte vorbehalten.\nUS-Patent ausstehend\nJegliche Nutzung der Software unterliegt den Nutzungsbedingungen und Datenschutzrichtlinien, die unter www.supercell.com einsehbar sind."
 TID_LANGUAGE_SCREEN_TITLE,Select Language,Выбрать язык,,
 TID_NOT_ENOUGH_PUZZLE_ENERGY,Not enough Energy to play puzzle,Недостаточно энергии для игры в Уровень.,,"Nicht genug Energie, um Rätsel zu spielen"
-TID_NOT_ENOUGH_FARM_ENERGY_TITLE,Out of Farm Energy,Out of Farm Energy,,Farmenergie vollständig verbraucht
+TID_NOT_ENOUGH_FARM_ENERGY_TITLE,Out of Farm Energy,Out of Farm Energy,(?),Farmenergie vollständig verbraucht
 TID_HINT_WELCOME,"Loading Barbarians, Archers, Wizards etc.","Загрузка варваров, лучниц, колдунов и т.д...",,"Lädt Barbaren, Bogenschützinnen, Magier, etc."
 TID_POPUP_NOT_ENOUGH_COINS_TITLE,Not enough gold,Недостаточно Золота,,Nicht genug Gold
 TID_POPUP_NOT_ENOUGH_COINS_TEXT,Use Gems to buy missing gold?,Использовать гемы для покупки недостающего золота?,,"Juwelen verwenden, um fehlendes Gold zu kaufen?"
 TID_POPUP_NOT_ENOUGH_GEMS_TITLE,Not enough Gems,Недостаточно Гемов,,Nicht genug Juwelen
 TID_POPUP_NOT_ENOUGH_GEMS_TEXT,More Gems are needed.\nGo to the Gem Shop?,Необходимо больше Гемов.\nПерейти в магазин Гемов?,,Mehr Juwelen benötigt.\nZum Juwelen-Shop gehen?
-TID_POPUP_NOT_ENOUGH_RESOURCES_TITLE,Not enough resources,Not enough resources,,
-TID_POPUP_NOT_ENOUGH_RESOURCES_TEXT,Use Gems to buy missing resources?,Use Gems to buy missing resources?,,
+TID_POPUP_NOT_ENOUGH_RESOURCES_TITLE,Not enough resources,Недостаточно Ресурсов,,
+TID_POPUP_NOT_ENOUGH_RESOURCES_TEXT,Use Gems to buy missing resources?,"Использовать Гемы, чтобы купить недостающие ресурсы?",,
 TID_SPEEDUP_TITLE,Complete now?,Пройти сейчас?,,Jetzt abschließen?
 TID_SPEEDUP_COST,Speed up cost:,Цена ускорения:,,Kosten für Beschleunigung:
 TID_UNLOCKS,UNLOCKED!,РАЗБЛОКИРОВАНО!,,FREIGESCHALTET!
@@ -126,7 +126,7 @@ TID_SEASON_COMPLETE_TEXT,Congrats for completing a season!,Поздравляе�
 TID_SEASON_COMPLETE_GOODS_SOLD_TEXT,GOLD FROM MARKET,ЗОЛОТО ИЗ МАГАЗИНА,,GOLD VOM MARKT
 TID_SELL_BUTTON,SELL,ПРОДАТЬ,,VERKAUFEN
 TID_DEFAULT_SEARCH_TEXT,INSERT NAME HERE,ВСТАВЬТЕ ИМЯ СЮДА,,HIER NAMEN EINGEBEN
-TID_NH_SEARCH,Search for a clan!,Search for a clan!,,Suche einen Clan!
+TID_NH_SEARCH,Search for a clan!,Search for a clan!,(!),Suche einen Clan!
 TID_NH_CREATE,Create New,Create New,,Neu gründen
 TID_MEMBERS,Members,Members,,Mitglieder
 TID_TAB_BUTTON_ALLIANCE_CHAT,Chat,Chat,,Chat
@@ -191,15 +191,15 @@ TID_SHOP_HEADER_BATTLE_TOKENS,Quest Tokens,Квестовые Токены,,Ques
 TID_SHOP_HEADER_BATTLE_TOKENS_COLOR,cc4141,cc4141,,cc4141
 TID_SHOP_HEADER_ELIXIR_LOOT_BOXES,Elixir Crate,Ящик Эликсира,,Elixierkiste
 TID_SHOP_HEADER_ELIXIR_LOOT_BOXES_COLOR,cc4141,cc4141,,cc4141
-TID_SHOP_DEAL_GOLD,Gold,Gold,,<number> Gold
-TID_SHOP_DEAL_QUEST_TOKEN,Quest Token,Quest Token,,Eine Questmarke
-TID_SHOP_DEAL_QUEST_TOKENS,Quest Tokens,Quest Tokens,,<number> Questmarken
-TID_SHOP_DEAL_GEM,Gem,Gem,,Ein Juwel
-TID_SHOP_DEAL_GEMS,Gems,Gems,,<number> Juwelen
-TID_SHOP_DEAL_ELIXIR,<name> Elixir,<name> Elixir,,Ein Elixier
-TID_SHOP_DEAL_ELIXIRS,<name> Elixir,<name> Elixir,,<number> Elixier
-TID_SHOP_DEAL_CAP,One more <name>,One more <name>,,+1 <name>
-TID_SHOP_DEAL_CAPS,<number> more <name>s,<number> more <name>s,,<number> <name>
+TID_SHOP_DEAL_GOLD,Gold,Золото,,<number> Gold
+TID_SHOP_DEAL_QUEST_TOKEN,Quest Token,Квестовый Токен,,Eine Questmarke
+TID_SHOP_DEAL_QUEST_TOKENS,Quest Tokens,Квестовые Токены,,<number> Questmarken
+TID_SHOP_DEAL_GEM,Gem,Гем,,Ein Juwel
+TID_SHOP_DEAL_GEMS,Gems,Гемы,,<number> Juwelen
+TID_SHOP_DEAL_ELIXIR,<name> Elixir,<name> Эликсир,,Ein Elixier
+TID_SHOP_DEAL_ELIXIRS,<name> Elixir,<name> Эликсир,,<number> Elixier
+TID_SHOP_DEAL_CAP,One more <name>,1x <name>,,+1 <name>
+TID_SHOP_DEAL_CAPS,<number> more <name>s,<number>x <name>,(?),<number> <name>
 TID_SHOP_GEM_PACK_1,Pile of Gems,Кучка Гемов,,Juwelenhaufen
 TID_SHOP_GEM_PACK_2,Bag of Gems,Мешок Гемов,,Juwelenbeutel
 TID_SHOP_GEM_PACK_3,Bucket of Gems,Ведро Гемов,,Juweleneimer
@@ -207,12 +207,12 @@ TID_SHOP_GEM_PACK_4,Tub of Gems,Ванная Гемов,,Juwelenwanne
 TID_SHOP_GEM_PACK_5,Boat of Gems,Лодка Гемов,,Juwelenschiff
 TID_SHOP_GEM_PACK_6,Wave of Gems,Волна Гемов,,Juwelenwelle
 TID_SHOP_SPECIAL_OFFER,Special Offer,Специальное предложение,,
-TID_SHOP_GOLD_PACK_1,Pouch of Gold,Pouch of Gold,,<number> Gold
-TID_SHOP_GOLD_PACK_2,Bucket of Gold,Bucket of Gold,,<number> Gold
-TID_SHOP_GOLD_PACK_3,Tub of Gold,Tub of Gold,,<number> Gold
-TID_SHOP_TOKEN_PACK_1,Fistful of Quest Tokens,Fistful of Quest Tokens,,<number> Questmarken
-TID_SHOP_TOKEN_PACK_2,Pile of Quest Tokens,Pile of Quest Tokens,,<number> Questmarken
-TID_SHOP_TOKEN_PACK_3,Pouch of Quest Tokens,Pouch of Quest Tokens,,<number> Questmarken
+TID_SHOP_GOLD_PACK_1,Pouch of Gold,Мешочек Золота,,<number> Gold
+TID_SHOP_GOLD_PACK_2,Bucket of Gold,Ведро Золота,,<number> Gold
+TID_SHOP_GOLD_PACK_3,Tub of Gold,Ванная Золота,,<number> Gold
+TID_SHOP_TOKEN_PACK_1,Fistful of Quest Tokens,Кучка Квестовых Токенов,,<number> Questmarken
+TID_SHOP_TOKEN_PACK_2,Pile of Quest Tokens,"Кучка Квестовых Токенов, только лучше прошлой",,<number> Questmarken
+TID_SHOP_TOKEN_PACK_3,Pouch of Quest Tokens,Мешок Квестовых Токенов,,<number> Questmarken
 TID_SHOP_ELIXIR_LOOT_BOX_1,Elixir Crate,Ящик Эликсира,,Elixierkiste
 TID_INFO_ELIXIR_LOOT_BOX,"Gain 20 elixir, randomly distributed between 4 different troops and spells!","В этом ящике 20 эликсира, которые разделяются между 4 разными войсками и Заклинаниями!",,"20 Elixiereinheiten, die unter 4 verschiedenen Truppenarten geteilt werden!"
 TID_SHOP_CONFIRM_POPUP_MAX_ELIXIR,Maximum elixir is already reached.\n\nConfirm purchase on alternative reward of <GOLD_AMOUNT> Gold instead?,Максимум кол-ва Эликсира уже достигнуто.\n\nПодтвердить покупку альтернативной награды в виде <GOLD_AMOUNT> Золота?,,Die Obergrenze für Elixier ist bereits erreicht.\n\nStattdessen alternative Belohnung von <GOLD_AMOUNT> Gold kaufen?
@@ -231,13 +231,13 @@ TID_BATTLE_BUTTON,Play,Играть,,Spielen
 TID_SELECT_BOOSTERS,Select Boosters:,Выберите Ускорители:,,Booster auswählen:
 TID_ERROR_POP_UP_CONNECTION_FAILED_TITLE,Connection error,Ошибка подключения,,Verbindungsfehler
 TID_ERROR_POP_UP_CONNECTION_FAILED,Unable to connect with the server. Check your internet connection and try again.,Невозможно подключиться к серверу. Проверьте ваше подключение к интернету и попробуйте снова.,,Verbindung zum Server nicht möglich. Überprüfe deine Internetverbindung und versuche es erneut.
-TID_ERROR_POP_UP_CONNECTION_FAILED_BUTTON,Try again,Попробуйте снова,,Erneut versuchen
+TID_ERROR_POP_UP_CONNECTION_FAILED_BUTTON,Try again,Попробов. снова,,Erneut versuchen
 TID_ERROR_POP_UP_AUTO_DISCONNECTED_TITLE,Connection error,Ошибка подключения,,Verbindungsfehler
 TID_ERROR_POP_UP_AUTO_DISCONNECTED,Unable to connect with the server. Check your internet connection and try again.,Невозможно подключиться к серверу. Проверьте ваше подключение к интернету и попробуйте снова.,,Verbindung zum Server nicht möglich. Überprüfe deine Internetverbindung und versuche es erneut.
-TID_ERROR_POP_UP_AUTO_DISCONNECTED_BUTTON,Try again,Попробуйте еще раз,,Erneut versuchen
+TID_ERROR_POP_UP_AUTO_DISCONNECTED_BUTTON,Try again,Попробов. снова,,Erneut versuchen
 TID_ERROR_POP_UP_CONNECTION_LOST_TITLE,Connection lost,Соединение потеряно,,Verbindung verloren
 TID_ERROR_POP_UP_CONNECTION_LOST,You have lost connection with the server. Check your internet connection and try again.,Соединение со сервером разорвно. Проверьте ваше подключение к интернету и попробуйте снова.,,Du hast die Verbindung zum Server verloren. Überprüfe deine Internetverbindung und versuche es erneut.
-TID_ERROR_POP_UP_CONNECTION_LOST_BUTTON,Try again,Попробуйте еще раз,,Erneut versuchen
+TID_ERROR_POP_UP_CONNECTION_LOST_BUTTON,Try again,Попробов. снова,,Erneut versuchen
 TID_ERROR_POP_UP_SERVER_MAINTENANCE_TITLE,Maintenance,Тех. Перерыв,,Wartungsarbeiten
 TID_ERROR_POP_UP_SERVER_MAINTENANCE,"Sorry, the servers are under maintenance. Please try again later.","Простите, илкка накрыл сервера. Пожалуйста, попробуйте снова чуть позже.",,"Tut uns leid, die Server werden gewartet. Bitte versuche es später erneut."
 TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_SOON,"Sorry, the servers are under maintenance. Please try again later.","Простите, илкка накрыл сервера. Пожалуйста, попробуйте снова чуть позже.",,"Tut uns leid, die Server werden gewartet. Bitte versuche es später erneut."
@@ -253,7 +253,7 @@ TID_MAINTENANCE_ESTIMATED_HOUR,Please try again later.,"Пожалуйста, п
 TID_MAINTENANCE_ESTIMATED_HOUR_AND_HALF,Please try again later.,"Пожалуйста, попробуйте еще раз позже.",,Bitte versuche es später erneut.
 TID_MAINTENANCE_ESTIMATED_TWO_HOURS,Please try again later.,"Пожалуйста, попробуйте еще раз позже.",,Bitte versuche es später erneut.
 TID_MAINTENANCE_ESTIMATED_LONG,Please try again later.,"Пожалуйста, попробуйте еще раз позже.",,Bitte versuche es später erneut.
-TID_ERROR_POP_UP_SERVER_MAINTENANCE_BUTTON,Try again,Попробуйте еще раз.,,Erneut versuchen
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_BUTTON,Try again,Попробов. снова,,Erneut versuchen
 TID_PUZZLE_REWARDS,You got:,Ты получил:,,Du erhältst:
 TID_PUZZLE_REWARDS_CHESTS_REMAINING,<cF3F2C8>Chests remaining: </c><VALUE>,<cF3F2C8>Сундуков осталось: </c><VALUE>,,<cF3F2C8>Truhen übrig: </c><VALUE>
 TID_UNLOCKED,You found:,Ты нашел:,,Gefunden:
@@ -280,11 +280,11 @@ TID_SETTINGS_BUTTON_PARENTS,Parent's Guide,Родительский справо
 TID_SETTINGS_BUTTON_TERMS,Terms of Service,Пользовательское соглашение,,Nutzungsbedingungen
 TID_NATIVE_DIALOG_LOGIN_WITH_NON_PRIMARY_ACCOUNT_TITLE,New device,Новое устройство,,Neues Gerät
 TID_NATIVE_DIALOG_LOGIN_WITH_NON_PRIMARY_ACCOUNT_MESSAGE,"Loading latest progress from server, play online to sync between devices","Загрузка прогресса, играйте онлайн для синхронизации между устройствами",,"Der aktuellste Spielstand wird vom Server abgerufen. Spiele online, um Geräte zu synchronisieren."
-TID_NATIVE_DIALOG_LOGIN_WITH_NON_PRIMARY_ACCOUNT_BUTTON,Reload,Перезарядка,,Neu laden
+TID_NATIVE_DIALOG_LOGIN_WITH_NON_PRIMARY_ACCOUNT_BUTTON,Reload,Перезагр.,,Neu laden
 TID_ERROR_POP_UP_LOGIN_FAILED_TITLE,Login failed,Ошибка Входа,,Anmeldung fehlgeschlagen
 TID_ERROR_POP_UP_LOGIN_FAILED,Please try again later.,"Пожалуйста, попробуйте позже.",,Bitte versuche es später erneut.
-TID_ERROR_POP_UP_LOGIN_FAILED_BUTTON,Try again,Попробовать снова,,Erneut versuchen
-TID_ERROR_POP_UP_BANNED_TITLE,You have been banned!,ban,,Du wurdest gebannt!
+TID_ERROR_POP_UP_LOGIN_FAILED_BUTTON,Try again,Попробов. снова,,Erneut versuchen
+TID_ERROR_POP_UP_BANNED_TITLE,You have been banned!,Вы были заблокированы!,,Du wurdest gebannt!
 TID_ERROR_POP_UP_BANNED,You have been banned temporarily,Вы были заблокированы!,,Du wurdest vorübergehend gebannt.
 TID_ERROR_POP_UP_BANNED_BUTTON,OK,OK,,Okay
 TID_ERROR_POP_UP_BANNED_BUTTON_CONTACT_PS,Contact Support,Связаться с нами,,Support kontaktieren
@@ -296,14 +296,14 @@ TID_NATIVE_DIALOG_VERSION_NOT_UP_TO_DATE_STORE_NOT_READY_MESSAGE,We are updating
 TID_NATIVE_DIALOG_VERSION_NOT_UP_TO_DATE_STORE_NOT_READY_BUTTON,OK,ОК,,Okay
 TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE_TITLE,Account unlock unavailable,Разблокировка аккаунта невозможна,,Kontofreischaltung nicht verfügbar
 TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE,Account unlock is unavailable at the moment. Please try again later!,"Разблокировка аккаунта временно недоступна. Пожалуйста, попробуйте снова позже.",,Die Freischaltung ist momentan nicht möglich. Bitte versuche es später erneut.
-TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE_BUTTON,Try again,Попробуйте снова,,Erneut versuchen
+TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE_BUTTON,Try again,Попробов. снова,,Erneut versuchen
 TID_POPUP_CONFLICTING_ACCOUNT_TITLE,Conflicting Account,Конфликтующий аккаунт,,Kontokonflikt
 TID_POPUP_CONFLICTING_ACCOUNT_TEXT,The account you are trying to log in with is different from the account stored locally. Switch to the current account?,"Аккаунт, в который вы пытаетесь войти отличается от локального. Поменять на текущий аккаунт?",,"Das Konto, mit dem du dich anmelden willst, ist nicht das lokal gespeicherte Konto. Möchtest du zum aktuellen Konto wechseln?"
 TID_BUTTON_CONFLICTING_ACCOUNT_YES,"Yes, switch to current account.","Да, поменять на текущий аккаунт.",,"Ja, zu aktuellem Konto wechseln."
 TID_BUTTON_CONFLICTING_ACCOUNT_NO,"No, use the original account.","Нет, использовать оригинальный аккаунт.",,"Nein, ursprüngliches Konto verwenden."
 TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE_TITLE,Connection lost,Соединение потеряно,,Verbindung verloren
 TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE,Another device is connecting to this account,Другое устройство подключился к игре,,Ein anderes Gerät verbindet sich gerade mit diesem Konto.
-TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE_BUTTON,Reload,Перезагрузить,,Neu laden
+TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE_BUTTON,Reload,Перезагр.,,Neu laden
 TID_ERROR_POP_UP_UNSUPPORTED_COUNTRY_TITLE,Login failed,Ошибка Входа,,Anmeldung fehlgeschlagen
 TID_ERROR_POP_UP_UNSUPPORTED_COUNTRY,"Sorry, this game is not available in your country yet.","Извините, игра пока недоступна в вашей стране.",,"Tut uns leid, dieses Spiel ist in deinem Land leider noch nicht verfügbar!"
 TID_ERROR_POP_UP_UNSUPPORTED_COUNTRY_BUTTON,OK,ОК,,Okay
@@ -313,7 +313,7 @@ TID_AVATAR_MESSAGE_TEXT_GEM_REVOKE_PLURAL,"Refunds were requested for this accou
 TID_SHOP_CATEGORY_PUZZLE_PASS,Puzzle Pass,Puzzle Pass,,Rätselpass
 TID_SHOP_CATEGORY_CHRONOS_OFFERS,Special Offers,Специальное Предложения,,Sonderangebote
 TID_SHOP_CATEGORY_OFFERS,Offers,Предложения,,Angebote
-TID_SHOP_CATEGORY_PUZZLE_ENERGY,Gem Packs,Гем Паки,,Juwelenpakete
+TID_SHOP_CATEGORY_PUZZLE_ENERGY,Gem Packs,Наборы Гемов,,Juwelenpakete
 TID_SHOP_CANNOT_PURCHASE_MORE,You have already purchased all the available offers,Вы уже купили все доступные предложения,,Du hast bereits alle verfügbaren Angebote erworben.
 TID_CANNOT_CHANGE_NAME_TIMER,You can only change your name every <TIME> hours,Вы сможете сменить имя только через <TIME> часов,,Du kannst deinen Namen nur alle <TIME> Stunden ändern.
 TID_BUTTON_ATTACK,Attack,Атаковать,,Angreifen
@@ -327,7 +327,7 @@ TID_REGION_2_NAME,Lava Land,Лавовые Земли,,Lavaland
 TID_REGION_3_NAME,Shock Shores,Электрические Края,,Schockufer
 TID_REGION_4_NAME,Elixir Springs,Источники Эликсира,,Elixierquelle
 TID_REGION_5_NAME,Lava Jungle,Лавовые Джунгли,,
-TID_MAP_NODE_1_NAME,Shifty Beach,Shifty Beach,,Risikostrand
+TID_MAP_NODE_1_NAME,Shifty Beach,Shifty Beach,(!),Risikostrand
 TID_MAP_NODE_2_NAME,Palmtree Bank,Palmtree Bank,,Palmenküste
 TID_MAP_NODE_3_NAME,Unsafe Island,Unsafe Island,,Unsichere Insel
 TID_MAP_NODE_4_NAME,Armored Cay,Armored Cay,,Rüstungsinsel
@@ -446,18 +446,18 @@ TID_CARD_STEP_DESCRIPTION,"Swap the placing of two adjacent troops, or move a un
 TID_CARD_CHARGE,Charge,Ярость,,Sturmangriff
 TID_CARD_CHARGE_DESCRIPTION,"Attack with all troops of the same type, regardless of their location on the battlefield.","Атака из всех воинов одного типа, несмотря на их положения на поле.",,"Alle Truppen desselben Typs greifen gemeinsam an, unabhängig von ihrer Position auf dem Schlachtfeld."
 TID_CARD_HEAL,Bless,Лечение,,
-TID_CARD_HEAL_DESCRIPTION,"Increases maximum Health points of a selected troop, and then fully heals them.","Increases maximum Health points of a selected troop, and then fully heals them.",,
+TID_CARD_HEAL_DESCRIPTION,"Increases maximum Health points of a selected troop, and then fully heals them.","Увеличивает максимальное значение здоровья у выбранного воина, а также полностью восполняет его.",,
 TID_CARD_MINION,Minion,Миньон,,
-TID_CARD_MINION_DESCRIPTION,Minions are flying troops that attack the closest enemy on the battlefield.,Minions are flying troops that attack the closest enemy on the battlefield.,,
-TID_CARD_FRONTLINE,Frontline,Frontline,,
-TID_CARD_FRONTLINE_DESCRIPTION,Pushes the selected troop to the front of the Column.,Pushes the selected troop to the front of the Column.,,
+TID_CARD_MINION_DESCRIPTION,Minions are flying troops that attack the closest enemy on the battlefield.,"Миньоны - летающие воины, которые атакуют ближайших врагов.",,
+TID_CARD_FRONTLINE,Frontline,Граница,,
+TID_CARD_FRONTLINE_DESCRIPTION,Pushes the selected troop to the front of the Column.,Перемещает выбранного воина к границе ряда ряда.,,
 ,,,,
 TID_CARD_MAX_LEVEL,MAX LEVEL,МАКСИМАЛЬНЫЙ УРОВЕНЬ,,MAXIMALER LEVEL
 TID_CARD_LEVEL_COLOR,<caaaaaa>Level</c> <level>,<caaaaaa>Уровень</c> <level>,,<caaaaaa>Level</c> <level>
 TID_STAGE_CLEARED_HEADER,Stage <number>/<total>,<number> стадия из <total>,,Phase <number>/<total>
 TID_STAGE_CLEARED_HEADER_ENDLESS,Stage <number>,Стадия <number>,,Phase <number>
 TID_STAGE_CLEARED_FOOTER,CLEARED!,ЗАЧИЩЕНО,,ABGESCHLOSSEN!
-TID_ENERGY_DUMPED_FOOTER,EXPLORED!,ИЗУЧЕНО,,
+TID_ENERGY_DUMPED_FOOTER,EXPLORED!,ИЗУЧЕН,,
 TID_LEVEL_END_HEADER,YOU CLEARED,ТЫ ПРОШЕЛ,,GESCHAFFT:
 TID_LEVEL_END_HEADER_DUNGEON,YOU'VE CLEARED,ТЫ ПРОШЕЛ,,GESCHAFFT:
 TID_LEVEL_END_HEADER_COMPLETED,LEVEL,УРОВЕНЬ,,LEVEL
@@ -466,7 +466,7 @@ TID_LEVEL_END_HEADER_BOSS_VICTORY,YOU DEFEATED THE,ТЫ ОДОЛЕЛ,,BESIEGT:
 TID_LEVEL_END_HEADER_BOSS_DEFEAT,YOU LOST TO THE,ТЕБЯ ОДОЛЕЛ,,BESIEGT VON:
 TID_LEVEL_END_MAIN,<number>/<total> stages,<number> из <total> стадий,,<number>/<total> Phasen
 TID_LEVEL_END_MAIN_SINGULAR,<number>/1 stage,<number> из 1 стадии,,<number>/1 Phase
-TID_LEVEL_END_MAIN_COMPLETED,COMPLETED!,ПРОЙДЕНО,,ABGESCHLOSSEN!
+TID_LEVEL_END_MAIN_COMPLETED,COMPLETED!,ПРОЙДЕН,,ABGESCHLOSSEN!
 TID_LEVEL_END_MAIN_ENDLESS,<number> stages,<number> стадий,,<number> Phasen
 TID_LEVEL_END_MAIN_ENDLESS_SINGULAR,1 stage,1 стадия,,1 Phase
 TID_LEVEL_END_ENDLESS_DEFENSES,<number> defenses,<number> защ. сооруж.,,<number> Verteidigungen
@@ -583,7 +583,7 @@ TID_BATTERY_3,Shielding Battery,Shielding Battery,,Abschirmende Batterie
 TID_QUIVER_1,Large Quiver,Large Quiver,,Großer Köcher
 TID_QUIVER_2,Fine Quiver,Fine Quiver,,Edler Köcher
 TID_QUIVER_3,Dark Quiver,Dark Quiver,,Dunkler Köcher
-TID_BOW_1_INFO,Sets target on fire (<ATTRIBUTE%_1> of full damage per turn). Neighboring tiles have a 50% chance to catch fire.,Поджигает цель <RARITY_COLOR>(<ATTRIBUTE_1>% урона за ход)</c>. Соседние здания также могут поджечься с шансом 50%.,,"Steckt Ziele in Brand (<ATTRIBUTE%_1> Schaden pro Runde). Die benachbarten Felder haben eine 50%ige Wahrscheinlichkeit, ebenfalls in Brand zu geraten."
+TID_BOW_1_INFO,Sets target on fire (<ATTRIBUTE%_1> of full damage per turn). Neighboring tiles have a 50% chance to catch fire.,Поджигает цель <RARITY_COLOR>(<ATTRIBUTE_1>% урона за ход)</c>. Соседние здания также могут поджечься с шансом 50%.,(!),"Steckt Ziele in Brand (<ATTRIBUTE%_1> Schaden pro Runde). Die benachbarten Felder haben eine 50%ige Wahrscheinlichkeit, ebenfalls in Brand zu geraten."
 TID_BOW_2_INFO,<CHANCE%_1> chance for an extra shot (<+ATTRIBUTE%_1> damage).,<RARITY_COLOR><CHANCE_1>% шанс</c> дополнительного выстрела <RARITY_COLOR>(+<ATTRIBUTE_1>% урона).</c>,,<CHANCE%_1>ige Chance auf einen zusätzlichen Schuss (<ATTRIBUTE%_1> Schaden).
 TID_BOW_3_INFO,<ATTRIBUTE%_1> more damage.,<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>.,,Verursacht <ATTRIBUTE%%_1> mehr Schaden.
 TID_SWORD_1_INFO,<CHANCE%_1> chance for a critical hit with <+ATTRIBUTE%_1> more damage.,<RARITY_COLOR><CHANCE_1>% шанс</c> критического урона <RARITY_COLOR>(2x урон)</c>.,,<CHANCE%_1>ige Chance auf einen kritischen Treffer (2-facher Schaden).
@@ -636,27 +636,27 @@ TID_REWARD_TYPE_UNLOCK,Unlocked: <name>,Разблокировано: <name>,,Fr
 TID_REWARD_TYPE_LABEL_GOLD,<number> Gold,<number> Золота,,<number> Gold
 TID_REWERD_TYPE_LABEL_QUEST_TOKENS,<number> Quest Tokens,<number> Квестовых Токенов,,<number> Questmarken
 TID_REWARD_TYPE_INFO_CAP,Grow your army! Add one more unit to take to battle!,Пополняй свою армию! Добавь ещё 1 юнита для битвы!,,Vergrößere deine Armee und ziehe mit noch mehr Einheiten in den Kampf!
-TID_CARD_ARCHER_CAP,Grow your army! Get +1 Archer for ALL levels with Archers!,"Пополняй свою армию! Получи +1 Лучницу для ВСЕХ уровней, где есть она!",,
+TID_CARD_ARCHER_CAP,Grow your army! Get +1 Archer for ALL levels with Archers!,"Пополняй свою армию! Получи +1 Лучницу для ВСЕХ уровней, где она есть!",,
 TID_CARD_GIANT_CAP,Grow your army! Get +1 Giant for ALL levels with Giants!,"Пополняй свою армию! Получи +1 Гиганта для ВСЕХ уровней, где он есть!",,
 TID_CARD_PRINCE_CAP,Grow your army! Get +1 Prince for ALL levels with Princes!,"Пополняй свою армию! Получи +1 Принца для ВСЕХ уровней, где он есть!",,
 TID_CARD_FIREBALL_CAP,Care for another? Add +1 Fireball for ALL levels with Fireballs!,"Хочешь помочь своим войскам? Получи +1 Огненный Шар для ВСЕХ уровней, где он доступен!",,
 TID_CARD_BARBARIAN_CAP,Grow your army! Get +1 Barbarian for ALL levels with Barbarians!,"Пополняй свою армию! Получи +1 Варвара для ВСЕХ уровней, где он есть!",,
 TID_CARD_WIZARD_CAP,Grow your army! Get +1 Wizard for ALL levels with Wizards!,"Пополняй свою армию! Получи +1 Колдуна для ВСЕХ уровней, где он есть!",,
-TID_CARD_PEKKA_CAP,Grow your army! Get +1 P.E.K.K.A for ALL levels with P.E.K.K.A!,"Пополняй свою армию! Получи +1 П.Е.К.К.А для ВСЕХ уровней, где оно есть!",,
+TID_CARD_PEKKA_CAP,Grow your army! Get +1 P.E.K.K.A for ALL levels with P.E.K.K.A!,"Пополняй свою армию! Получи +1 П.Е.К.К.У для ВСЕХ уровней, где он(-о(-а)) есть!",,
 TID_CARD_GOBLIN_CAP,Grow your army! Get +1 Goblin for ALL levels with Goblins!,"Пополняй свою армию! Получи +1 Гоблина для ВСЕХ уровней, где он есть!",,
 TID_CARD_BOMBER_CAP,Grow your army! Get +1 Bomber for ALL levels with Bombers!,"Пополняй свою армию! Получи +1 Бомбера для ВСЕХ уровней, где он есть!",,
 TID_CARD_BABY_DRAGON_CAP,Grow your army! Get +1 Baby Dragon for ALL levels with Baby Dragons!,"Пополняй свою армию! Получи +1 Дракончика для ВСЕХ уровней, где он есть!",,
-TID_CARD_RETREAT_CAP,How about another Retreat? Add +1 for ALL levels with Retreat!,"Как насчёт еще одного Отступления? Получи +1 для ВСЕХ уровней, где Отступление есть!",,
-TID_CARD_STEP_CAP,How about another Swap? Add +1 for ALL levels with Swap!,"Как насчёт еще одной Смены? Получи +1 для ВСЕХ уровней, где Смена есть!",,
-TID_CARD_CHARGE_CAP,How about another Charge? Add +1 for ALL levels with Charge!,"Как насчёт еще одной Ярости? Получи +1 для ВСЕХ уровней, где Ярость есть!",,
-TID_CARD_LOG_CAP,Care for another? Add +1 Log for ALL levels with Logs!,"Хочешь помочь своим войскам? Получи +1 Бревно для ВСЕХ уровней, где оно доступен!",,
-TID_CARD_ROCKET_CAP,Care for another? Add +1 Rocket for ALL levels with Rockets!,"Хочешь помочь своим войскам? Получи +1 Ракету для ВСЕХ уровней, где она доступна!",,
-TID_CARD_RUSH_CAP,How about another Rush? Add +1 for ALL levels with Rush!,"Как насчёт еще одной Атаки? Получи +1 для ВСЕХ уровней, где Атака есть!",,
-TID_CARD_MINION_CAP,Grow your army! Get +1 Minion for ALL levels with Minions!,Grow your army! Get +1 Minion for ALL levels with Minions!,,
-TID_CARD_HEAL_CAP,Care for another? Add +1 Bless for ALL levels with Bless Spells!,Care for another? Add +1 Bless for ALL levels with Bless Spells!,,
-TID_CARD_FRONTLINE_CAP,How about another Frontline? Add +1 for ALL levels with Frontlines!,How about another Frontline? Add +1 for ALL levels with Frontlines!,,
-TID_CARD_ZAP_CAP,Care for another? Add +1 Zap for ALL levels with Zaps!,Care for another? Add +1 Zap for ALL levels with Zaps!,,
-TID_CARD_ARCHER_CAP_CLAIMED,You now have <number> Archers in ALL levels with Archers!,You now have <number> Archers in ALL levels with Archers!,,
+TID_CARD_RETREAT_CAP,How about another Retreat? Add +1 for ALL levels with Retreat!,"Как насчёт еще одного Отступления? Получи +1 для ВСЕХ уровней, где Отступление доступно!",,
+TID_CARD_STEP_CAP,How about another Swap? Add +1 for ALL levels with Swap!,"Как насчёт еще одной Смены? Получи +1 для ВСЕХ уровней, где Смена доступна!",,
+TID_CARD_CHARGE_CAP,How about another Charge? Add +1 for ALL levels with Charge!,"Как насчёт еще одной Ярости? Получи +1 для ВСЕХ уровней, где Ярость доступна!",,
+TID_CARD_LOG_CAP,Care for another? Add +1 Log for ALL levels with Logs!,"Хочешь помочь своим войскам? Получи +1 для ВСЕХ уровней, где Бревно доступно!",,
+TID_CARD_ROCKET_CAP,Care for another? Add +1 Rocket for ALL levels with Rockets!,"Хочешь помочь своим войскам? Получи +1 для ВСЕХ уровней, где Ракета доступна!",,
+TID_CARD_RUSH_CAP,How about another Rush? Add +1 for ALL levels with Rush!,"Как насчёт еще одной Атаки? Получи +1 для ВСЕХ уровней, где Атака доступна!",,
+TID_CARD_MINION_CAP,Grow your army! Get +1 Minion for ALL levels with Minions!,"Пополняй свою армию! Получи +1 Миньона для ВСЕХ уровней, где он есть!",,
+TID_CARD_HEAL_CAP,Care for another? Add +1 Bless for ALL levels with Bless Spells!,"Хочешь помочь своим войскам? Получи +1 Лечение для ВСЕХ уровней, где Лечение доступно!",,
+TID_CARD_FRONTLINE_CAP,How about another Frontline? Add +1 for ALL levels with Frontlines!,"Как насчёт еще одной Границы? Получи +1 для ВСЕХ уровней, где  Граница доступна!",,
+TID_CARD_ZAP_CAP,Care for another? Add +1 Zap for ALL levels with Zaps!,"Хочешь помочь своим войскам? Получи +1 Молнию для ВСЕХ уровней, где она доступна!",,
+TID_CARD_ARCHER_CAP_CLAIMED,You now have <number> Archers in ALL levels with Archers!,You now have <number> Archers in ALL levels with Archers!,(!),
 TID_CARD_GIANT_CAP_CLAIMED,You now have <number> Giants in ALL levels with Giants!,You now have <number> Giants in ALL levels with Giants!,,
 TID_CARD_PRINCE_CAP_CLAIMED,You now have <number> Princes in ALL levels with Princes!,You now have <number> Princes in ALL levels with Princes!,,
 TID_CARD_FIREBALL_CAP_CLAIMED,You now have <number> Fireballs in ALL levels with Fireballs!,You now have <number> Fireballs in ALL levels with Fireballs!,,
@@ -758,7 +758,7 @@ TID_BUILDING_GOBLIN_HUT,Goblin Hut,Хижина Гоблинов,,
 TID_BUILDING_AIR_DEFENSE,Air Defense,Воздушная Оборона,,
 TID_CARD_FIRE_SPIRIT,Fire Spirits,Огненные Духи,,Feuergeister
 TID_CARD_LAVA_PUPPY,Lava Puppy,Лавовые Щенки,,
-TID_TUTORIAL_NEXT_BATTLE_1,There seem to be more of these Islands..,There seem to be more of these Islands..,,Dort scheinen noch mehr solcher Inseln zu sein ...
+TID_TUTORIAL_NEXT_BATTLE_1,There seem to be more of these Islands..,There seem to be more of these Islands..,(!),Dort scheinen noch mehr solcher Inseln zu sein ...
 TID_TUTORIAL_NEXT_BATTLE_2,I wonder what treasures they hold..,I wonder what treasures they hold..,,"Ich frage mich, welche Schätze dort auf uns warten ..."
 TID_TUTORIAL_NEXT_BATTLE_3,"We´ll see, but first we must find our friends.","We´ll see, but first we must find our friends.",,Das werden wir bald erfahren. Aber erst müssen wir unsere Freunde finden.
 TID_TUTORIAL_NEXT_BATTLE_4,Let´s explore the first one. Tap the Island.,Let´s explore the first one. Tap the Island.,,Lass uns die erste Insel erkunden. Tippe auf sie.
@@ -884,8 +884,8 @@ TID_NOTIFICIATION_ONE_ENERGY_RESTORED,Energy available again!,Энергия с�
 TID_NOTIFICATION_PUZZLE_ENERGY_RESTORED_ALL,Your Energy is full! Time to battle!,Ваша энергия переполнена! Время для битвы!,,Deine Energie ist voll! Zeit zu kämpfen!
 TID_NOTIFICATION_ENDLESS_MODE_SEASON_CHANGE,New League Season is starting,Начался новый Сезон Лиги,,Neue Ligasaison beginnt
 TID_NOTIFICATION_ENDLESS_MODE_DAY_CHANGE,New League Day has started,Начался новый День Лиги,,Neuer Ligatag hat begonnen
-TID_NOTIFICATION_ENDLESS_MODE_DAY_NOT_YET_PLAYED,Last chance to play League today!,Последний шанс поиграть в Лиге!,,"Letzte Chance, heute in der Liga zu spielen!"
-TID_NOTIFICATION_NEW_QUEST_AVAILABLE,New side quest is available!,Новый квест доступен!,,Neue Quest verfügbar!
+TID_NOTIFICATION_ENDLESS_MODE_DAY_NOT_YET_PLAYED,Last chance to play League today!,Последний шанс поиграть сегодня в Лиге!,,"Letzte Chance, heute in der Liga zu spielen!"
+TID_NOTIFICATION_NEW_QUEST_AVAILABLE,New side quest is available!,Доступен новый квест!,,Neue Quest verfügbar!
 TID_NOTIFICATION_NEW_DEALS_IN_SHOP,New deals available in shop!,Новые предложения в магазине!,,Neue Angebote im Shop verfügbar!
 TID_NOTIFICATION_COME_BACK_SMALL,Your troops want to attack.,Ваши воины хотят битвы.,,Deine Truppen wollen angreifen.
 TID_NOTIFICATION_COME_BACK_MEDIUM,Your troops want to attack.,Ваши воины хотят битвы.,,Deine Truppen wollen angreifen.
@@ -938,7 +938,7 @@ TID_LEAGUE_BRONZE_15,Bronze XV,Бронза XV,,Bronze XV
 TID_LEAGUE_BRONZE_16,Bronze XVI,Бронза XVI,,Bronze XVI
 TID_FORCE_ONLINE,Go Online to continue playing!,"Выйдите в онлайн, чтобы продолжить играть!",,"Gehe online, um weiterzuspielen!"
 TID_BUILDING_FURNACE,Furnace,Печь,,Ofen
-TID_QQ_LOGIN_BUTTON,QQ Login,QQ Login,,Bei QQ anmelden
+TID_QQ_LOGIN_BUTTON,QQ Login,QQ Login,(!),Bei QQ anmelden
 TID_QQ_LOGGED_IN,Logged in to QQ,Logged in to QQ,,Bei QQ angemeldet
 TID_WECHAT_LOGIN_BUTTON,WeChat Login,WeChat Login,,Bei WeChat anmelden
 TID_WECHAT_NOT_INSTALLED,You haven't installed WeChat yet,You haven't installed WeChat yet,,Du hast WeChat noch nicht installiert.
@@ -975,7 +975,7 @@ TID_POPUP_SURVEY_DECLINE_BUTTON,Decline,Отказаться,,Ablehnen
 TID_SURVEY_COMPLETED,Thanks for taking the survey!,Спасибо за прохождение опроса!,,"Vielen Dank, dass du an der Umfrage teilgenommen hast!"
 TID_SURVEY_TITLE,Clash Quest Survey,Опрос,,Clash Quest-Umfrage
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_TITLE,Important notice,Important notice,,Wichtiger Hinweis
-TID_TENCENT_LOGIN_AGREEMENT_POPUP,"Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.","Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.",,"Bevor du Tencent-Dienste nutzt, lies bitte Folgendes: <TOS>Tencent Games‘ Lizenz- und Nutzungsvertrag</TOS>, <PP>Tencent Games‘ Datenschutzrichtlinien</PP> und <CHILDREN>Tencent Games‘ Datenschutzrichtlinien für junge Spieler</CHILDREN>. Stelle sicher, dass du alle Inhalte und unsere Verarbeitungsregeln verstehst. Bitte achte auf Inhalte in diesen Vereinbarungen, die Haftungsverpflichtungen unsererseits begrenzen oder vollständig ausschließen oder deine eigenen Rechte einschränken, sowie auf Streitschlichtungs- und Zuständigkeitsklauseln. Bitte tippe auf \qZustimmen\q, wenn du <TOS>, <PP> und <CHILDREN> sorgfältig gelesen hast und einverstanden bist."
+TID_TENCENT_LOGIN_AGREEMENT_POPUP,"Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.","Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.",(!),"Bevor du Tencent-Dienste nutzt, lies bitte Folgendes: <TOS>Tencent Games‘ Lizenz- und Nutzungsvertrag</TOS>, <PP>Tencent Games‘ Datenschutzrichtlinien</PP> und <CHILDREN>Tencent Games‘ Datenschutzrichtlinien für junge Spieler</CHILDREN>. Stelle sicher, dass du alle Inhalte und unsere Verarbeitungsregeln verstehst. Bitte achte auf Inhalte in diesen Vereinbarungen, die Haftungsverpflichtungen unsererseits begrenzen oder vollständig ausschließen oder deine eigenen Rechte einschränken, sowie auf Streitschlichtungs- und Zuständigkeitsklauseln. Bitte tippe auf \qZustimmen\q, wenn du <TOS>, <PP> und <CHILDREN> sorgfältig gelesen hast und einverstanden bist."
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_AGREE,Agree,Agree,,Zustimmen
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_REFUSE,Refuse,Refuse,,Ablehnen
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_2,"Please note that you need to carefully read and agree with\n<TOS>Tencent Game License and Service Agreement</TOS>,\n<PP>Tencent Game Privacy Protection Guidelines</PP> and\n<CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN>\nbefore accessing the game.","Please note that you need to carefully read and agree with\n<TOS>Tencent Game License and Service Agreement</TOS>,\n<PP>Tencent Game Privacy Protection Guidelines</PP> and\n<CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN>\nbefore accessing the game.",,"Bitte beachte, dass du\n<TOS>Tencent Games‘ Lizenz und Nutzungsvertrag</TOS>,\n<PP>Tencent Games‘ Datenschutzrichtlinien</PP> und\n<CHILDREN>Tencent Games‘ Datenschutzrichtlinien für junge Spieler</CHILDREN>\nsorgfältig lesen und ihnen zustimmen musst, bevor du auf das Spiel zugreifen kannst."
@@ -998,59 +998,59 @@ TID_CLAIM_REWARD,Claim reward,Получить награду,,Belohnung einford
 TID_SEASON_END_TITLE,League Season Ended,Сезон Лиги закончен,,Ligasaison ist zu Ende
 TID_SEASON_END_TEXT_UP,You moved up to the <cffc620><league></c>!\nCongratulations!,Ты перешел на <cffc620><league></c>!\nПоздравляем!,,Du bist in <cffc620><league></c> aufgestiegen!\nGlückwunsch!
 TID_SEASON_END_TEXT_SAME,You stayed on the <cffc620><league></c>.\nGood work!,Ты остался на <cffc620><league></c>.\nХорошая работа!,,Du bist in <cffc620><league></c> geblieben.\nGut gemacht!
-TID_SEASON_END_TEXT_DOWN,You moved down to the <cffc620><league></c>.,You moved down to the <cffc620><league></c>.,,Du bist in <cffc620><league></c> abgestiegen.
-TID_ACCOUNT_LOCKED_TITLE,Account Locked,Account Locked,,Konto gesperrt
-TID_ACCOUNT_LOCKED_TEXT,Your account has been locked for security reasons. Enter the unlock code to recover your account.,Your account has been locked for security reasons. Enter the unlock code to recover your account.,,"Dein Konto wurde aus Sicherheitsgründen gesperrt. Gib den Freischaltcode ein, um dein Konto wiederherzustellen."
-TID_ACCOUNT_LOCKED_TEXT2,Enter unlock code here:,Enter unlock code here:,,Freischaltcode hier eingeben:
-TID_ACCOUNT_LOCKED_INVALID_CODE,Invalid unlock code!,Invalid unlock code!,,Ungültiger Freischaltcode!
-TID_OFFER_STARTER_PACK,Starter Pack,Starter Pack,,
-TID_OFFER_LEAGUE_PACK,League Pack,League Pack,,
-TID_OFFER_GOBLIN_PACK,Goblin Pack,Goblin Pack,,
-TID_OFFER_PEKKA_PACK,P.E.K.K.A Pack,P.E.K.K.A Pack,,
-TID_OFFER_BABY_DRAGON_PACK,Baby Dragon Pack,Baby Dragon Pack,,
-TID_OFFER_BOMBER_PACK,Bomber Pack,Bomber Pack,,
-TID_OFFER_MINION_PACK,Minion Pack,Minion Pack,,
-TID_OFFER_REGION_2_PACK,Lava Land Pack,Lava Land Pack,,
-TID_OFFER_REGION_3_PACK,Shock Shores Pack,Shock Shores Pack,,
-TID_OFFER_REGION_4_PACK,Elixir Springs Pack,Elixir Springs Pack,,
-TID_OFFER_REGION_5_PACK,Lava Jungle Pack,Lava Jungle Pack,,
-TID_OFFER_VALUE,value,value,,
-TID_GOBLIN_ITEM,Goblin Item,Goblin Item,,
-TID_PEKKA_ITEM,P.E.K.K.A Item,P.E.K.K.A Item,,
-TID_BABY_DRAGON_ITEM,Baby Dragon Item,Baby Dragon Item,,
-TID_BOMBER_ITEM,Bomber Item,Bomber Item,,
-TID_MINION_ITEM,Minion Item,Minion Item,,
+TID_SEASON_END_TEXT_DOWN,You moved down to the <cffc620><league></c>.,Ты был понижен до <cffc620><league></c>.,,Du bist in <cffc620><league></c> abgestiegen.
+TID_ACCOUNT_LOCKED_TITLE,Account Locked,Аккаунт Заблокирован,,Konto gesperrt
+TID_ACCOUNT_LOCKED_TEXT,Your account has been locked for security reasons. Enter the unlock code to recover your account.,Твой аккаунт был заблокирован из-за угрозы взлома. Введите код разблокировки для восстановления.,,"Dein Konto wurde aus Sicherheitsgründen gesperrt. Gib den Freischaltcode ein, um dein Konto wiederherzustellen."
+TID_ACCOUNT_LOCKED_TEXT2,Enter unlock code here:,Введите код разблокировки:,,Freischaltcode hier eingeben:
+TID_ACCOUNT_LOCKED_INVALID_CODE,Invalid unlock code!,Неверный код!,,Ungültiger Freischaltcode!
+TID_OFFER_STARTER_PACK,Starter Pack,Стартовый Набор,,
+TID_OFFER_LEAGUE_PACK,League Pack,Набор Лиги,,
+TID_OFFER_GOBLIN_PACK,Goblin Pack,Набор Гоблина,,
+TID_OFFER_PEKKA_PACK,P.E.K.K.A Pack,Набор П.Е.К.К.А.,,
+TID_OFFER_BABY_DRAGON_PACK,Baby Dragon Pack,Набор Дракончика,,
+TID_OFFER_BOMBER_PACK,Bomber Pack,Набор Бомбера,,
+TID_OFFER_MINION_PACK,Minion Pack,Набор Миньона,,
+TID_OFFER_REGION_2_PACK,Lava Land Pack,Набор Лавовых Земель,,
+TID_OFFER_REGION_3_PACK,Shock Shores Pack,Набор Электрических Краев,,
+TID_OFFER_REGION_4_PACK,Elixir Springs Pack,Набор Источников Эликсира,,
+TID_OFFER_REGION_5_PACK,Lava Jungle Pack,Набор Лавовых Джунглей,,
+TID_OFFER_VALUE,value,цена,,
+TID_GOBLIN_ITEM,Goblin Item,Предмет Гоблина,,
+TID_PEKKA_ITEM,P.E.K.K.A Item,Предмет П.Е.К.К.А.,,
+TID_BABY_DRAGON_ITEM,Baby Dragon Item,Предмет Дракончика,,
+TID_BOMBER_ITEM,Bomber Item,Предмет Бомбера,,
+TID_MINION_ITEM,Minion Item,Предмет Миньона,,
 TID_OFFER_INFO_RESOURCES,<NUM> <RESOURCE>,<NUM> <RESOURCE>,,
-TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP_SINGULAR,1 random item (for random troop),1 random item (for random troop),,
-TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP,<NUM> random items (for random troops),<NUM> random items (for random troops),,
-TID_OFFER_RANDOM_ITEM_FOR_TROOP_SINGULAR,1 random item (for <TROOP>),1 random item (for <TROOP>),,
-TID_OFFER_RANDOM_ITEM_FOR_TROOP,<NUM> random items (for <TROOP>),<NUM> random items (for <TROOP>),,
-TID_OFFER_RANDOM_ITEM,Random item,Random item,,
-TID_OFFER_ELIXIR_FOR_RANDOM_CARDS,<NUM> Elixir (for random troops),<NUM> Elixir (for random troops),,
-TID_OFFER_ELIXIR_FOR_CARD,<NUM> Elixir (for <CARD>),<NUM> Elixir (for <CARD>),,
-TID_OFFER_DONT_MISS_ONE_TIME_CHANCE,Don't miss this <VALUE>x ONE time offer!,Don't miss this <VALUE>x ONE time offer!,,
-TID_OFFER_POPOVER_HEADER,You will get:,You will get:,,
-TID_OFFER_PURCHASE_LIMIT_REACHED,Purchase limit reached,Purchase limit reached,,
-TID_OFFER_UNABLE_TO_PURCHASE,Unable to purchase,Unable to purchase,,
-TID_SHOP_OFFER_POPOVER,New special deal available!,New special deal available!,,
-TID_SHOP_OFFERS_POPOVER,New special deals available!,New special deals available!,,
-TID_DUNGEON_1_NAME,Jungle Bay Dungeon,Jungle Bay Dungeon,,
-TID_DUNGEON_2_NAME,Magma Pit,Magma Pit,,
-TID_DUNGEON_3_NAME,Charged Caverns,Charged Caverns,,
-TID_DUNGEON_4_NAME,Dragontooth Lair,Dragontooth Lair,,
-TID_DUNGEON_5_NAME,Lava Rift,Lava Rift,,
-TID_BUTTON_ATTACK_DUNGEON_START,Enter,Enter,,
-TID_BUTTON_ATTACK_DUNGEON_CONTINUE,Continue,Continue,,
-TID_LEAGUE_SEASON_END_CHEST_DESCRIPTION,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!,,
-TID_TREASURE_MAP,Compass,Compass,,
-TID_INFO_TREASURE_MAP,Discover a Treasure Dungeon on the map!,Discover a Treasure Dungeon on the map!,,
-TID_SHOP_DEAL_TREASURE_MAP,Compass,Compass,,
+TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP_SINGULAR,1 random item (for random troop),1 случайный предмет (для случайного воина),,
+TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP,<NUM> random items (for random troops),<NUM> случайных предмета (для случайных воинов),,
+TID_OFFER_RANDOM_ITEM_FOR_TROOP_SINGULAR,1 random item (for <TROOP>),1 случайный предмет (для <TROOP>),,
+TID_OFFER_RANDOM_ITEM_FOR_TROOP,<NUM> random items (for <TROOP>),<NUM> случайных предмета (для <TROOP>),,
+TID_OFFER_RANDOM_ITEM,Random item,Случайный предмет,,
+TID_OFFER_ELIXIR_FOR_RANDOM_CARDS,<NUM> Elixir (for random troops),<NUM> Эликсира (для случайного воина),,
+TID_OFFER_ELIXIR_FOR_CARD,<NUM> Elixir (for <CARD>),<NUM> Эликсира (для воина <CARD>),,
+TID_OFFER_DONT_MISS_ONE_TIME_CHANCE,Don't miss this <VALUE>x ONE time offer!,Не пропусти <VALUE>x ОДНОРАЗОВОЕ предложение!,,
+TID_OFFER_POPOVER_HEADER,You will get:,Ты получишь:,,
+TID_OFFER_PURCHASE_LIMIT_REACHED,Purchase limit reached,Достигнут лимит покупок,,
+TID_OFFER_UNABLE_TO_PURCHASE,Unable to purchase,Нет возможности для покупки,,
+TID_SHOP_OFFER_POPOVER,New special deal available!,Новое специальное предложение доступно!,,
+TID_SHOP_OFFERS_POPOVER,New special deals available!,Новые специальные предложения доступны!,,
+TID_DUNGEON_1_NAME,Jungle Bay Dungeon,Залив Джунглей,,
+TID_DUNGEON_2_NAME,Magma Pit,Яма Магмы,,
+TID_DUNGEON_3_NAME,Charged Caverns,Заряженные Пещеры,,
+TID_DUNGEON_4_NAME,Dragontooth Lair,Логово Драконьего Зуба,,
+TID_DUNGEON_5_NAME,Lava Rift,Лавовая Трещина,,
+TID_BUTTON_ATTACK_DUNGEON_START,Enter,Войти,,
+TID_BUTTON_ATTACK_DUNGEON_CONTINUE,Continue,Продолжить,,
+TID_LEAGUE_SEASON_END_CHEST_DESCRIPTION,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!,\nЭта сезонная награда содержит:\n• <cF8A203><NUM_GOLD></c> Золота\n• <c3CB01D><NUM_GEMS></c> Гемов\n• <ce48810><NUM_TOKENS></c> Токенов Лиги\n• <ce048d8><NUM_ELIXIR></c> Эликсира... или даже больше золота!,,
+TID_TREASURE_MAP,Compass,Компасс,,
+TID_INFO_TREASURE_MAP,Discover a Treasure Dungeon on the map!,Изучи Подземелье с сокровищами на карте!,,
+TID_SHOP_DEAL_TREASURE_MAP,Compass,Компасс,,
 TID_ITEM_UPGRADE_MAX,<NAME> is already at max level!,<NAME> is already at max level!,,
 TID_CAP_MAX_EXPLANATION,You have all <NUMBER> <NAME>s out of maximum of <MAX>!,You have all <NUMBER> <NAME>s out of maximum of <MAX>!,,Du hast 1 <NAME> von maximal <MAX>.
-TID_POPUP_BUY_REROLL_TITLE,Reroll,Reroll,,
-TID_POPUP_BUY_REROLL_TEXT,"For <c3CB01D><COST></c> Gems, start again with a new opening formation.\n\nYou have <c3CB01D><NUMBER></c> Gems in total.","For <c3CB01D><COST></c> Gems, start again with a new opening formation.\n\nYou have <c3CB01D><NUMBER></c> Gems in total.",,
-TID_BUTTON_REROLL,Reroll,Reroll,,
-TID_EXTRA_HEALTH,Health Increase,Health Increase,,
+TID_POPUP_BUY_REROLL_TITLE,Reroll,Перемешка,,
+TID_POPUP_BUY_REROLL_TEXT,"For <c3CB01D><COST></c> Gems, start again with a new opening formation.\n\nYou have <c3CB01D><NUMBER></c> Gems in total.","За <c3CB01D><COST></c> Гемов, ты можешь стартовать с новой расстановкой воинов.\nСейчас у тебя <c3CB01D><NUMBER></c> Гемов.",,
+TID_BUTTON_REROLL,Reroll,Перемешать,,
+TID_EXTRA_HEALTH,Health Increase,Увеличение Здоровья,,
 TID_ACCOUNT_DELETED_ON_REQUEST_TEXT,This account has been disabled due to a deletion request and can no longer be recovered.,This account has been disabled due to a deletion request and can no longer be recovered.,,
 TID_ACCOUNT_DELETED_DUE_INACTIVITY_TEXT,This account has been disabled due to inactivity and can no longer be recovered.,This account has been disabled due to inactivity and can no longer be recovered.,,
 TID_ACCOUNT_DISABLED_TEXT,Account Disabled,Account Disabled,,
