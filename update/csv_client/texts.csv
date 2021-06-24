@@ -126,7 +126,7 @@ TID_SEASON_COMPLETE_TEXT,Congrats for completing a season!,Поздравляе�
 TID_SEASON_COMPLETE_GOODS_SOLD_TEXT,GOLD FROM MARKET,ЗОЛОТО ИЗ МАГАЗИНА,,GOLD VOM MARKT
 TID_SELL_BUTTON,SELL,ПРОДАТЬ,,VERKAUFEN
 TID_DEFAULT_SEARCH_TEXT,INSERT NAME HERE,ВСТАВЬТЕ ИМЯ СЮДА,,HIER NAMEN EINGEBEN
-TID_NH_SEARCH,Search for a clan!,Search for a clan!,(!),Suche einen Clan!
+TID_NH_SEARCH,Search for a clan!,Search for a clan!,(-),Suche einen Clan!
 TID_NH_CREATE,Create New,Create New,,Neu gründen
 TID_MEMBERS,Members,Members,,Mitglieder
 TID_TAB_BUTTON_ALLIANCE_CHAT,Chat,Chat,,Chat
@@ -196,10 +196,10 @@ TID_SHOP_DEAL_QUEST_TOKEN,Quest Token,Квестовый Токен,,Eine Questm
 TID_SHOP_DEAL_QUEST_TOKENS,Quest Tokens,Квестовые Токены,,<number> Questmarken
 TID_SHOP_DEAL_GEM,Gem,Гем,,Ein Juwel
 TID_SHOP_DEAL_GEMS,Gems,Гемы,,<number> Juwelen
-TID_SHOP_DEAL_ELIXIR,<name> Elixir,<name> Эликсир,,Ein Elixier
-TID_SHOP_DEAL_ELIXIRS,<name> Elixir,<name> Эликсир,,<number> Elixier
+TID_SHOP_DEAL_ELIXIR,<name> Elixir,<name>: Эликсир,,Ein Elixier
+TID_SHOP_DEAL_ELIXIRS,<name> Elixir,<name>: Эликсир,,<number> Elixier
 TID_SHOP_DEAL_CAP,One more <name>,1x <name>,,+1 <name>
-TID_SHOP_DEAL_CAPS,<number> more <name>s,<number>x <name>,(?),<number> <name>
+TID_SHOP_DEAL_CAPS,<number> more <name>s,<number>x <name>,,<number> <name>
 TID_SHOP_GEM_PACK_1,Pile of Gems,Кучка Гемов,,Juwelenhaufen
 TID_SHOP_GEM_PACK_2,Bag of Gems,Мешок Гемов,,Juwelenbeutel
 TID_SHOP_GEM_PACK_3,Bucket of Gems,Ведро Гемов,,Juweleneimer
@@ -214,7 +214,7 @@ TID_SHOP_TOKEN_PACK_1,Fistful of Quest Tokens,Кучка Квестовых То
 TID_SHOP_TOKEN_PACK_2,Pile of Quest Tokens,"Кучка Квестовых Токенов, только лучше прошлой",,<number> Questmarken
 TID_SHOP_TOKEN_PACK_3,Pouch of Quest Tokens,Мешок Квестовых Токенов,,<number> Questmarken
 TID_SHOP_ELIXIR_LOOT_BOX_1,Elixir Crate,Ящик Эликсира,,Elixierkiste
-TID_INFO_ELIXIR_LOOT_BOX,"Gain 20 elixir, randomly distributed between 4 different troops and spells!","В этом ящике 20 эликсира, которые разделяются между 4 разными войсками и Заклинаниями!",,"20 Elixiereinheiten, die unter 4 verschiedenen Truppenarten geteilt werden!"
+TID_INFO_ELIXIR_LOOT_BOX,"Gain 20 elixir, randomly distributed between 4 different troops and spells!","В этом ящике 20 эликсира, которые разделяются между 4 разными войсками и заклинаниями!",,"20 Elixiereinheiten, die unter 4 verschiedenen Truppenarten geteilt werden!"
 TID_SHOP_CONFIRM_POPUP_MAX_ELIXIR,Maximum elixir is already reached.\n\nConfirm purchase on alternative reward of <GOLD_AMOUNT> Gold instead?,Максимум кол-ва Эликсира уже достигнуто.\n\nПодтвердить покупку альтернативной награды в виде <GOLD_AMOUNT> Золота?,,Die Obergrenze für Elixier ist bereits erreicht.\n\nStattdessen alternative Belohnung von <GOLD_AMOUNT> Gold kaufen?
 TID_SHOP_UNABLE_TO_BUY_ELIXIR_CRATE_FLOATER,Unable to buy Elixir Crate,Невозможно купить Ящик Эликсира,,Elixierkiste kann nicht gekauft werden
 TID_SHOP_MAX_RESOURCE_CAP_FLOATER,Resource cap reached,Достигнуто ограничение по ресурсам,,Ressourcen-Obergrenze erreicht
@@ -327,16 +327,16 @@ TID_REGION_2_NAME,Lava Land,Лавовые Земли,,Lavaland
 TID_REGION_3_NAME,Shock Shores,Электрические Края,,Schockufer
 TID_REGION_4_NAME,Elixir Springs,Источники Эликсира,,Elixierquelle
 TID_REGION_5_NAME,Lava Jungle,Лавовые Джунгли,,
-TID_MAP_NODE_1_NAME,Shifty Beach,Shifty Beach,(!),Risikostrand
-TID_MAP_NODE_2_NAME,Palmtree Bank,Palmtree Bank,,Palmenküste
-TID_MAP_NODE_3_NAME,Unsafe Island,Unsafe Island,,Unsichere Insel
-TID_MAP_NODE_4_NAME,Armored Cay,Armored Cay,,Rüstungsinsel
-TID_MAP_NODE_5_NAME,Cannonball Reef,Cannonball Reef,,Kanonenkugel-Riff
-TID_MAP_NODE_6_NAME,Totem Heights,Totem Heights,,Totemhöhen
-TID_MAP_NODE_7_NAME,Howitzer Hill,Howitzer Hill,,Haubitzenhügel
-TID_MAP_NODE_8_NAME,Fatal Point,Fatal Point,,Tödlicher Gipfel
-TID_MAP_NODE_9_NAME,Shady Shelter,Shady Shelter,,Unheimlicher Unterschlupf
-TID_MAP_NODE_10_NAME,Roaster Rock,Roaster Rock,,Brutzelfels
+TID_MAP_NODE_1_NAME,Shifty Beach,Подозрительный Пляж,,Risikostrand
+TID_MAP_NODE_2_NAME,Palmtree Bank,Пальмовый Банк,,Palmenküste
+TID_MAP_NODE_3_NAME,Unsafe Island,Небезопасный Островок,,Unsichere Insel
+TID_MAP_NODE_4_NAME,Armored Cay,Укреплённый Риф,,Rüstungsinsel
+TID_MAP_NODE_5_NAME,Cannonball Reef,Риф Пушечного Ядра,,Kanonenkugel-Riff
+TID_MAP_NODE_6_NAME,Totem Heights,Тотемные Высоты ,,Totemhöhen
+TID_MAP_NODE_7_NAME,Howitzer Hill,Оборонительный Холм,,Haubitzenhügel
+TID_MAP_NODE_8_NAME,Fatal Point,Фатальная Точка,,Tödlicher Gipfel
+TID_MAP_NODE_9_NAME,Shady Shelter,Загадочное Убежище,,Unheimlicher Unterschlupf
+TID_MAP_NODE_10_NAME,Roaster Rock,Roaster Rock,(!!),Brutzelfels
 TID_MAP_NODE_11_NAME,Red-Hot Heights,Red-Hot Heights,,Glühender Gipfel
 TID_MAP_NODE_12_NAME,Magma Bank,Magma Bank,,Magmaufer
 TID_MAP_NODE_13_NAME,Hot Pot,Hot Pot,,Siedendes Plateau
@@ -452,21 +452,21 @@ TID_CARD_MINION_DESCRIPTION,Minions are flying troops that attack the closest en
 TID_CARD_FRONTLINE,Frontline,Граница,,
 TID_CARD_FRONTLINE_DESCRIPTION,Pushes the selected troop to the front of the Column.,Перемещает выбранного воина к границе ряда ряда.,,
 ,,,,
-TID_CARD_MAX_LEVEL,MAX LEVEL,МАКСИМАЛЬНЫЙ УРОВЕНЬ,,MAXIMALER LEVEL
+TID_CARD_MAX_LEVEL,MAX LEVEL,МАКС. УРОВЕНЬ,,MAXIMALER LEVEL
 TID_CARD_LEVEL_COLOR,<caaaaaa>Level</c> <level>,<caaaaaa>Уровень</c> <level>,,<caaaaaa>Level</c> <level>
 TID_STAGE_CLEARED_HEADER,Stage <number>/<total>,<number> стадия из <total>,,Phase <number>/<total>
 TID_STAGE_CLEARED_HEADER_ENDLESS,Stage <number>,Стадия <number>,,Phase <number>
 TID_STAGE_CLEARED_FOOTER,CLEARED!,ЗАЧИЩЕНО,,ABGESCHLOSSEN!
 TID_ENERGY_DUMPED_FOOTER,EXPLORED!,ИЗУЧЕН,,
 TID_LEVEL_END_HEADER,YOU CLEARED,ТЫ ПРОШЕЛ,,GESCHAFFT:
-TID_LEVEL_END_HEADER_DUNGEON,YOU'VE CLEARED,ТЫ ПРОШЕЛ,,GESCHAFFT:
+TID_LEVEL_END_HEADER_DUNGEON,YOU'VE CLEARED,ТЫ ЗАЧИСТИЛ,,GESCHAFFT:
 TID_LEVEL_END_HEADER_COMPLETED,LEVEL,УРОВЕНЬ,,LEVEL
 TID_LEVEL_END_HEADER_COMPLETED_DUNGEON,DUNGEON,ПОДЗЕМЕЛЬЕ,,DUNGEON
 TID_LEVEL_END_HEADER_BOSS_VICTORY,YOU DEFEATED THE,ТЫ ОДОЛЕЛ,,BESIEGT:
 TID_LEVEL_END_HEADER_BOSS_DEFEAT,YOU LOST TO THE,ТЕБЯ ОДОЛЕЛ,,BESIEGT VON:
 TID_LEVEL_END_MAIN,<number>/<total> stages,<number> из <total> стадий,,<number>/<total> Phasen
 TID_LEVEL_END_MAIN_SINGULAR,<number>/1 stage,<number> из 1 стадии,,<number>/1 Phase
-TID_LEVEL_END_MAIN_COMPLETED,COMPLETED!,ПРОЙДЕН,,ABGESCHLOSSEN!
+TID_LEVEL_END_MAIN_COMPLETED,COMPLETED!,ПРОЙДЕНО,,ABGESCHLOSSEN!
 TID_LEVEL_END_MAIN_ENDLESS,<number> stages,<number> стадий,,<number> Phasen
 TID_LEVEL_END_MAIN_ENDLESS_SINGULAR,1 stage,1 стадия,,1 Phase
 TID_LEVEL_END_ENDLESS_DEFENSES,<number> defenses,<number> защ. сооруж.,,<number> Verteidigungen
@@ -516,9 +516,9 @@ TID_EQUIPPED,Equipped,Надето,,Ausgerüstet
 TID_EQUIPPED_UPPER_CASE,EQUIPPED,НАДЕТО,,AUSGERÜSTET
 TID_ALREADY_EQUIPPED,Already equipped!,Уже Надето!,,Bereits ausgerüstet!
 TID_ITEM_UNAVAILABLE,You haven't found this item yet!,Вы еще не нашли этот предмет!,,Du hast diesen Gegenstand noch nicht gefunden!
-TID_ITEM_REQUIREMENT,x combo required.,x Комбо требуется.,,-fache Combo benötigt.
+TID_ITEM_REQUIREMENT,x combo required.,x Комбо требуется,,-fache Combo benötigt.
 TID_ITEM_REQUIREMENT_ACTIVE,Attack with <NUMBER> or more units to activate the item power.,Атакуйте с <NUMBER> или большим кол-вом воинов для активации предмета.,,"Greife mit <NUMBER> oder mehr Einheiten an, um die Kraft des Gegenstands zu aktivieren."
-TID_ITEM_REQUIREMENT_PASSIVE,Build a group of <NUMBER> or more units on your board to activate the item power.,Создайте группу из <NUMBER> или больше для активации предмета.,,"Bilde eine Gruppe von <NUMBER> oder mehr Einheiten auf deinem Spielfeld, um die Kraft des Gegenstands zu aktivieren."
+TID_ITEM_REQUIREMENT_PASSIVE,Build a group of <NUMBER> or more units on your board to activate the item power.,Создайте группу из <NUMBER> или больше кол-ва воинов для активации предмета.,,"Bilde eine Gruppe von <NUMBER> oder mehr Einheiten auf deinem Spielfeld, um die Kraft des Gegenstands zu aktivieren."
 TID_BADGE_NEW,NEW,НОВОЕ,,NEU
 TID_CAP_EXPLANATION_SINGULAR,"You have 1 <NAME> in your Squad, out of maximum of <MAX>.",У вас 1 <NAME> из максимальных <MAX>.,,Du hast 1 <NAME> von maximal <MAX>.
 TID_CAP_EXPLANATION,"You have <NUMBER> <NAME>s in your Squad, out of maximum of <MAX>.",У вас <NUMBER> из максимальных <MAX>.,,Du hast <NUMBER> <NAME> von maximal <MAX>.
@@ -568,9 +568,9 @@ TID_PEKKASWORD_3,Dual Blade,Двойная Катана,,Doppelklinge
 TID_BOMB_1,Ice Bomb,Ледяная Бомба,,Eisbombe
 TID_BOMB_2,Heavy Bomb,Тяжелая Бомба,,Schwere Bombe
 TID_BOMB_3,Rage Bomb,Бомба Ярости,,Wutbombe
-TID_MINIONGAUNTLET_1,Explosive Gloves,Explosive Gloves,,Explosive Handschuhe
-TID_MINIONGAUNTLET_2,Revenge Gloves,Revenge Gloves,,Dynamikhandschuhe
-TID_MINIONGAUNTLET_3,Double Gloves,Double Gloves,,Starke Handschuhe
+TID_MINIONGAUNTLET_1,Explosive Gloves,Взрывные Перчатки,,Explosive Handschuhe
+TID_MINIONGAUNTLET_2,Revenge Gloves,Перчатки Мести,,Dynamikhandschuhe
+TID_MINIONGAUNTLET_3,Double Gloves,Двойные Перчатки,,Starke Handschuhe
 TID_COLLAR_1,Scattering Collar,Рассеивающий Ошейник,,Streukragen
 TID_COLLAR_2,Fire Collar,Огненный Ошейник,,Feuerkragen
 TID_COLLAR_3,Force Collar,Ошейник Силы,,Machtkragen
@@ -583,36 +583,36 @@ TID_BATTERY_3,Shielding Battery,Shielding Battery,,Abschirmende Batterie
 TID_QUIVER_1,Large Quiver,Large Quiver,,Großer Köcher
 TID_QUIVER_2,Fine Quiver,Fine Quiver,,Edler Köcher
 TID_QUIVER_3,Dark Quiver,Dark Quiver,,Dunkler Köcher
-TID_BOW_1_INFO,Sets target on fire (<ATTRIBUTE%_1> of full damage per turn). Neighboring tiles have a 50% chance to catch fire.,Поджигает цель <RARITY_COLOR>(<ATTRIBUTE_1>% урона за ход)</c>. Соседние здания также могут поджечься с шансом 50%.,(!),"Steckt Ziele in Brand (<ATTRIBUTE%_1> Schaden pro Runde). Die benachbarten Felder haben eine 50%ige Wahrscheinlichkeit, ebenfalls in Brand zu geraten."
-TID_BOW_2_INFO,<CHANCE%_1> chance for an extra shot (<+ATTRIBUTE%_1> damage).,<RARITY_COLOR><CHANCE_1>% шанс</c> дополнительного выстрела <RARITY_COLOR>(+<ATTRIBUTE_1>% урона).</c>,,<CHANCE%_1>ige Chance auf einen zusätzlichen Schuss (<ATTRIBUTE%_1> Schaden).
-TID_BOW_3_INFO,<ATTRIBUTE%_1> more damage.,<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>.,,Verursacht <ATTRIBUTE%%_1> mehr Schaden.
-TID_SWORD_1_INFO,<CHANCE%_1> chance for a critical hit with <+ATTRIBUTE%_1> more damage.,<RARITY_COLOR><CHANCE_1>% шанс</c> критического урона <RARITY_COLOR>(2x урон)</c>.,,<CHANCE%_1>ige Chance auf einen kritischen Treffer (2-facher Schaden).
-TID_SWORD_2_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,Blockt <ATTRIBUTE%_1> des Schadens.
-TID_SWORD_3_INFO,<+ATTRIBUTE%_1> attack boost when wounded.,"<RARITY_COLOR>+<ATTRIBUTE_1>% к урону</c>, когда Варвар ранен.",,Verleiht einen <ATTRIBUTE%_1>igen Angriffsboost bei Verwundung.
-TID_BRACELET_1_INFO,Sets target on fire for 5 turns (<ATTRIBUTE%_1> of full damage per turn).,Поджигает цель на 5 ходов <RARITY_COLOR>(<ATTRIBUTE_1>% от всего урона каждый ход).</c>,,Steckt Ziele 5 Züge lang in Brand (<ATTRIBUTE%_1> des regulären Schadens pro Zug).
-TID_BRACELET_2_INFO,"<CHANCE%_1> chance of spawning two smaller fireballs to random targets, each making <ATTRIBUTE%_1> of full damage.","<RARITY_COLOR><CHANCE_1>% шанс</c> появления 2 маленьких огненных шара <RARITY_COLOR>(<ATTRIBUTE_1>% от всего урона)</c>, которые направляются к случайным целям.",,"<CHANCE%_1>ige Chance, zwei kleinere Feuerbälle (<ATTRIBUTE%_1> des regulären Schadens) bei zufälligen Zielen zu beschwören."
-TID_BRACELET_3_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens.
-TID_LANCE_1_INFO,"After destroying a target, hits a second target behind it with <ATTRIBUTE%_1> of full damage.",После уничтожения цели наносит дополнительный урон  <RARITY_COLOR><ATTRIBUTE_1>% от всего урона</c> цели позади.,,"Treffe, nachdem du ein Ziel zerstört hast, ein weiteres Ziel dahinter mit <ATTRIBUTE%_1> des regulären Schadens."
-TID_LANCE_2_INFO,Damages adjacent squares with <ATTRIBUTE%_1> of full damage.,Наносит по области <RARITY_COLOR><ATTRIBUTE_1>% урона</c>.,,Verursacht <ATTRIBUTE%_1> Schaden auf angrenzenden Feldern.
-TID_LANCE_3_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона.,,Blockt <ATTRIBUTE%_1> des Schadens.
-TID_DAGGER_1_INFO,"<CHANCE%_1> chance of striking three times instead of one, for 3x damage.",<RARITY_COLOR><CHANCE_1>% шанс</c> ударить цель 3 раза вместо одного <RARITY_COLOR>(3x урон)</c>.,,"<CHANCE%_1>ige Chance, dreimal zuzuschlagen, statt einmal (3-facher Schaden)."
-TID_DAGGER_2_INFO,"After destroying a target, gain a second attack with <ATTRIBUTE%_1> damage.",После уничтожения цели совершает вторую атаку с дополнительными <RARITY_COLOR><ATTRIBUTE_1>% урона</c>.,,"Gewährt, nachdem du ein Ziel zerstört hast, einen zweiten Angriff mit <ATTRIBUTE%_1> Schaden."
-TID_DAGGER_3_INFO,<CHANCE%_1> of dodging an enemy attack.,<RARITY_COLOR><CHANCE_1>% шанс</c> уклонения от вражеской атаки.,,"<CHANCE%_1>ige Chance, einem feindlichen Angriff auszuweichen."
-TID_GAUNTLET_1_INFO,"Gives attack boost in proportion to missing health, maximum of <+ATTRIBUTE%_1> damage.","Дает усиление атаки, равное коэффициенту недостающего здоровья, максимум <RARITY_COLOR>+<ATTRIBUTE_1>% урона</c>.",,Verleiht einen Angriffsboost bei Verwundung.
-TID_GAUNTLET_2_INFO,Damages adjacent squares with <ATTRIBUTE%_1> of full damage.,Наносит по области <RARITY_COLOR><ATTRIBUTE_1>% </c> от всего урона.,,Verursacht <ATTRIBUTE%_1> des regulären Schadens auf angrenzenden Feldern.
-TID_GAUNTLET_3_INFO,Heals self and neighbouring allies with <ATTRIBUTE_1> health per turn.,Исцеляет <RARITY_COLOR><ATTRIBUTE_1> здоровья</c> за ход.,,Heilt sich selbst und benachbarte Verbündete um <ATTRIBUTE_1> Trefferpunkte pro Zug.
-TID_PEKKASWORD_1_INFO,"<CHANCE%_1> chance of a lightning strike to a nearby target, causing <ATTRIBUTE_1> points of damage and stunning the enemy for 2 turns.","<RARITY_COLOR><CHANCE_1>% шанс</c> электрической атаки, которая переходит на ближайшее здание, нанося <RARITY_COLOR><ATTRIBUTE_1> единиц урона</c>.",,"<CHANCE%_1>ige Chance, einen Blitzschlag auf ein Ziel in der Nähe abzufeuern, der <ATTRIBUTE_1> Schadenspunkte verursacht und den Gegner 2 Züge lang betäubt."
-TID_PEKKASWORD_2_INFO,Blocks <ATTRIBUTE%_1> of incoming damage. <CHANCE%_2> chance to zap back for <ATTRIBUTE_2> damage and 2 turn stun.,<RARITY_COLOR>Блокирует <ATTRIBUTE_1>%</c> входящего урона с <RARITY_COLOR><CHANCE_2>% шансом</c> выстрелить молнией <RARITY_COLOR>(<ATTRIBUTE_2> единиц урона)</c> в ближайшего врага.,,"Blockt <ATTRIBUTE%_1> des Schadens und hat eine <CHANCE%_2>ige Chance, einen Knallzauber (<ATTRIBUTE_2> Schadenspunkte) auf einen Gegner in der Nähe abzufeuern."
-TID_PEKKASWORD_3_INFO,<CHANCE%_1> chance for a second strike with <ATTRIBUTE%_1> of full damage.,"<RARITY_COLOR><CHANCE_1>% шанс</c> второй атаки, которая наносит <RARITY_COLOR><ATTRIBUTE_1>% от всего урона.</c>",,<CHANCE%_1>ige Chance auf einen zweiten Angriff mit <ATTRIBUTE%_1> des regulären Schadens.
-TID_BOMB_1_INFO,Targets inside the blast area have a <CHANCE%_1> chance of becoming frozen for 2 turns.,Цель внутри области имеет <RARITY_COLOR><CHANCE_1>% шанс </c> стать замороженным на 2 хода.,,"<CHANCE%_1>ige Chance, Gegner innerhalb des Zielbereichs 2 Züge lang einzufrieren."
-TID_BOMB_2_INFO,<+ATTRIBUTE%_1> more damage to the spot where the bomb hits.,Наносит на <RARITY_COLOR><ATTRIBUTE_1>% больше урона </c> куда упадет бомба.,,"Verursacht <ATTRIBUTE%_1> mehr Schaden an der Stelle, wo die Bombe einschlägt."
-TID_BOMB_3_INFO,Gives neighbouring allies a <+ATTRIBUTE%_1> attack boost.,Дает окружающим союзникам на <RARITY_COLOR><ATTRIBUTE_1> единиц больше урона </c>когда активировано.,,Verleiht benachbarten Verbündeten einen <ATTRIBUTE_1>igen Angriffsboost.
-TID_MINIONGAUNTLET_1_INFO,Drops bombs that damage two random neighboring tiles (<ATTRIBUTE%_1> damage).,Drops bombs that damage two random neighboring tiles (<ATTRIBUTE%_1> damage).,,"Wirft Bomben, die ebenfalls 2 zufälligen angrenzenden Feldern Schaden zufügen."
-TID_MINIONGAUNTLET_2_INFO,"<CHANCE%_1> chance to dodge an incoming attack. After dodge, gain <+ATTRIBUTE%_2> attack boost.","<CHANCE%_1> chance to dodge an incoming attack. After dodge, gain <+ATTRIBUTE%_2> attack boost.",,"Chance, dem Angriff auszuweichen"
-TID_MINIONGAUNTLET_3_INFO,"Hit again with <ATTRIBUTE%_1> of full damage, if the target is still standing after the first strike.","Hit again with <ATTRIBUTE%_1> of full damage, if the target is still standing after the first strike.",,Mächtigerer Angriff
-TID_COLLAR_1_INFO,Also damages adjacent columns with <ATTRIBUTE%_1> of full damage.,Также наносит урон врагам по обе стороны с <RARITY_COLOR><ATTRIBUTE_1>% уроном.</c>,,Verursacht ebenfalls <ATTRIBUTE%_1> Schaden an Ziele in angrenzenden Reihen.
-TID_COLLAR_2_INFO,Sets all targets on fire for 5 turns with <ATTRIBUTE%_1> of full damage per turn.</c>,Поджигает всех целей на 5 ходов с <RARITY_COLOR><ATTRIBUTE_1>% от всего урона за ход.</c>,,Steckt alle Ziele 5 Züge lang mit <ATTRIBUTE%_1> des vollen Schadens pro Zug in Brand.</c>
-TID_COLLAR_3_INFO,<+ATTRIBUTE%_1> damage for the first opponent hit.,Дополнительный <RARITY_COLOR><ATTRIBUTE_1>% урон </c> первому врагу на пути.,,Verursacht <ATTRIBUTE%_1> zusätzlichen Schaden </c> am ersten Gegner.
+TID_BOW_1_INFO,Sets target on fire (<ATTRIBUTE%_1> of full damage per turn). Neighboring tiles have a 50% chance to catch fire.,Поджигает цель (<ATTRIBUTE%_1> урона за ход). Соседние здания также могут поджечься с шансом 50%.,,"Steckt Ziele in Brand (<ATTRIBUTE%_1> Schaden pro Runde). Die benachbarten Felder haben eine 50%ige Wahrscheinlichkeit, ebenfalls in Brand zu geraten."
+TID_BOW_2_INFO,<CHANCE%_1> chance for an extra shot (<+ATTRIBUTE%_1> damage).,<CHANCE%_1> шанс дополнительного выстрела (<+ATTRIBUTE%_1> урона).,,<CHANCE%_1>ige Chance auf einen zusätzlichen Schuss (<ATTRIBUTE%_1> Schaden).
+TID_BOW_3_INFO,<ATTRIBUTE%_1> more damage.,На <ATTRIBUTE%_1> больше урона.,,Verursacht <ATTRIBUTE%%_1> mehr Schaden.
+TID_SWORD_1_INFO,<CHANCE%_1> chance for a critical hit with <+ATTRIBUTE%_1> more damage.,"<CHANCE%_1> шанс на критический удар, который добавляет <ATTRIBUTE%_1> к урону.",,<CHANCE%_1>ige Chance auf einen kritischen Treffer (2-facher Schaden).
+TID_SWORD_2_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,Блокирует <ATTRIBUTE%_1> входящего урона.,,Blockt <ATTRIBUTE%_1> des Schadens.
+TID_SWORD_3_INFO,<+ATTRIBUTE%_1> attack boost when wounded.,"<+ATTRIBUTE%_1> к урону, когда Варвар ранен.",,Verleiht einen <ATTRIBUTE%_1>igen Angriffsboost bei Verwundung.
+TID_BRACELET_1_INFO,Sets target on fire for 5 turns (<ATTRIBUTE%_1> of full damage per turn).,Поджигает цель на 5 ходов (<ATTRIBUTE%_1> от всего урона каждый ход).,,Steckt Ziele 5 Züge lang in Brand (<ATTRIBUTE%_1> des regulären Schadens pro Zug).
+TID_BRACELET_2_INFO,"<CHANCE%_1> chance of spawning two smaller fireballs to random targets, each making <ATTRIBUTE%_1> of full damage.","<CHANCE%_1> шанс</c> появления 2 маленьких огненных шара (<ATTRIBUTE%_1> от всего урона), которые направляются к случайным целям.",,"<CHANCE%_1>ige Chance, zwei kleinere Feuerbälle (<ATTRIBUTE%_1> des regulären Schadens) bei zufälligen Zielen zu beschwören."
+TID_BRACELET_3_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,Блокирует <ATTRIBUTE%_1> входящего урона.,,<RARITY_COLOR>Blockt <ATTRIBUTE_1> %</c> des Schadens.
+TID_LANCE_1_INFO,"After destroying a target, hits a second target behind it with <ATTRIBUTE%_1> of full damage.",После уничтожения цели наносит дополнительный <ATTRIBUTE%_1> урон от всего урона цели позади.,,"Treffe, nachdem du ein Ziel zerstört hast, ein weiteres Ziel dahinter mit <ATTRIBUTE%_1> des regulären Schadens."
+TID_LANCE_2_INFO,Damages adjacent squares with <ATTRIBUTE%_1> of full damage.,Наносит по области <ATTRIBUTE%_1> урона.,,Verursacht <ATTRIBUTE%_1> Schaden auf angrenzenden Feldern.
+TID_LANCE_3_INFO,Blocks <ATTRIBUTE%_1> of incoming damage.,Блокирует <ATTRIBUTE%_1> входящего урона.,,Blockt <ATTRIBUTE%_1> des Schadens.
+TID_DAGGER_1_INFO,"<CHANCE%_1> chance of striking three times instead of one, for 3x damage.",<CHANCE%_1> шанс ударить цель 3 раза (3x урон).,,"<CHANCE%_1>ige Chance, dreimal zuzuschlagen, statt einmal (3-facher Schaden)."
+TID_DAGGER_2_INFO,"After destroying a target, gain a second attack with <ATTRIBUTE%_1> damage.",После уничтожения цели совершает вторую атаку с дополнительными <ATTRIBUTE%_1> урона.,,"Gewährt, nachdem du ein Ziel zerstört hast, einen zweiten Angriff mit <ATTRIBUTE%_1> Schaden."
+TID_DAGGER_3_INFO,<CHANCE%_1> of dodging an enemy attack.,<CHANCE%_1> шанс уклонения от вражеской атаки.,,"<CHANCE%_1>ige Chance, einem feindlichen Angriff auszuweichen."
+TID_GAUNTLET_1_INFO,"Gives attack boost in proportion to missing health, maximum of <+ATTRIBUTE%_1> damage.","Дает усиление атаки, равное коэффициенту недостающего здоровья. Максимум <+ATTRIBUTE%_1> урона.",,Verleiht einen Angriffsboost bei Verwundung.
+TID_GAUNTLET_2_INFO,Damages adjacent squares with <ATTRIBUTE%_1> of full damage.,Наносит по области <ATTRIBUTE%_1> от всего урона.,,Verursacht <ATTRIBUTE%_1> des regulären Schadens auf angrenzenden Feldern.
+TID_GAUNTLET_3_INFO,Heals self and neighbouring allies with <ATTRIBUTE_1> health per turn.,Исцеляет <ATTRIBUTE_1> очков здоровья себе и союзникам рядом за ход.,,Heilt sich selbst und benachbarte Verbündete um <ATTRIBUTE_1> Trefferpunkte pro Zug.
+TID_PEKKASWORD_1_INFO,"<CHANCE%_1> chance of a lightning strike to a nearby target, causing <ATTRIBUTE_1> points of damage and stunning the enemy for 2 turns.","<CHANCE%_1> шанс электрической атаки, которая переходит на ближайшую цель, нанося <ATTRIBUTE_1> единиц урона, и оглушая врага на 2 хода.",,"<CHANCE%_1>ige Chance, einen Blitzschlag auf ein Ziel in der Nähe abzufeuern, der <ATTRIBUTE_1> Schadenspunkte verursacht und den Gegner 2 Züge lang betäubt."
+TID_PEKKASWORD_2_INFO,Blocks <ATTRIBUTE%_1> of incoming damage. <CHANCE%_2> chance to zap back for <ATTRIBUTE_2> damage and 2 turn stun.,"Блокирует <ATTRIBUTE%_1> урона с <CHANCE%_2> шансом выстрелить молнией (<ATTRIBUTE_2> единиц урона) в ближайшего врага, и оглушить его на 2 хода.",,"Blockt <ATTRIBUTE%_1> des Schadens und hat eine <CHANCE%_2>ige Chance, einen Knallzauber (<ATTRIBUTE_2> Schadenspunkte) auf einen Gegner in der Nähe abzufeuern."
+TID_PEKKASWORD_3_INFO,<CHANCE%_1> chance for a second strike with <ATTRIBUTE%_1> of full damage.,"<CHANCE%_1> шанс второй атаки, которая наносит <ATTRIBUTE%_1> от всего урона.",,<CHANCE%_1>ige Chance auf einen zweiten Angriff mit <ATTRIBUTE%_1> des regulären Schadens.
+TID_BOMB_1_INFO,Targets inside the blast area have a <CHANCE%_1> chance of becoming frozen for 2 turns.,Цель внутри области имеет <CHANCE%_1> шанс стать замороженным на 2 хода.,,"<CHANCE%_1>ige Chance, Gegner innerhalb des Zielbereichs 2 Züge lang einzufrieren."
+TID_BOMB_2_INFO,<+ATTRIBUTE%_1> more damage to the spot where the bomb hits.,Нанесет на <ATTRIBUTE%_1> больше урона куда упадет бомба.,,"Verursacht <ATTRIBUTE%_1> mehr Schaden an der Stelle, wo die Bombe einschlägt."
+TID_BOMB_3_INFO,Gives neighbouring allies a <+ATTRIBUTE%_1> attack boost.,Дает окружающим союзникам на <ATTRIBUTE%_1> больше урона.,,Verleiht benachbarten Verbündeten einen <ATTRIBUTE_1>igen Angriffsboost.
+TID_MINIONGAUNTLET_1_INFO,Drops bombs that damage two random neighboring tiles (<ATTRIBUTE%_1> damage).,"Сбрасывает бомбу, которая наносит урон по двум случайным соседним клеткам (<ATTRIBUTE%_1> урона).",,"Wirft Bomben, die ebenfalls 2 zufälligen angrenzenden Feldern Schaden zufügen."
+TID_MINIONGAUNTLET_2_INFO,"<CHANCE%_1> chance to dodge an incoming attack. After dodge, gain <+ATTRIBUTE%_2> attack boost.","<CHANCE%_1> шанс уклонения от вражеской атаки. После уклонения, даётся <+ATTRIBUTE%_2> увеличенный урон.",,"Chance, dem Angriff auszuweichen"
+TID_MINIONGAUNTLET_3_INFO,"Hit again with <ATTRIBUTE%_1> of full damage, if the target is still standing after the first strike.","Атакует снова с <ATTRIBUTE%_1> от всего урона, если цель все еще не уничтожена после первой атаки.",,Mächtigerer Angriff
+TID_COLLAR_1_INFO,Also damages adjacent columns with <ATTRIBUTE%_1> of full damage.,Также наносит урон врагам по обе стороны с <ATTRIBUTE%_1> уроном.,,Verursacht ebenfalls <ATTRIBUTE%_1> Schaden an Ziele in angrenzenden Reihen.
+TID_COLLAR_2_INFO,Sets all targets on fire for 5 turns with <ATTRIBUTE%_1> of full damage per turn.</c>,Поджигает все цели на 5 ходов с <ATTRIBUTE%_1> от всего урона за ход.,,Steckt alle Ziele 5 Züge lang mit <ATTRIBUTE%_1> des vollen Schadens pro Zug in Brand.</c>
+TID_COLLAR_3_INFO,<+ATTRIBUTE%_1> damage for the first opponent hit.,Дополнительный <ATTRIBUTE%_1> урон первому врагу на пути.,,Verursacht <ATTRIBUTE%_1> zusätzlichen Schaden </c> am ersten Gegner.
 TID_AXE_1_INFO,Chance to do an extra spin,Chance to do an extra spin,,Chance auf eine zusätzliche Umdrehung
 TID_AXE_2_INFO,Damage reduction,Damage reduction,,Schadensreduktion
 TID_AXE_3_INFO,"if attacked, chance for lightning strike","if attacked, chance for lightning strike",,"Chance, einen Blitzschlag zu verschießen, wenn Schaden erlitten wird"
@@ -656,26 +656,26 @@ TID_CARD_MINION_CAP,Grow your army! Get +1 Minion for ALL levels with Minions!,"
 TID_CARD_HEAL_CAP,Care for another? Add +1 Bless for ALL levels with Bless Spells!,"Хочешь помочь своим войскам? Получи +1 Лечение для ВСЕХ уровней, где Лечение доступно!",,
 TID_CARD_FRONTLINE_CAP,How about another Frontline? Add +1 for ALL levels with Frontlines!,"Как насчёт еще одной Границы? Получи +1 для ВСЕХ уровней, где  Граница доступна!",,
 TID_CARD_ZAP_CAP,Care for another? Add +1 Zap for ALL levels with Zaps!,"Хочешь помочь своим войскам? Получи +1 Молнию для ВСЕХ уровней, где она доступна!",,
-TID_CARD_ARCHER_CAP_CLAIMED,You now have <number> Archers in ALL levels with Archers!,You now have <number> Archers in ALL levels with Archers!,(!),
-TID_CARD_GIANT_CAP_CLAIMED,You now have <number> Giants in ALL levels with Giants!,You now have <number> Giants in ALL levels with Giants!,,
-TID_CARD_PRINCE_CAP_CLAIMED,You now have <number> Princes in ALL levels with Princes!,You now have <number> Princes in ALL levels with Princes!,,
-TID_CARD_FIREBALL_CAP_CLAIMED,You now have <number> Fireballs in ALL levels with Fireballs!,You now have <number> Fireballs in ALL levels with Fireballs!,,
-TID_CARD_BARBARIAN_CAP_CLAIMED,You now have <number> Barbarians in ALL levels with Barbarians!,You now have <number> Barbarians in ALL levels with Barbarians!,,
-TID_CARD_WIZARD_CAP_CLAIMED,You now have <number> Wizards in ALL levels with Wizards!,You now have <number> Wizards in ALL levels with Wizards!,,
-TID_CARD_PEKKA_CAP_CLAIMED,You now have <number> P.E.K.K.As in ALL levels with P.E.K.K.A!,You now have <number> P.E.K.K.As in ALL levels with P.E.K.K.A!,,
-TID_CARD_GOBLIN_CAP_CLAIMED,You now have <number> Goblins in ALL levels with Goblins!,You now have <number> Goblins in ALL levels with Goblins!,,
-TID_CARD_BOMBER_CAP_CLAIMED,You now have <number> Bombers in ALL levels with Bombers!,You now have <number> Bombers in ALL levels with Bombers!,,
-TID_CARD_BABY_DRAGON_CAP_CLAIMED,You now have <number> Baby Dragons in ALL levels with Baby Dragons!,You now have <number> Baby Dragons in ALL levels with Baby Dragons!,,
-TID_CARD_RETREAT_CAP_CLAIMED,You now have <number> Retreats in ALL levels with Retreats!,You now have <number> Retreats in ALL levels with Retreats!,,
-TID_CARD_STEP_CAP_CLAIMED,You now have <number> Swaps in ALL levels with Swaps!,You now have <number> Swaps in ALL levels with Swaps!,,
-TID_CARD_CHARGE_CAP_CLAIMED,You now have <number> Charges in ALL levels with Charges!,You now have <number> Charges in ALL levels with Charges!,,
-TID_CARD_LOG_CAP_CLAIMED,You now have <number> Logs in ALL levels with Logs!,You now have <number> Logs in ALL levels with Logs!,,
-TID_CARD_ROCKET_CAP_CLAIMED,You now have <number> Rockets in ALL levels with Rockets!,You now have <number> Rockets in ALL levels with Rockets!,,
-TID_CARD_RUSH_CAP_CLAIMED,You now have <number> Rushes in ALL levels with Rushes!,You now have <number> Rushes in ALL levels with Rushes!,,
-TID_CARD_MINION_CAP_CLAIMED,You now have <number> Minions in ALL levels with Rushes!,You now have <number> Minions in ALL levels with Rushes!,,
-TID_CARD_HEAL_CAP_CLAIMED,You now have <number> Blesses in ALL levels with Blesses!,You now have <number> Blesses in ALL levels with Blesses!,,
-TID_CARD_FRONTLINE_CAP_CLAIMED,You now have <number> Frontlines in ALL levels with Frontlines!,You now have <number> Frontlines in ALL levels with Frontlines!,,
-TID_CARD_ZAP_CAP_CLAIMED,You now have <number> Zaps in ALL levels with Zaps!,You now have <number> Zaps in ALL levels with Zaps!,,
+TID_CARD_ARCHER_CAP_CLAIMED,You now have <number> Archers in ALL levels with Archers!,"Лучница: теперь ты имеешь <number> во ВСЕХ уровнях, где она присутсвует!",,
+TID_CARD_GIANT_CAP_CLAIMED,You now have <number> Giants in ALL levels with Giants!,"Гигант: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_PRINCE_CAP_CLAIMED,You now have <number> Princes in ALL levels with Princes!,"Принц: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_FIREBALL_CAP_CLAIMED,You now have <number> Fireballs in ALL levels with Fireballs!,"Огненный Шар: теперь ты имеешь <number> во ВСЕХ уровнях, где он доступен!",,
+TID_CARD_BARBARIAN_CAP_CLAIMED,You now have <number> Barbarians in ALL levels with Barbarians!,"Варвар: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_WIZARD_CAP_CLAIMED,You now have <number> Wizards in ALL levels with Wizards!,"Колдун: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_PEKKA_CAP_CLAIMED,You now have <number> P.E.K.K.As in ALL levels with P.E.K.K.A!,"П.Е.К.К.А.: теперь ты имеешь <number> во ВСЕХ уровнях, где он(-а(-о)) присутсвует!",,
+TID_CARD_GOBLIN_CAP_CLAIMED,You now have <number> Goblins in ALL levels with Goblins!,"Гоблин: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_BOMBER_CAP_CLAIMED,You now have <number> Bombers in ALL levels with Bombers!,"Бомбер: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_BABY_DRAGON_CAP_CLAIMED,You now have <number> Baby Dragons in ALL levels with Baby Dragons!,"Дракончин: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_RETREAT_CAP_CLAIMED,You now have <number> Retreats in ALL levels with Retreats!,"Отступление: теперь ты имеешь <number> во ВСЕХ уровнях, где оно доступно!",,
+TID_CARD_STEP_CAP_CLAIMED,You now have <number> Swaps in ALL levels with Swaps!,"Смена: теперь ты имеешь <number> во ВСЕХ уровнях, где она доступна!",,
+TID_CARD_CHARGE_CAP_CLAIMED,You now have <number> Charges in ALL levels with Charges!,"Ярость: теперь ты имеешь <number> во ВСЕХ уровнях, где она доступна!",,
+TID_CARD_LOG_CAP_CLAIMED,You now have <number> Logs in ALL levels with Logs!,"Бревно: теперь ты имеешь <number> во ВСЕХ уровнях, где оно доступно!",,
+TID_CARD_ROCKET_CAP_CLAIMED,You now have <number> Rockets in ALL levels with Rockets!,"Ракета: теперь ты имеешь <number> во ВСЕХ уровнях, где она доступна!",,
+TID_CARD_RUSH_CAP_CLAIMED,You now have <number> Rushes in ALL levels with Rushes!,"Атака: теперь ты имеешь <number> во ВСЕХ уровнях, где она доступна!",,
+TID_CARD_MINION_CAP_CLAIMED,You now have <number> Minions in ALL levels with Rushes!,"Миньон: теперь ты имеешь <number> во ВСЕХ уровнях, где он присутсвует!",,
+TID_CARD_HEAL_CAP_CLAIMED,You now have <number> Blesses in ALL levels with Blesses!,"Лечение: теперь ты имеешь <number> во ВСЕХ уровнях, где оно доступно!",,
+TID_CARD_FRONTLINE_CAP_CLAIMED,You now have <number> Frontlines in ALL levels with Frontlines!,"Граница: теперь ты имеешь <number> во ВСЕХ уровнях, где она доступна!",,
+TID_CARD_ZAP_CAP_CLAIMED,You now have <number> Zaps in ALL levels with Zaps!,"Молния: теперь ты имеешь <number> во ВСЕХ уровнях, где она доступна!",,
 TID_CARD_SKELETON,Skeleton,Скелет,,
 TID_REWARD_TYPE_INFO_ELIXIR,Elixir is used together with Gold to upgrade your units to make them stronger.,Эликсир используется вместе с Золотом для улучшения Воинов и их силы.,,"Elixier und Gold werden verwendet, um deine Einheiten zu verbessern und sie stärker zu machen."
 TID_REWARD_TYPE_INFO_ITEM,Items give additional powers to your troops. Some powers require minimum group size to activate.,Предметы дают дополнительную силу вашим воинам. Некоторые предметы требуют группы из воинов.,,Gegenstände verleihen deinen Truppen zusätzliche Kräfte. Manche Kräfte können nur ab einer bestimmten Gruppengröße aktiviert werden.
@@ -758,7 +758,7 @@ TID_BUILDING_GOBLIN_HUT,Goblin Hut,Хижина Гоблинов,,
 TID_BUILDING_AIR_DEFENSE,Air Defense,Воздушная Оборона,,
 TID_CARD_FIRE_SPIRIT,Fire Spirits,Огненные Духи,,Feuergeister
 TID_CARD_LAVA_PUPPY,Lava Puppy,Лавовые Щенки,,
-TID_TUTORIAL_NEXT_BATTLE_1,There seem to be more of these Islands..,There seem to be more of these Islands..,(!),Dort scheinen noch mehr solcher Inseln zu sein ...
+TID_TUTORIAL_NEXT_BATTLE_1,There seem to be more of these Islands..,There seem to be more of these Islands..,(-),Dort scheinen noch mehr solcher Inseln zu sein ...
 TID_TUTORIAL_NEXT_BATTLE_2,I wonder what treasures they hold..,I wonder what treasures they hold..,,"Ich frage mich, welche Schätze dort auf uns warten ..."
 TID_TUTORIAL_NEXT_BATTLE_3,"We´ll see, but first we must find our friends.","We´ll see, but first we must find our friends.",,Das werden wir bald erfahren. Aber erst müssen wir unsere Freunde finden.
 TID_TUTORIAL_NEXT_BATTLE_4,Let´s explore the first one. Tap the Island.,Let´s explore the first one. Tap the Island.,,Lass uns die erste Insel erkunden. Tippe auf sie.
@@ -938,7 +938,7 @@ TID_LEAGUE_BRONZE_15,Bronze XV,Бронза XV,,Bronze XV
 TID_LEAGUE_BRONZE_16,Bronze XVI,Бронза XVI,,Bronze XVI
 TID_FORCE_ONLINE,Go Online to continue playing!,"Выйдите в онлайн, чтобы продолжить играть!",,"Gehe online, um weiterzuspielen!"
 TID_BUILDING_FURNACE,Furnace,Печь,,Ofen
-TID_QQ_LOGIN_BUTTON,QQ Login,QQ Login,(!),Bei QQ anmelden
+TID_QQ_LOGIN_BUTTON,QQ Login,QQ Login,(-),Bei QQ anmelden
 TID_QQ_LOGGED_IN,Logged in to QQ,Logged in to QQ,,Bei QQ angemeldet
 TID_WECHAT_LOGIN_BUTTON,WeChat Login,WeChat Login,,Bei WeChat anmelden
 TID_WECHAT_NOT_INSTALLED,You haven't installed WeChat yet,You haven't installed WeChat yet,,Du hast WeChat noch nicht installiert.
@@ -948,10 +948,10 @@ TID_GUEST_LOGIN_BUTTON,Guest Login,Guest Login,,Als Gast anmelden
 TID_TAP_UNITS_TO_ATTACK,Tap units to attack!,Нажмите на воинов для атаки!,,"Tippe auf Einheiten, um anzugreifen!"
 TID_COLLECTION_LOCKED_CARDS_HEADER,To be found:,Предстоит найти:,,Folgendes kannst du finden:
 TID_CARD_FOUND_AFTER_COMPLETING_MAP_NODE,Found after completing <NAME>,Найдите после прохождения зоны <NAME>,,Wird nach Abschließen von <NAME> gefunden
-TID_CARD_FOUND_IN_REGION_1,Found somewhere in <NAME> area.,Найдите примерно в зоне <NAME>.,,Ist irgendwo im -Gebiet zu finden.
-TID_CARD_FOUND_IN_REGION_2,Rumored to be somewhere in <NAME>.,Должно быть в зоне <NAME>.,,Befindet sich Gerüchten zufolge in <NAME>
+TID_CARD_FOUND_IN_REGION_1,Found somewhere in <NAME> area.,"Найдите, примерно, в зоне <NAME>.",,Ist irgendwo im -Gebiet zu finden.
+TID_CARD_FOUND_IN_REGION_2,Rumored to be somewhere in <NAME>.,Должно находиться в зоне <NAME>.,,Befindet sich Gerüchten zufolge in <NAME>
 TID_CARD_FOUND_IN_REGION_3,Somewhere in <NAME>.. possibly?,Где-то в зоне <NAME>...  скорее всего?,,Möglicherweise irgendwo im folgenden Gebiet: <NAME>
-TID_CARD_FOUND_IN_REGION_4,Last seen in <NAME>.,Последний раз был в зоне <NAME>.,,Zuletzt im Gebiet <NAME> gesichtet
+TID_CARD_FOUND_IN_REGION_4,Last seen in <NAME>.,Последний раз находился в зоне <NAME>.,,Zuletzt im Gebiet <NAME> gesichtet
 TID_POPUP_SKIP_TUTORIAL_TITLE,Skip tutorial?,Skip tutorial?,,Tutorial überspringen?
 TID_POPUP_SKIP_TUTORIAL_TEXT,Are you sure you want to skip this part of the tutorial?\n\nYou will not see this part again.,Are you sure you want to skip this part of the tutorial?\n\nYou will not see this part again.,,"Bist du sicher, dass du diesen Teil des Tutorials überspringen willst?\n\nDu wirst nicht mehr hierher zurückkehren."
 TID_POPUP_SKIP_TUTORIAL_POSITIVE,Skip,Skip,,Überspringen
@@ -975,7 +975,7 @@ TID_POPUP_SURVEY_DECLINE_BUTTON,Decline,Отказаться,,Ablehnen
 TID_SURVEY_COMPLETED,Thanks for taking the survey!,Спасибо за прохождение опроса!,,"Vielen Dank, dass du an der Umfrage teilgenommen hast!"
 TID_SURVEY_TITLE,Clash Quest Survey,Опрос,,Clash Quest-Umfrage
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_TITLE,Important notice,Important notice,,Wichtiger Hinweis
-TID_TENCENT_LOGIN_AGREEMENT_POPUP,"Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.","Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.",(!),"Bevor du Tencent-Dienste nutzt, lies bitte Folgendes: <TOS>Tencent Games‘ Lizenz- und Nutzungsvertrag</TOS>, <PP>Tencent Games‘ Datenschutzrichtlinien</PP> und <CHILDREN>Tencent Games‘ Datenschutzrichtlinien für junge Spieler</CHILDREN>. Stelle sicher, dass du alle Inhalte und unsere Verarbeitungsregeln verstehst. Bitte achte auf Inhalte in diesen Vereinbarungen, die Haftungsverpflichtungen unsererseits begrenzen oder vollständig ausschließen oder deine eigenen Rechte einschränken, sowie auf Streitschlichtungs- und Zuständigkeitsklauseln. Bitte tippe auf \qZustimmen\q, wenn du <TOS>, <PP> und <CHILDREN> sorgfältig gelesen hast und einverstanden bist."
+TID_TENCENT_LOGIN_AGREEMENT_POPUP,"Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.","Before using Tencent services, please carefully read <TOS>Tencent Game License and Service Agreement</TOS>, <PP>Tencent Game Privacy Protection Guidelines</PP> and <CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN> and ensure that you fully understand the items and our processing rules. Meanwhile, please pay attention to items in these agreements that exempt or limit our liability, items that limit your right, appointed solution of dispute and jurisdiction clauses. Please press \qAgree\q if you have carefully read and agree with <TOS>, <PP> and <CHILDREN>.",(-),"Bevor du Tencent-Dienste nutzt, lies bitte Folgendes: <TOS>Tencent Games‘ Lizenz- und Nutzungsvertrag</TOS>, <PP>Tencent Games‘ Datenschutzrichtlinien</PP> und <CHILDREN>Tencent Games‘ Datenschutzrichtlinien für junge Spieler</CHILDREN>. Stelle sicher, dass du alle Inhalte und unsere Verarbeitungsregeln verstehst. Bitte achte auf Inhalte in diesen Vereinbarungen, die Haftungsverpflichtungen unsererseits begrenzen oder vollständig ausschließen oder deine eigenen Rechte einschränken, sowie auf Streitschlichtungs- und Zuständigkeitsklauseln. Bitte tippe auf \qZustimmen\q, wenn du <TOS>, <PP> und <CHILDREN> sorgfältig gelesen hast und einverstanden bist."
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_AGREE,Agree,Agree,,Zustimmen
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_REFUSE,Refuse,Refuse,,Ablehnen
 TID_TENCENT_LOGIN_AGREEMENT_POPUP_2,"Please note that you need to carefully read and agree with\n<TOS>Tencent Game License and Service Agreement</TOS>,\n<PP>Tencent Game Privacy Protection Guidelines</PP> and\n<CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN>\nbefore accessing the game.","Please note that you need to carefully read and agree with\n<TOS>Tencent Game License and Service Agreement</TOS>,\n<PP>Tencent Game Privacy Protection Guidelines</PP> and\n<CHILDREN>Tencent Game Children Privacy Protection Guidelines</CHILDREN>\nbefore accessing the game.",,"Bitte beachte, dass du\n<TOS>Tencent Games‘ Lizenz und Nutzungsvertrag</TOS>,\n<PP>Tencent Games‘ Datenschutzrichtlinien</PP> und\n<CHILDREN>Tencent Games‘ Datenschutzrichtlinien für junge Spieler</CHILDREN>\nsorgfältig lesen und ihnen zustimmen musst, bevor du auf das Spiel zugreifen kannst."
