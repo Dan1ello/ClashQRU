@@ -336,16 +336,16 @@ TID_MAP_NODE_6_NAME,Totem Heights,Тотемные Высоты ,,Totemhöhen
 TID_MAP_NODE_7_NAME,Howitzer Hill,Оборонительный Холм,,Haubitzenhügel
 TID_MAP_NODE_8_NAME,Fatal Point,Фатальная Точка,,Tödlicher Gipfel
 TID_MAP_NODE_9_NAME,Shady Shelter,Загадочное Убежище,,Unheimlicher Unterschlupf
-TID_MAP_NODE_10_NAME,Roaster Rock,Roaster Rock,(!!),Brutzelfels
-TID_MAP_NODE_11_NAME,Red-Hot Heights,Red-Hot Heights,,Glühender Gipfel
-TID_MAP_NODE_12_NAME,Magma Bank,Magma Bank,,Magmaufer
-TID_MAP_NODE_13_NAME,Hot Pot,Hot Pot,,Siedendes Plateau
-TID_MAP_NODE_14_NAME,P.E.K.K.A's Pool,P.E.K.K.A's Pool,,P.E.K.K.A.s Pool
-TID_MAP_NODE_15_NAME,Burnmark Mountain,Burnmark Mountain,,Brandmalberg
-TID_MAP_NODE_16_NAME,Pointy Ridge,Pointy Ridge,,Zackenberge
-TID_MAP_NODE_17_NAME,Bone Pickin's,Bone Pickin's,,Knochensplitter
-TID_MAP_NODE_18_NAME,Scorching Skull,Scorching Skull,,Sengender Schädel
-TID_MAP_NODE_19_NAME,Mount Charge,Mount Charge,,Sturmberg
+TID_MAP_NODE_10_NAME,Roaster Rock,Жаренный Камень,,Brutzelfels
+TID_MAP_NODE_11_NAME,Red-Hot Heights,Горячие Высоты,,Glühender Gipfel
+TID_MAP_NODE_12_NAME,Magma Bank,Банк Магмы,,Magmaufer
+TID_MAP_NODE_13_NAME,Hot Pot,Горячая Точка,,Siedendes Plateau
+TID_MAP_NODE_14_NAME,P.E.K.K.A's Pool,Бассейн П.Е.К.К.И.,,P.E.K.K.A.s Pool
+TID_MAP_NODE_15_NAME,Burnmark Mountain,Горячая Гора,,Brandmalberg
+TID_MAP_NODE_16_NAME,Pointy Ridge,Острый Обрыв,,Zackenberge
+TID_MAP_NODE_17_NAME,Bone Pickin's,Косточистка,,Knochensplitter
+TID_MAP_NODE_18_NAME,Scorching Skull,Лавовый Череп,,Sengender Schädel
+TID_MAP_NODE_19_NAME,Mount Charge,Mount Charge,(!),Sturmberg
 TID_MAP_NODE_20_NAME,Reinforced Rock,Reinforced Rock,,Verstärkter Fels
 TID_MAP_NODE_21_NAME,Electro Mound,Electro Mound,,Elektrowall
 TID_MAP_NODE_22_NAME,Cactus Hill,Cactus Hill,,Kaktushügel
@@ -518,7 +518,7 @@ TID_ALREADY_EQUIPPED,Already equipped!,Уже Надето!,,Bereits ausgerüste
 TID_ITEM_UNAVAILABLE,You haven't found this item yet!,Вы еще не нашли этот предмет!,,Du hast diesen Gegenstand noch nicht gefunden!
 TID_ITEM_REQUIREMENT,x combo required.,x Комбо требуется,,-fache Combo benötigt.
 TID_ITEM_REQUIREMENT_ACTIVE,Attack with <NUMBER> or more units to activate the item power.,Атакуйте с <NUMBER> или большим кол-вом воинов для активации предмета.,,"Greife mit <NUMBER> oder mehr Einheiten an, um die Kraft des Gegenstands zu aktivieren."
-TID_ITEM_REQUIREMENT_PASSIVE,Build a group of <NUMBER> or more units on your board to activate the item power.,Создайте группу из <NUMBER> или больше кол-ва воинов для активации предмета.,,"Bilde eine Gruppe von <NUMBER> oder mehr Einheiten auf deinem Spielfeld, um die Kraft des Gegenstands zu aktivieren."
+TID_ITEM_REQUIREMENT_PASSIVE,Build a group of <NUMBER> or more units on your board to activate the item power.,Создайте группу из <NUMBER> или большего кол-ва воинов для активации предмета.,,"Bilde eine Gruppe von <NUMBER> oder mehr Einheiten auf deinem Spielfeld, um die Kraft des Gegenstands zu aktivieren."
 TID_BADGE_NEW,NEW,НОВОЕ,,NEU
 TID_CAP_EXPLANATION_SINGULAR,"You have 1 <NAME> in your Squad, out of maximum of <MAX>.",У вас 1 <NAME> из максимальных <MAX>.,,Du hast 1 <NAME> von maximal <MAX>.
 TID_CAP_EXPLANATION,"You have <NUMBER> <NAME>s in your Squad, out of maximum of <MAX>.",У вас <NUMBER> из максимальных <MAX>.,,Du hast <NUMBER> <NAME> von maximal <MAX>.
@@ -693,8 +693,8 @@ TID_POPVOER_ENERGY,You have <number>/<maxnumber> <c78b4cd>Quest Energy.</c> Use 
 TID_POPOVER_ENERGY_COUNTER_EMPTY,You're out of <c78b4cd>Quest Energy.</c>,У вас закончилась <c78b4cd>Энергия.</c>,,Du hast keine <c78b4cd>Questenergie</c> mehr.
 TID_POPOVER_ENERGY_COUNTER,\nMore in: <time>,\nБольше через: <time>,,\nMehr in: <time>
 TID_POPOVER_ENERGY_COUNTER_FULL,Your <c78b4cd>Quest Energy</c> is maxed out! Go play some levels.,Ваша <c78b4cd>Энергия</c> переполнена! Идите и поиграйте несколько уровней.,,Deine <c78b4cd>Questenergie</c> ist am Limit! Spiele erst ein paar Level.
-TID_POPOVER_ENERGY_SCROLL_COUNT,You have <number>/<maxnumber> <c78b4cd>Quest Tokens.</c> Quest Tokens can be used to play levels when out of Energy.,"Сейчас у вас <number> <c78b4cd>Квестовых Токенов.</c> Квестовые Токены используются вместо Энергии, когда ее нету.",,"Du hast <number>/<maxnumber> <c78b4cd>Questmarken.</c> Questmarken können verwendet werden, um Level zu spielen, wenn deine Energie verbraucht ist."
-TID_POPOVER_ENERGY_SCROLL_COUNT_SINGULAR,You have <number>/<maxnumber> <c78b4cd>Quest Token.</c> Quest Tokens can be used to play levels when out of Energy.,"Сейчас у вас <number> <c78b4cd>Квестовых Токенов.</c> Квестовые Токены используются вместо Энергии, когда ее нету.",,"Du hast <number>/<maxnumber> <c78b4cd>Questmarken.</c> Questmarken können verwendet werden, um Level zu spielen, wenn deine Energie verbraucht ist."
+TID_POPOVER_ENERGY_SCROLL_COUNT,You have <number>/<maxnumber> <c78b4cd>Quest Tokens.</c> Quest Tokens can be used to play levels when out of Energy.,"Сейчас у вас <number>/<maxnumber> <c78b4cd>Квестовых Токенов.</c> Квестовые Токены используются вместо Энергии, когда ее нету.",,"Du hast <number>/<maxnumber> <c78b4cd>Questmarken.</c> Questmarken können verwendet werden, um Level zu spielen, wenn deine Energie verbraucht ist."
+TID_POPOVER_ENERGY_SCROLL_COUNT_SINGULAR,You have <number>/<maxnumber> <c78b4cd>Quest Token.</c> Quest Tokens can be used to play levels when out of Energy.,"Сейчас у вас <number>/<maxnumber> <c78b4cd>Квестовых Токенов.</c> Квестовые Токены используются вместо Энергии, когда ее нету.",,"Du hast <number>/<maxnumber> <c78b4cd>Questmarken.</c> Questmarken können verwendet werden, um Level zu spielen, wenn deine Energie verbraucht ist."
 TID_POPOVER_STARS,Total amount of <ccd9b6f>Star Chests</c> you've gained so far.,"Общее количество <c833939>Звездных Сундуков</c>, полученных за все время.",,"Gesamtzahl an <ccd9b6f>Sterntruhen</c>, die du bisher verdient hast."
 TID_POPOVER_CHALLENGE,You get one Free Try per League Day.\n\nYou have <number>/<maxnumber> <ce48810>League Tokens</c>. Use a Token to play if you're out of tries. Get more tokens from Season End Chests.,"Вы получаете 1 бесплатную попытку каждый день Лиги.\n\nВы можете использовать <ce48810>Токены Лиги</c> для игры, если у вас закончились попытки.",,"Du bekommst einen Freiversuch pro Ligatag.\n\nDu hast <number>/<maxnumber> <ce48810>Ligamarken</c>. Verwende eine Marke, um zu spielen, wenn du keine Versuche mehr hast. Hol dir mehr Marken aus Truhen am Saisonende."
 TID_RANDOM_LOOT,Looted from defenses,Получено из защ. сооруж.,,Von Verteidigungsanlagen geplündert
