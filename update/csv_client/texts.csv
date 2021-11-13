@@ -291,7 +291,7 @@ TID_ERROR_POP_UP_SERVER_MAINTENANCE_BUTTON,,Попробов. снова,Try aga
 TID_PUZZLE_REWARDS,,Ты получил:,You got:
 TID_PUZZLE_REWARDS_CHESTS_REMAINING,,<cF3F2C8>Сундуков осталось: </c><VALUE>,<cF3F2C8>Chests remaining: </c><VALUE>
 TID_CLAN_PUZZLE_REWARDS,,Твой клан получил:,Your clan got:
-TID_COLLECTING_CLAN_DAILY_REWARDS,,Награды твоего клана за вчера:,Your clan rewards from yesterday:
+TID_COLLECTING_CLAN_DAILY_REWARDS,,Награды клана за прошлый день:,Your clan rewards from yesterday:
 TID_UNLOCKED,,Ты нашел:,You found:
 TID_NO_REWARDS,,В этот раз ты не получил наград.\n\nПовезет в следующий раз !,You didn't gain any loot this time.\n\nBetter luck next time!
 TID_BUTTON_OK,,ОК!,OK!
@@ -724,7 +724,7 @@ TID_CARD_ZAP_CAP_CLAIMED,,"Молния: теперь ты имеешь <number>
 TID_CARD_SWITCH_CAP_CLAIMED,(!),You now have <number> Switches in ALL levels with Switches!,You now have <number> Switches in ALL levels with Switches!
 TID_CARD_EARTHQUAKE_CAP_CLAIMED,,You now have <number> Earthquakes in ALL levels with Earthquakes!,You now have <number> Earthquakes in ALL levels with Earthquakes!
 TID_CARD_SKELETON,,Скелет,Skeleton
-TID_CARD_DUNE_DRAGON,,Dune Dragon,Dune Dragon
+TID_CARD_DUNE_DRAGON,(!),Dune Dragon,Dune Dragon
 TID_INFO_CLAN_CRATE,,"Содержит предмет, допольнительного воина или магический предмет.","Contains item, army increase or magic item."
 TID_REWARD_TYPE_INFO_ELIXIR,,Эликсир используется вместе с Золотом для улучшения Воинов и их силы.,Elixir is used together with Gold to upgrade your units to make them stronger.
 TID_REWARD_TYPE_INFO_ITEM,,Предметы дают дополнительную силу вашим воинам. Некоторые предметы требуют группы из воинов.,Items give additional powers to your troops. Some powers require minimum group size to activate.
@@ -796,10 +796,10 @@ TID_BUILDING_DRAFT_TROOPS,,Казарма,Barracks
 TID_BUILDING_DRAFT_SPELLS,,Хранилище Заклинаний,Spell Storage
 TID_BUILDING_GOBLIN_HUT,,Хижина Гоблинов,Goblin Hut
 TID_BUILDING_AIR_DEFENSE,,Воздушная Оборона,Air Defense
-TID_BUILDING_TOMBSTONE,,П,Tombstone
+TID_BUILDING_TOMBSTONE,,Надгробие,Tombstone
 TID_CARD_FIRE_SPIRIT,,Огненные Духи,Fire Spirits
-TID_CARD_LAVA_PUPPY,,Лавовые Щенки,Lava Puppy
-TID_TUTORIAL_NEXT_BATTLE_1,,There seem to be more of these Islands…,There seem to be more of these Islands…
+TID_CARD_LAVA_PUPPY,,Лавовый Щенок,Lava Puppy
+TID_TUTORIAL_NEXT_BATTLE_1,(!),There seem to be more of these Islands…,There seem to be more of these Islands…
 TID_TUTORIAL_NEXT_BATTLE_2,,I wonder what treasures they hold…,I wonder what treasures they hold…
 TID_TUTORIAL_NEXT_BATTLE_3,,"We´ll see, but first we must find our friends.","We´ll see, but first we must find our friends."
 TID_TUTORIAL_NEXT_BATTLE_4,,Let´s explore the first one. Tap the Island.,Let´s explore the first one. Tap the Island.
@@ -1115,7 +1115,7 @@ TID_OFFER_INFO_RESOURCES,,<NUM> <RESOURCE>,<NUM> <RESOURCE>
 TID_OFFER_INFO_CONSUMABLES,,<NUM> <CONSUMABLE>,<NUM> <CONSUMABLE>
 TID_POPOVER_CLAN_CRATE,,<NUM> Ящик,<NUM> Crate
 TID_POPOVER_CLAN_CRATE_MULTIPLE,,<NUM> Ящиков,<NUM> Crates
-TID_CLAN_DAILY_LOOT_POPOVER_HEADER,,Награды Клана за день:,Clan rewards today so far:
+TID_CLAN_DAILY_LOOT_POPOVER_HEADER,,Награды клана за сегодняшний день:,Clan rewards today so far:
 TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP_SINGULAR,,1 случайный предмет (для случайного воина),1 random item (for random troop)
 TID_OFFER_RANDOM_ITEM_FOR_RANDOM_TROOP,,<NUM> случайных предмета (для случайных воинов),<NUM> random items (for random troops)
 TID_OFFER_RANDOM_ITEM_FOR_TROOP_SINGULAR,,1 случайный предмет (для <TROOP>),1 random item (for <TROOP>)
@@ -1143,8 +1143,8 @@ TID_DUNGEON_5_NAME,,Лавовая Трещина,Lava Rift
 TID_DUNGEON_6_NAME,,Костяной Завал,Bone Cellar
 TID_BUTTON_ATTACK_DUNGEON_START,,Войти,Enter
 TID_BUTTON_ATTACK_DUNGEON_CONTINUE,,Продолжить,Continue
-TID_LEAGUE_SEASON_END_CHEST_DESCRIPTION,,\nЭта сезонная награда содержит:\n• <cF8A203><NUM_GOLD></c> Золота\n• <c3CB01D><NUM_GEMS></c> Гемов\n• <ce48810><NUM_TOKENS></c> Токенов Лиги\n• <ce048d8><NUM_ELIXIR></c> Эликсира... или даже больше золота!,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!
-TID_CLAN_LEAGUE_SEASON_END_CHEST_DESCRIPTION,,\nЭта сезонная награда содержит:\n• <cF8A203><NUM_GOLD></c> Золота\n• <c3CB01D><NUM_GEMS></c> Гемов\n• <ce48810><NUM_TOKENS></c> Токенов Лиги\n• <ce048d8><NUM_ELIXIR></c> Эликсира... или даже больше золота!,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!
+TID_LEAGUE_SEASON_END_CHEST_DESCRIPTION,,\nЭта сезонная награда содержит:\n• <cF8A203><NUM_GOLD></c> Золота\n• <c3CB01D><NUM_GEMS></c> Гемов\n• <ce48810><NUM_TOKENS></c> Токен(-а) Лиги\n• <ce048d8><NUM_ELIXIR></c> Эликсира... или даже больше золота!,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce48810><NUM_TOKENS></c> League Tokens\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!
+TID_CLAN_LEAGUE_SEASON_END_CHEST_DESCRIPTION,,\nЭта сезонная награда содержит:\n• <cF8A203><NUM_GOLD></c> Золота\n• <c3CB01D><NUM_GEMS></c> Гемов\n• <ce048d8><NUM_ELIXIR></c> Эликсира... или даже больше золота!,\nThis season end reward contains:\n• <cF8A203><NUM_GOLD></c> Gold\n• <c3CB01D><NUM_GEMS></c> Gems\n• <ce048d8><NUM_ELIXIR></c> Elixir... or even more gold!
 TID_TREASURE_MAP,,Компасс,Compass
 TID_INFO_TREASURE_MAP,,Изучи Подземелье с сокровищами на карте!,Discover a Treasure Dungeon on the map!
 TID_SHOP_DEAL_TREASURE_MAP,,Компасс,Compass
@@ -1190,9 +1190,9 @@ TID_CLAN_CHALLENGE_ALREADY_PLAYED_TODAY,,На сегодня ты уже исп�
 TID_CLAN_CHALLENGE_DAY_OVER,,День Клановой Лиги закончен.,Clan League day is over.
 TID_CLAN_CHALLENGE_SEASON_OVER,,Сезон Клановой Лиги закончен.,Clan League season is over.
 TID_CLAN_CHALLENGE_SOMEONE_PLAYING,,Другой игрок уже играет.,Another player currently playing.
-TID_CLAN_CHALLENGE_TRY_COUNT_POPOVER,,Твой клан сделал <NUMBER> атак на этом Испытании.,Your Clan has made <NUMBER> Attacks on this Challenge.
+TID_CLAN_CHALLENGE_TRY_COUNT_POPOVER,,Твой клан сделал <NUMBER> атак(-и) на этом Испытании.,Your Clan has made <NUMBER> Attacks on this Challenge.
 TID_CLAN_CHALLENGE_TRY_COUNT_POPOVER_SINGULAR,,Твой клан сделал 1 атаку на этом Испытании.,Your Clan has made 1 Attack on this Challenge.
-TID_CLAN_CHALLENGE_TRY_COUNT_POPOVER_NONE,,Твой клан не сделал ни одной атаки на этом Испытании.,Your Clan hasn't made any Attacks on this Challenge yet.
+TID_CLAN_CHALLENGE_TRY_COUNT_POPOVER_NONE,,Твой клан еще не сделал ни одной атаки на этом Испытании.,Your Clan hasn't made any Attacks on this Challenge yet.
 TID_CLAN_CHALLENGE_COMPLETION_PERCENTAGE_POPOVER,,<NUMBER>% всего уровня было пройдено за лучшую попытку.,<NUMBER>% of the Level was completed on the best attempt.
 TID_CLAN_CHALLENGE_COMPLETION_PERCENTAGE_POPOVER_NO_ATTEMPTS,,Твой клан ни разу не пытался пройти этот уровень.,Your Clan hasn't attempted to clear this Level yet.
 TID_CLAN_CHALLENGE_BOSS_BAR_LABEL,,Здоровье: <NUMBER>%,Health: <NUMBER>%
